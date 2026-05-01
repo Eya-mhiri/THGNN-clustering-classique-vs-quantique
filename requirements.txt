@@ -1,21 +1,33 @@
-# Graphes
+# Core
+numpy
+pandas
+scipy
+tqdm
+
+# PyTorch & Graphes
 torch
 torch-geometric
+
+# NLP & Features
+transformers
+sentence-transformers
+
+# Graph Analysis
+networkx==3.6.1
+scikit-learn
 
 # Quantique
 pennylane
 
 # Clustering
 hdbscan
-scikit-learn
 
 # Visualisation
 streamlit
 plotly
+matplotlib
+seaborn
 umap-learn
 
 # Utilitaires
-numpy
-pandas
-tqdm
 kaggle
