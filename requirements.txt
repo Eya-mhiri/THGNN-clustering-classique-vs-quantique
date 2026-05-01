@@ -1,0 +1,21 @@
+# Graphes
+torch
+torch-geometric
+
+# Quantique
+pennylane
+
+# Clustering
+hdbscan
+scikit-learn
+
+# Visualisation
+streamlit
+plotly
+umap-learn
+
+# Utilitaires
+numpy
+pandas
+tqdm
+kaggle
