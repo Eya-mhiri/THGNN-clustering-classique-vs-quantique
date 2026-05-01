@@ -92,10 +92,10 @@ data/
     │  HDBSCAN            │   Encodage → HDBSCAN      │
     └─────────────────────┴──────────────────────────┘
         ↓
-   Comparaison : Silhouette Score, Davies-Bouldin Index, Bruit (noise ratio)
+     Comparaison : Silhouette Score, Davies-Bouldin Index, Bruit (noise ratio)
                 + Interprétation des communautés générées
         ↓
-    Interface Streamlit
+     Interface Streamlit
 
 ---
 
