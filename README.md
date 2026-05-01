@@ -51,7 +51,8 @@ Ou télécharge manuellement depuis :
 
 Structure du dataset :
 
-  data/
+```
+data/
 ├── selected_papers_full.jsonl
 ├── edges/
 │   ├── edges_author_author.jsonl
@@ -74,7 +75,7 @@ Structure du dataset :
     ├── snapshot_2023.pt
     ├── snapshot_2024.pt
     └── snapshot_2025.pt
-        
+```
 
 ---
 
