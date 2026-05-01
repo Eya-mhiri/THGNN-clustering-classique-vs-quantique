@@ -36,61 +36,61 @@
     }
   },
   "quantum": {
-    "angle_2025": {
-      "encoding": "angle",
+    "amplitude_2025": {
+      "encoding": "amplitude",
       "year": 2025,
-      "n_clusters": 39,
-      "noise": 23456,
-      "noise_pct": 19.9,
-      "silhouette": -0.058512989431619644,
-      "davies_bouldin": 0.6987996483965493,
-      "calinski_harabasz": 5316.2734375,
+      "n_clusters": 69,
+      "noise": 40713,
+      "noise_pct": 34.54,
+      "silhouette": 0.31562304496765137,
+      "davies_bouldin": 0.7647565796290027,
+      "calinski_harabasz": 41338.21875,
       "total_authors": 117870,
       "delta_vs_classic": {
-        "silhouette": -0.4925,
-        "davies_bouldin": -0.0012,
-        "noise_pct": -21.1
+        "silhouette": -0.1184,
+        "davies_bouldin": 0.0648,
+        "noise_pct": -6.46
       },
       "top10_clusters": [
         {
-          "cluster_id": 38,
-          "size": 59622
-        },
-        {
-          "cluster_id": 37,
-          "size": 3743
-        },
-        {
-          "cluster_id": 7,
-          "size": 2741
-        },
-        {
-          "cluster_id": 9,
-          "size": 2711
-        },
-        {
           "cluster_id": 30,
-          "size": 2333
+          "size": 11640
         },
         {
-          "cluster_id": 33,
-          "size": 1777
+          "cluster_id": 1,
+          "size": 4156
         },
         {
-          "cluster_id": 6,
-          "size": 1526
+          "cluster_id": 60,
+          "size": 3682
         },
         {
-          "cluster_id": 24,
-          "size": 1431
+          "cluster_id": 39,
+          "size": 3647
         },
         {
-          "cluster_id": 16,
-          "size": 1380
+          "cluster_id": 23,
+          "size": 3078
         },
         {
-          "cluster_id": 22,
-          "size": 1356
+          "cluster_id": 44,
+          "size": 2889
+        },
+        {
+          "cluster_id": 12,
+          "size": 2792
+        },
+        {
+          "cluster_id": 58,
+          "size": 2607
+        },
+        {
+          "cluster_id": 25,
+          "size": 2535
+        },
+        {
+          "cluster_id": 67,
+          "size": 2358
         }
       ]
     }
