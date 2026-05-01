@@ -1,0 +1,98 @@
+{
+  "description": "Quantum vs Classic clustering \u2014 THGNN DBLP",
+  "vqc_config": {
+    "n_qubits": 7,
+    "n_layers": 3,
+    "pca_dim": 7,
+    "n_epochs": 40,
+    "lr": 0.005,
+    "batch_size": 1024,
+    "k_nn": 15,
+    "lambda_compact": 0.4,
+    "train_sub": 20000,
+    "infer_sub": 30000,
+    "backend": "lightning.qubit"
+  },
+  "hdbscan_params": {
+    "min_cluster_size": 300,
+    "min_samples": 30,
+    "umap_n_neighbors": 15,
+    "umap_metric": "cosine"
+  },
+  "baseline": {
+    "2024": {
+      "silhouette": 0.346,
+      "davies_bouldin": 0.631,
+      "noise_pct": 29.0,
+      "n_clusters": 107,
+      "calinski_harabasz": 61670.0
+    },
+    "2025": {
+      "silhouette": 0.434,
+      "davies_bouldin": 0.7,
+      "noise_pct": 41.0,
+      "n_clusters": 66,
+      "calinski_harabasz": 66597.0
+    }
+  },
+  "quantum": {
+    "angle_2024": {
+      "encoding": "angle",
+      "year": 2024,
+      "n_clusters": 141,
+      "noise": 79201,
+      "noise_pct": 32.18,
+      "silhouette": 0.27042582631111145,
+      "davies_bouldin": 0.718797803092215,
+      "calinski_harabasz": 42357.1796875,
+      "total_authors": 246113,
+      "delta_vs_classic": {
+        "silhouette": -0.0756,
+        "davies_bouldin": 0.0878,
+        "noise_pct": 3.18
+      },
+      "top10_clusters": [
+        {
+          "cluster_id": 59,
+          "size": 21968
+        },
+        {
+          "cluster_id": 73,
+          "size": 6598
+        },
+        {
+          "cluster_id": 27,
+          "size": 6302
+        },
+        {
+          "cluster_id": 33,
+          "size": 5095
+        },
+        {
+          "cluster_id": 29,
+          "size": 3913
+        },
+        {
+          "cluster_id": 87,
+          "size": 3698
+        },
+        {
+          "cluster_id": 102,
+          "size": 3630
+        },
+        {
+          "cluster_id": 53,
+          "size": 3509
+        },
+        {
+          "cluster_id": 105,
+          "size": 3397
+        },
+        {
+          "cluster_id": 4,
+          "size": 3209
+        }
+      ]
+    }
+  }
+}

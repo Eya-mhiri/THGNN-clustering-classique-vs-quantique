@@ -1,0 +1,4619 @@
+{
+  "checkpoint": "/kaggle/input/datasets/ayamhiri/bestmodele/checkpoints_progress.pt",
+  "years": [
+    2024,
+    2025
+  ],
+  "params": {
+    "min_cluster_size": 300,
+    "min_samples": 30,
+    "umap_n_neighbors": 15,
+    "umap_metric": "cosine"
+  },
+  "metrics": [
+    {
+      "year": 2024,
+      "n_clusters": 107,
+      "noise": 71359,
+      "noise_pct": 28.99,
+      "silhouette": 0.3459915518760681,
+      "davies_bouldin": 0.6308699269477149,
+      "calinski_harabasz": 61629.95703125,
+      "min_cluster_size": 300,
+      "min_samples": 30,
+      "umap_n_neighbors": 15,
+      "total_authors": 246113,
+      "top10_clusters": [
+        {
+          "cluster_id": 18,
+          "size": 24275
+        },
+        {
+          "cluster_id": 56,
+          "size": 16382
+        },
+        {
+          "cluster_id": 23,
+          "size": 12083
+        },
+        {
+          "cluster_id": 66,
+          "size": 8591
+        },
+        {
+          "cluster_id": 61,
+          "size": 4956
+        },
+        {
+          "cluster_id": 99,
+          "size": 4636
+        },
+        {
+          "cluster_id": 14,
+          "size": 4156
+        },
+        {
+          "cluster_id": 87,
+          "size": 4077
+        },
+        {
+          "cluster_id": 31,
+          "size": 3757
+        },
+        {
+          "cluster_id": 71,
+          "size": 3471
+        }
+      ],
+      "communities": {
+        "0": {
+          "cluster_id": 0,
+          "size": 386,
+          "top_neighbors": [
+            {
+              "cluster": 2,
+              "similarity": 0.7862779498100281
+            },
+            {
+              "cluster": 1,
+              "similarity": 0.5000161528587341
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.38584375381469727
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.3625034689903259
+            },
+            {
+              "cluster": 58,
+              "similarity": 0.3523544669151306
+            }
+          ]
+        },
+        "1": {
+          "cluster_id": 1,
+          "size": 1586,
+          "top_neighbors": [
+            {
+              "cluster": 14,
+              "similarity": 0.707671046257019
+            },
+            {
+              "cluster": 49,
+              "similarity": 0.6234112977981567
+            },
+            {
+              "cluster": 54,
+              "similarity": 0.523722231388092
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.5129976868629456
+            },
+            {
+              "cluster": 0,
+              "similarity": 0.5000161528587341
+            }
+          ]
+        },
+        "2": {
+          "cluster_id": 2,
+          "size": 1848,
+          "top_neighbors": [
+            {
+              "cluster": 0,
+              "similarity": 0.7862779498100281
+            }
+          ]
+        },
+        "3": {
+          "cluster_id": 3,
+          "size": 408,
+          "top_neighbors": [
+            {
+              "cluster": 87,
+              "similarity": 0.8280282020568848
+            },
+            {
+              "cluster": 5,
+              "similarity": 0.7314830422401428
+            },
+            {
+              "cluster": 68,
+              "similarity": 0.6975948214530945
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.6917500495910645
+            },
+            {
+              "cluster": 76,
+              "similarity": 0.6561015248298645
+            }
+          ]
+        },
+        "4": {
+          "cluster_id": 4,
+          "size": 535,
+          "top_neighbors": [
+            {
+              "cluster": 13,
+              "similarity": 0.5852616429328918
+            },
+            {
+              "cluster": 14,
+              "similarity": 0.5815870761871338
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.5741100311279297
+            },
+            {
+              "cluster": 15,
+              "similarity": 0.5348380208015442
+            },
+            {
+              "cluster": 21,
+              "similarity": 0.5157493352890015
+            }
+          ]
+        },
+        "5": {
+          "cluster_id": 5,
+          "size": 359,
+          "top_neighbors": [
+            {
+              "cluster": 87,
+              "similarity": 0.8187907934188843
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.7314830422401428
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.6995600461959839
+            },
+            {
+              "cluster": 68,
+              "similarity": 0.6815727949142456
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.6728400588035583
+            }
+          ]
+        },
+        "6": {
+          "cluster_id": 6,
+          "size": 674,
+          "top_neighbors": [
+            {
+              "cluster": 7,
+              "similarity": 0.867224931716919
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.7026563286781311
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.7016520500183105
+            },
+            {
+              "cluster": 8,
+              "similarity": 0.6970237493515015
+            },
+            {
+              "cluster": 13,
+              "similarity": 0.6877147555351257
+            }
+          ]
+        },
+        "7": {
+          "cluster_id": 7,
+          "size": 471,
+          "top_neighbors": [
+            {
+              "cluster": 6,
+              "similarity": 0.867224931716919
+            },
+            {
+              "cluster": 8,
+              "similarity": 0.782075822353363
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.7743212580680847
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.7460163235664368
+            },
+            {
+              "cluster": 13,
+              "similarity": 0.743204653263092
+            }
+          ]
+        },
+        "8": {
+          "cluster_id": 8,
+          "size": 302,
+          "top_neighbors": [
+            {
+              "cluster": 11,
+              "similarity": 0.8796395659446716
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.8407976031303406
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.8382527828216553
+            },
+            {
+              "cluster": 13,
+              "similarity": 0.8258143067359924
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.782075822353363
+            }
+          ]
+        },
+        "9": {
+          "cluster_id": 9,
+          "size": 401,
+          "top_neighbors": [
+            {
+              "cluster": 87,
+              "similarity": 0.787367582321167
+            },
+            {
+              "cluster": 86,
+              "similarity": 0.7420271635055542
+            },
+            {
+              "cluster": 8,
+              "similarity": 0.7021169066429138
+            },
+            {
+              "cluster": 5,
+              "similarity": 0.6995600461959839
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.6917500495910645
+            }
+          ]
+        },
+        "10": {
+          "cluster_id": 10,
+          "size": 1772,
+          "top_neighbors": [
+            {
+              "cluster": 11,
+              "similarity": 0.8888916373252869
+            },
+            {
+              "cluster": 8,
+              "similarity": 0.8407976031303406
+            },
+            {
+              "cluster": 13,
+              "similarity": 0.8361003398895264
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.8029389977455139
+            },
+            {
+              "cluster": 22,
+              "similarity": 0.7827639579772949
+            }
+          ]
+        },
+        "11": {
+          "cluster_id": 11,
+          "size": 981,
+          "top_neighbors": [
+            {
+              "cluster": 10,
+              "similarity": 0.8888916373252869
+            },
+            {
+              "cluster": 8,
+              "similarity": 0.8796395659446716
+            },
+            {
+              "cluster": 13,
+              "similarity": 0.8336285948753357
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.8322435617446899
+            },
+            {
+              "cluster": 12,
+              "similarity": 0.7895324230194092
+            }
+          ]
+        },
+        "12": {
+          "cluster_id": 12,
+          "size": 677,
+          "top_neighbors": [
+            {
+              "cluster": 11,
+              "similarity": 0.7895324230194092
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.7820466756820679
+            },
+            {
+              "cluster": 17,
+              "similarity": 0.7723583579063416
+            },
+            {
+              "cluster": 8,
+              "similarity": 0.7593708038330078
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.7409666180610657
+            }
+          ]
+        },
+        "13": {
+          "cluster_id": 13,
+          "size": 521,
+          "top_neighbors": [
+            {
+              "cluster": 10,
+              "similarity": 0.8361003398895264
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.8336285948753357
+            },
+            {
+              "cluster": 8,
+              "similarity": 0.8258143067359924
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.8242865800857544
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.743204653263092
+            }
+          ]
+        },
+        "14": {
+          "cluster_id": 14,
+          "size": 4156,
+          "top_neighbors": [
+            {
+              "cluster": 1,
+              "similarity": 0.707671046257019
+            },
+            {
+              "cluster": 44,
+              "similarity": 0.6658085584640503
+            },
+            {
+              "cluster": 49,
+              "similarity": 0.6324402689933777
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.6025447845458984
+            },
+            {
+              "cluster": 24,
+              "similarity": 0.583377480506897
+            }
+          ]
+        },
+        "15": {
+          "cluster_id": 15,
+          "size": 2564,
+          "top_neighbors": [
+            {
+              "cluster": 85,
+              "similarity": 0.6307437419891357
+            },
+            {
+              "cluster": 93,
+              "similarity": 0.6260325312614441
+            },
+            {
+              "cluster": 94,
+              "similarity": 0.610092282295227
+            },
+            {
+              "cluster": 92,
+              "similarity": 0.579265832901001
+            },
+            {
+              "cluster": 95,
+              "similarity": 0.5778271555900574
+            }
+          ]
+        },
+        "16": {
+          "cluster_id": 16,
+          "size": 858,
+          "top_neighbors": [
+            {
+              "cluster": 8,
+              "similarity": 0.8382527828216553
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.8322435617446899
+            },
+            {
+              "cluster": 13,
+              "similarity": 0.8242865800857544
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.8029389977455139
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.7460163235664368
+            }
+          ]
+        },
+        "17": {
+          "cluster_id": 17,
+          "size": 1945,
+          "top_neighbors": [
+            {
+              "cluster": 12,
+              "similarity": 0.7723583579063416
+            },
+            {
+              "cluster": 81,
+              "similarity": 0.514740526676178
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.4994840621948242
+            },
+            {
+              "cluster": 32,
+              "similarity": 0.48485395312309265
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.47456124424934387
+            }
+          ]
+        },
+        "18": {
+          "cluster_id": 18,
+          "size": 24275,
+          "top_neighbors": [
+            {
+              "cluster": 7,
+              "similarity": 0.6698564291000366
+            },
+            {
+              "cluster": 8,
+              "similarity": 0.6438765525817871
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.6396295428276062
+            },
+            {
+              "cluster": 13,
+              "similarity": 0.6308429837226868
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.6250323057174683
+            }
+          ]
+        },
+        "19": {
+          "cluster_id": 19,
+          "size": 3132,
+          "top_neighbors": [
+            {
+              "cluster": 77,
+              "similarity": 0.6613830327987671
+            },
+            {
+              "cluster": 66,
+              "similarity": 0.6342777013778687
+            },
+            {
+              "cluster": 98,
+              "similarity": 0.6029420495033264
+            },
+            {
+              "cluster": 20,
+              "similarity": 0.5969257354736328
+            },
+            {
+              "cluster": 71,
+              "similarity": 0.5679675936698914
+            }
+          ]
+        },
+        "20": {
+          "cluster_id": 20,
+          "size": 634,
+          "top_neighbors": [
+            {
+              "cluster": 19,
+              "similarity": 0.5969257354736328
+            },
+            {
+              "cluster": 55,
+              "similarity": 0.5834216475486755
+            },
+            {
+              "cluster": 99,
+              "similarity": 0.5373184084892273
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.5337610840797424
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.5179221034049988
+            }
+          ]
+        },
+        "21": {
+          "cluster_id": 21,
+          "size": 561,
+          "top_neighbors": [
+            {
+              "cluster": 16,
+              "similarity": 0.6642764210700989
+            },
+            {
+              "cluster": 12,
+              "similarity": 0.6550079584121704
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.6497828960418701
+            },
+            {
+              "cluster": 13,
+              "similarity": 0.6380984783172607
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.6316952705383301
+            }
+          ]
+        },
+        "22": {
+          "cluster_id": 22,
+          "size": 649,
+          "top_neighbors": [
+            {
+              "cluster": 10,
+              "similarity": 0.7827639579772949
+            },
+            {
+              "cluster": 63,
+              "similarity": 0.6847314238548279
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.6374350190162659
+            },
+            {
+              "cluster": 93,
+              "similarity": 0.573495626449585
+            },
+            {
+              "cluster": 95,
+              "similarity": 0.5641706585884094
+            }
+          ]
+        },
+        "23": {
+          "cluster_id": 23,
+          "size": 12083,
+          "top_neighbors": [
+            {
+              "cluster": 13,
+              "similarity": 0.7175745368003845
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.5783295035362244
+            },
+            {
+              "cluster": 21,
+              "similarity": 0.5701799392700195
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.5576522350311279
+            },
+            {
+              "cluster": 8,
+              "similarity": 0.5530354976654053
+            }
+          ]
+        },
+        "24": {
+          "cluster_id": 24,
+          "size": 1140,
+          "top_neighbors": [
+            {
+              "cluster": 39,
+              "similarity": 0.7042773962020874
+            },
+            {
+              "cluster": 37,
+              "similarity": 0.6716974973678589
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.6181185245513916
+            },
+            {
+              "cluster": 14,
+              "similarity": 0.583377480506897
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.49187105894088745
+            }
+          ]
+        },
+        "25": {
+          "cluster_id": 25,
+          "size": 774,
+          "top_neighbors": [
+            {
+              "cluster": 46,
+              "similarity": 0.7295839786529541
+            },
+            {
+              "cluster": 55,
+              "similarity": 0.6451795697212219
+            },
+            {
+              "cluster": 65,
+              "similarity": 0.6145780086517334
+            },
+            {
+              "cluster": 21,
+              "similarity": 0.6112459301948547
+            },
+            {
+              "cluster": 90,
+              "similarity": 0.6025163531303406
+            }
+          ]
+        },
+        "26": {
+          "cluster_id": 26,
+          "size": 2942,
+          "top_neighbors": [
+            {
+              "cluster": 31,
+              "similarity": 0.6452335715293884
+            },
+            {
+              "cluster": 60,
+              "similarity": 0.5831654667854309
+            },
+            {
+              "cluster": 28,
+              "similarity": 0.5617837905883789
+            },
+            {
+              "cluster": 29,
+              "similarity": 0.5537261366844177
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.5342528820037842
+            }
+          ]
+        },
+        "27": {
+          "cluster_id": 27,
+          "size": 735,
+          "top_neighbors": [
+            {
+              "cluster": 29,
+              "similarity": 0.7820128798484802
+            },
+            {
+              "cluster": 75,
+              "similarity": 0.6513835787773132
+            },
+            {
+              "cluster": 47,
+              "similarity": 0.6365585327148438
+            },
+            {
+              "cluster": 88,
+              "similarity": 0.5841776728630066
+            },
+            {
+              "cluster": 28,
+              "similarity": 0.5646180510520935
+            }
+          ]
+        },
+        "28": {
+          "cluster_id": 28,
+          "size": 1586,
+          "top_neighbors": [
+            {
+              "cluster": 29,
+              "similarity": 0.8489554524421692
+            },
+            {
+              "cluster": 31,
+              "similarity": 0.6895790696144104
+            },
+            {
+              "cluster": 27,
+              "similarity": 0.5646180510520935
+            },
+            {
+              "cluster": 26,
+              "similarity": 0.5617837905883789
+            },
+            {
+              "cluster": 30,
+              "similarity": 0.5345863103866577
+            }
+          ]
+        },
+        "29": {
+          "cluster_id": 29,
+          "size": 790,
+          "top_neighbors": [
+            {
+              "cluster": 28,
+              "similarity": 0.8489554524421692
+            },
+            {
+              "cluster": 27,
+              "similarity": 0.7820128798484802
+            },
+            {
+              "cluster": 75,
+              "similarity": 0.6044752597808838
+            },
+            {
+              "cluster": 47,
+              "similarity": 0.5870921611785889
+            },
+            {
+              "cluster": 26,
+              "similarity": 0.5537261366844177
+            }
+          ]
+        },
+        "30": {
+          "cluster_id": 30,
+          "size": 559,
+          "top_neighbors": [
+            {
+              "cluster": 42,
+              "similarity": 0.7804673910140991
+            },
+            {
+              "cluster": 31,
+              "similarity": 0.758903443813324
+            },
+            {
+              "cluster": 41,
+              "similarity": 0.5715904831886292
+            },
+            {
+              "cluster": 50,
+              "similarity": 0.5657238364219666
+            },
+            {
+              "cluster": 28,
+              "similarity": 0.5345863103866577
+            }
+          ]
+        },
+        "31": {
+          "cluster_id": 31,
+          "size": 3757,
+          "top_neighbors": [
+            {
+              "cluster": 30,
+              "similarity": 0.758903443813324
+            },
+            {
+              "cluster": 28,
+              "similarity": 0.6895790696144104
+            },
+            {
+              "cluster": 26,
+              "similarity": 0.6452335715293884
+            },
+            {
+              "cluster": 60,
+              "similarity": 0.5501598119735718
+            },
+            {
+              "cluster": 13,
+              "similarity": 0.5105289220809937
+            }
+          ]
+        },
+        "32": {
+          "cluster_id": 32,
+          "size": 829,
+          "top_neighbors": [
+            {
+              "cluster": 9,
+              "similarity": 0.6792050004005432
+            },
+            {
+              "cluster": 86,
+              "similarity": 0.6773209571838379
+            },
+            {
+              "cluster": 87,
+              "similarity": 0.6179311275482178
+            },
+            {
+              "cluster": 5,
+              "similarity": 0.5494189858436584
+            },
+            {
+              "cluster": 8,
+              "similarity": 0.5426697731018066
+            }
+          ]
+        },
+        "33": {
+          "cluster_id": 33,
+          "size": 592,
+          "top_neighbors": [
+            {
+              "cluster": 59,
+              "similarity": 0.772921085357666
+            },
+            {
+              "cluster": 106,
+              "similarity": 0.6601748466491699
+            },
+            {
+              "cluster": 58,
+              "similarity": 0.6425824165344238
+            },
+            {
+              "cluster": 104,
+              "similarity": 0.6168195605278015
+            },
+            {
+              "cluster": 53,
+              "similarity": 0.5685312151908875
+            }
+          ]
+        },
+        "34": {
+          "cluster_id": 34,
+          "size": 534,
+          "top_neighbors": [
+            {
+              "cluster": 84,
+              "similarity": 0.751284122467041
+            },
+            {
+              "cluster": 76,
+              "similarity": 0.6508492231369019
+            },
+            {
+              "cluster": 52,
+              "similarity": 0.5411061644554138
+            },
+            {
+              "cluster": 18,
+              "similarity": 0.5244791507720947
+            },
+            {
+              "cluster": 77,
+              "similarity": 0.506790041923523
+            }
+          ]
+        },
+        "35": {
+          "cluster_id": 35,
+          "size": 383,
+          "top_neighbors": [
+            {
+              "cluster": 36,
+              "similarity": 0.7582010626792908
+            },
+            {
+              "cluster": 53,
+              "similarity": 0.5575007796287537
+            },
+            {
+              "cluster": 45,
+              "similarity": 0.5359486937522888
+            },
+            {
+              "cluster": 21,
+              "similarity": 0.510696291923523
+            },
+            {
+              "cluster": 17,
+              "similarity": 0.472596675157547
+            }
+          ]
+        },
+        "36": {
+          "cluster_id": 36,
+          "size": 643,
+          "top_neighbors": [
+            {
+              "cluster": 45,
+              "similarity": 0.797873318195343
+            },
+            {
+              "cluster": 35,
+              "similarity": 0.7582010626792908
+            },
+            {
+              "cluster": 53,
+              "similarity": 0.6516475081443787
+            },
+            {
+              "cluster": 54,
+              "similarity": 0.6268665790557861
+            },
+            {
+              "cluster": 12,
+              "similarity": 0.45222869515419006
+            }
+          ]
+        },
+        "37": {
+          "cluster_id": 37,
+          "size": 402,
+          "top_neighbors": [
+            {
+              "cluster": 39,
+              "similarity": 0.8016492128372192
+            },
+            {
+              "cluster": 24,
+              "similarity": 0.6716974973678589
+            },
+            {
+              "cluster": 13,
+              "similarity": 0.5331082940101624
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.4950697422027588
+            },
+            {
+              "cluster": 23,
+              "similarity": 0.49079588055610657
+            }
+          ]
+        },
+        "38": {
+          "cluster_id": 38,
+          "size": 391,
+          "top_neighbors": [
+            {
+              "cluster": 40,
+              "similarity": 0.8278372883796692
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.7796607613563538
+            },
+            {
+              "cluster": 43,
+              "similarity": 0.7537689805030823
+            },
+            {
+              "cluster": 55,
+              "similarity": 0.66499924659729
+            },
+            {
+              "cluster": 39,
+              "similarity": 0.6012734770774841
+            }
+          ]
+        },
+        "39": {
+          "cluster_id": 39,
+          "size": 952,
+          "top_neighbors": [
+            {
+              "cluster": 37,
+              "similarity": 0.8016492128372192
+            },
+            {
+              "cluster": 24,
+              "similarity": 0.7042773962020874
+            },
+            {
+              "cluster": 40,
+              "similarity": 0.6581252217292786
+            },
+            {
+              "cluster": 38,
+              "similarity": 0.6012734770774841
+            },
+            {
+              "cluster": 21,
+              "similarity": 0.5434529781341553
+            }
+          ]
+        },
+        "40": {
+          "cluster_id": 40,
+          "size": 648,
+          "top_neighbors": [
+            {
+              "cluster": 38,
+              "similarity": 0.8278372883796692
+            },
+            {
+              "cluster": 55,
+              "similarity": 0.6796225905418396
+            },
+            {
+              "cluster": 39,
+              "similarity": 0.6581252217292786
+            },
+            {
+              "cluster": 90,
+              "similarity": 0.6289560198783875
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.6270469427108765
+            }
+          ]
+        },
+        "41": {
+          "cluster_id": 41,
+          "size": 1565,
+          "top_neighbors": [
+            {
+              "cluster": 42,
+              "similarity": 0.7818705439567566
+            },
+            {
+              "cluster": 30,
+              "similarity": 0.5715904831886292
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.5563356280326843
+            },
+            {
+              "cluster": 95,
+              "similarity": 0.5377865433692932
+            },
+            {
+              "cluster": 96,
+              "similarity": 0.5365307331085205
+            }
+          ]
+        },
+        "42": {
+          "cluster_id": 42,
+          "size": 1910,
+          "top_neighbors": [
+            {
+              "cluster": 41,
+              "similarity": 0.7818705439567566
+            },
+            {
+              "cluster": 30,
+              "similarity": 0.7804673910140991
+            },
+            {
+              "cluster": 47,
+              "similarity": 0.6089615821838379
+            },
+            {
+              "cluster": 27,
+              "similarity": 0.5622979998588562
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.523093044757843
+            }
+          ]
+        },
+        "43": {
+          "cluster_id": 43,
+          "size": 2169,
+          "top_neighbors": [
+            {
+              "cluster": 38,
+              "similarity": 0.7537689805030823
+            },
+            {
+              "cluster": 55,
+              "similarity": 0.6326202154159546
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.5815469026565552
+            },
+            {
+              "cluster": 102,
+              "similarity": 0.5632119178771973
+            },
+            {
+              "cluster": 21,
+              "similarity": 0.5419408082962036
+            }
+          ]
+        },
+        "44": {
+          "cluster_id": 44,
+          "size": 412,
+          "top_neighbors": [
+            {
+              "cluster": 45,
+              "similarity": 0.6975719928741455
+            },
+            {
+              "cluster": 14,
+              "similarity": 0.6658085584640503
+            },
+            {
+              "cluster": 77,
+              "similarity": 0.6416120529174805
+            },
+            {
+              "cluster": 66,
+              "similarity": 0.5995733141899109
+            },
+            {
+              "cluster": 76,
+              "similarity": 0.513375461101532
+            }
+          ]
+        },
+        "45": {
+          "cluster_id": 45,
+          "size": 1048,
+          "top_neighbors": [
+            {
+              "cluster": 36,
+              "similarity": 0.797873318195343
+            },
+            {
+              "cluster": 44,
+              "similarity": 0.6975719928741455
+            },
+            {
+              "cluster": 66,
+              "similarity": 0.6227359175682068
+            },
+            {
+              "cluster": 54,
+              "similarity": 0.6045774221420288
+            },
+            {
+              "cluster": 35,
+              "similarity": 0.5359486937522888
+            }
+          ]
+        },
+        "46": {
+          "cluster_id": 46,
+          "size": 732,
+          "top_neighbors": [
+            {
+              "cluster": 25,
+              "similarity": 0.7295839786529541
+            },
+            {
+              "cluster": 56,
+              "similarity": 0.6110319495201111
+            },
+            {
+              "cluster": 15,
+              "similarity": 0.563146710395813
+            },
+            {
+              "cluster": 21,
+              "similarity": 0.5565831661224365
+            },
+            {
+              "cluster": 65,
+              "similarity": 0.5424708724021912
+            }
+          ]
+        },
+        "47": {
+          "cluster_id": 47,
+          "size": 1382,
+          "top_neighbors": [
+            {
+              "cluster": 27,
+              "similarity": 0.6365585327148438
+            },
+            {
+              "cluster": 48,
+              "similarity": 0.6232307553291321
+            },
+            {
+              "cluster": 42,
+              "similarity": 0.6089615821838379
+            },
+            {
+              "cluster": 29,
+              "similarity": 0.5870921611785889
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.5730909705162048
+            }
+          ]
+        },
+        "48": {
+          "cluster_id": 48,
+          "size": 1193,
+          "top_neighbors": [
+            {
+              "cluster": 74,
+              "similarity": 0.7315433621406555
+            },
+            {
+              "cluster": 73,
+              "similarity": 0.6948907971382141
+            },
+            {
+              "cluster": 47,
+              "similarity": 0.6232307553291321
+            },
+            {
+              "cluster": 72,
+              "similarity": 0.6044347286224365
+            },
+            {
+              "cluster": 82,
+              "similarity": 0.506969153881073
+            }
+          ]
+        },
+        "49": {
+          "cluster_id": 49,
+          "size": 494,
+          "top_neighbors": [
+            {
+              "cluster": 14,
+              "similarity": 0.6324402689933777
+            },
+            {
+              "cluster": 1,
+              "similarity": 0.6234112977981567
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.5917915105819702
+            },
+            {
+              "cluster": 82,
+              "similarity": 0.49471086263656616
+            },
+            {
+              "cluster": 8,
+              "similarity": 0.49068936705589294
+            }
+          ]
+        },
+        "50": {
+          "cluster_id": 50,
+          "size": 824,
+          "top_neighbors": [
+            {
+              "cluster": 30,
+              "similarity": 0.5657238364219666
+            },
+            {
+              "cluster": 61,
+              "similarity": 0.5313066840171814
+            },
+            {
+              "cluster": 66,
+              "similarity": 0.5225765705108643
+            },
+            {
+              "cluster": 42,
+              "similarity": 0.5141264200210571
+            },
+            {
+              "cluster": 60,
+              "similarity": 0.5101093053817749
+            }
+          ]
+        },
+        "51": {
+          "cluster_id": 51,
+          "size": 679,
+          "top_neighbors": [
+            {
+              "cluster": 57,
+              "similarity": 0.7341035008430481
+            },
+            {
+              "cluster": 52,
+              "similarity": 0.7074269652366638
+            },
+            {
+              "cluster": 60,
+              "similarity": 0.6166931986808777
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.5597077012062073
+            },
+            {
+              "cluster": 87,
+              "similarity": 0.54353928565979
+            }
+          ]
+        },
+        "52": {
+          "cluster_id": 52,
+          "size": 1344,
+          "top_neighbors": [
+            {
+              "cluster": 51,
+              "similarity": 0.7074269652366638
+            },
+            {
+              "cluster": 60,
+              "similarity": 0.6428834795951843
+            },
+            {
+              "cluster": 84,
+              "similarity": 0.5572025775909424
+            },
+            {
+              "cluster": 34,
+              "similarity": 0.5411061644554138
+            },
+            {
+              "cluster": 89,
+              "similarity": 0.503476083278656
+            }
+          ]
+        },
+        "53": {
+          "cluster_id": 53,
+          "size": 3009,
+          "top_neighbors": [
+            {
+              "cluster": 36,
+              "similarity": 0.6516475081443787
+            },
+            {
+              "cluster": 59,
+              "similarity": 0.6008042097091675
+            },
+            {
+              "cluster": 54,
+              "similarity": 0.5800883173942566
+            },
+            {
+              "cluster": 33,
+              "similarity": 0.5685312151908875
+            },
+            {
+              "cluster": 35,
+              "similarity": 0.5575007796287537
+            }
+          ]
+        },
+        "54": {
+          "cluster_id": 54,
+          "size": 1025,
+          "top_neighbors": [
+            {
+              "cluster": 36,
+              "similarity": 0.6268665790557861
+            },
+            {
+              "cluster": 45,
+              "similarity": 0.6045774221420288
+            },
+            {
+              "cluster": 53,
+              "similarity": 0.5800883173942566
+            },
+            {
+              "cluster": 1,
+              "similarity": 0.523722231388092
+            },
+            {
+              "cluster": 87,
+              "similarity": 0.48469677567481995
+            }
+          ]
+        },
+        "55": {
+          "cluster_id": 55,
+          "size": 341,
+          "top_neighbors": [
+            {
+              "cluster": 40,
+              "similarity": 0.6796225905418396
+            },
+            {
+              "cluster": 38,
+              "similarity": 0.66499924659729
+            },
+            {
+              "cluster": 90,
+              "similarity": 0.6575567126274109
+            },
+            {
+              "cluster": 25,
+              "similarity": 0.6451795697212219
+            },
+            {
+              "cluster": 43,
+              "similarity": 0.6326202154159546
+            }
+          ]
+        },
+        "56": {
+          "cluster_id": 56,
+          "size": 16382,
+          "top_neighbors": [
+            {
+              "cluster": 65,
+              "similarity": 0.7607302069664001
+            },
+            {
+              "cluster": 46,
+              "similarity": 0.6110319495201111
+            },
+            {
+              "cluster": 66,
+              "similarity": 0.5860247015953064
+            },
+            {
+              "cluster": 12,
+              "similarity": 0.5227903723716736
+            },
+            {
+              "cluster": 13,
+              "similarity": 0.5073120594024658
+            }
+          ]
+        },
+        "57": {
+          "cluster_id": 57,
+          "size": 1736,
+          "top_neighbors": [
+            {
+              "cluster": 51,
+              "similarity": 0.7341035008430481
+            },
+            {
+              "cluster": 60,
+              "similarity": 0.6847057342529297
+            },
+            {
+              "cluster": 91,
+              "similarity": 0.5553852915763855
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.5378949642181396
+            },
+            {
+              "cluster": 61,
+              "similarity": 0.5348391532897949
+            }
+          ]
+        },
+        "58": {
+          "cluster_id": 58,
+          "size": 533,
+          "top_neighbors": [
+            {
+              "cluster": 59,
+              "similarity": 0.7804864048957825
+            },
+            {
+              "cluster": 33,
+              "similarity": 0.6425824165344238
+            },
+            {
+              "cluster": 53,
+              "similarity": 0.524814784526825
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.5175743699073792
+            },
+            {
+              "cluster": 47,
+              "similarity": 0.5078850984573364
+            }
+          ]
+        },
+        "59": {
+          "cluster_id": 59,
+          "size": 686,
+          "top_neighbors": [
+            {
+              "cluster": 58,
+              "similarity": 0.7804864048957825
+            },
+            {
+              "cluster": 33,
+              "similarity": 0.772921085357666
+            },
+            {
+              "cluster": 53,
+              "similarity": 0.6008042097091675
+            },
+            {
+              "cluster": 61,
+              "similarity": 0.49296414852142334
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.45033544301986694
+            }
+          ]
+        },
+        "60": {
+          "cluster_id": 60,
+          "size": 703,
+          "top_neighbors": [
+            {
+              "cluster": 61,
+              "similarity": 0.7357302904129028
+            },
+            {
+              "cluster": 57,
+              "similarity": 0.6847057342529297
+            },
+            {
+              "cluster": 74,
+              "similarity": 0.6443482041358948
+            },
+            {
+              "cluster": 52,
+              "similarity": 0.6428834795951843
+            },
+            {
+              "cluster": 91,
+              "similarity": 0.6267244219779968
+            }
+          ]
+        },
+        "61": {
+          "cluster_id": 61,
+          "size": 4956,
+          "top_neighbors": [
+            {
+              "cluster": 60,
+              "similarity": 0.7357302904129028
+            },
+            {
+              "cluster": 57,
+              "similarity": 0.5348391532897949
+            },
+            {
+              "cluster": 50,
+              "similarity": 0.5313066840171814
+            },
+            {
+              "cluster": 59,
+              "similarity": 0.49296414852142334
+            },
+            {
+              "cluster": 30,
+              "similarity": 0.4647761583328247
+            }
+          ]
+        },
+        "62": {
+          "cluster_id": 62,
+          "size": 1823,
+          "top_neighbors": [
+            {
+              "cluster": 66,
+              "similarity": 0.6089062690734863
+            },
+            {
+              "cluster": 65,
+              "similarity": 0.5845007300376892
+            },
+            {
+              "cluster": 77,
+              "similarity": 0.577289879322052
+            },
+            {
+              "cluster": 89,
+              "similarity": 0.48008275032043457
+            },
+            {
+              "cluster": 52,
+              "similarity": 0.4756595492362976
+            }
+          ]
+        },
+        "63": {
+          "cluster_id": 63,
+          "size": 530,
+          "top_neighbors": [
+            {
+              "cluster": 95,
+              "similarity": 0.7603367567062378
+            },
+            {
+              "cluster": 92,
+              "similarity": 0.701031506061554
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.6947583556175232
+            },
+            {
+              "cluster": 94,
+              "similarity": 0.6889605522155762
+            },
+            {
+              "cluster": 22,
+              "similarity": 0.6847314238548279
+            }
+          ]
+        },
+        "64": {
+          "cluster_id": 64,
+          "size": 307,
+          "top_neighbors": [
+            {
+              "cluster": 79,
+              "similarity": 0.851463794708252
+            },
+            {
+              "cluster": 38,
+              "similarity": 0.7796607613563538
+            },
+            {
+              "cluster": 78,
+              "similarity": 0.7244354486465454
+            },
+            {
+              "cluster": 40,
+              "similarity": 0.6270469427108765
+            },
+            {
+              "cluster": 86,
+              "similarity": 0.5790016651153564
+            }
+          ]
+        },
+        "65": {
+          "cluster_id": 65,
+          "size": 544,
+          "top_neighbors": [
+            {
+              "cluster": 56,
+              "similarity": 0.7607302069664001
+            },
+            {
+              "cluster": 66,
+              "similarity": 0.7378402948379517
+            },
+            {
+              "cluster": 25,
+              "similarity": 0.6145780086517334
+            },
+            {
+              "cluster": 62,
+              "similarity": 0.5845007300376892
+            },
+            {
+              "cluster": 46,
+              "similarity": 0.5424708724021912
+            }
+          ]
+        },
+        "66": {
+          "cluster_id": 66,
+          "size": 8591,
+          "top_neighbors": [
+            {
+              "cluster": 65,
+              "similarity": 0.7378402948379517
+            },
+            {
+              "cluster": 19,
+              "similarity": 0.6342777013778687
+            },
+            {
+              "cluster": 45,
+              "similarity": 0.6227359175682068
+            },
+            {
+              "cluster": 62,
+              "similarity": 0.6089062690734863
+            },
+            {
+              "cluster": 44,
+              "similarity": 0.5995733141899109
+            }
+          ]
+        },
+        "67": {
+          "cluster_id": 67,
+          "size": 463,
+          "top_neighbors": [
+            {
+              "cluster": 70,
+              "similarity": 0.7005287408828735
+            },
+            {
+              "cluster": 71,
+              "similarity": 0.6934757828712463
+            },
+            {
+              "cluster": 85,
+              "similarity": 0.622306227684021
+            },
+            {
+              "cluster": 96,
+              "similarity": 0.6156184077262878
+            },
+            {
+              "cluster": 69,
+              "similarity": 0.5896592140197754
+            }
+          ]
+        },
+        "68": {
+          "cluster_id": 68,
+          "size": 444,
+          "top_neighbors": [
+            {
+              "cluster": 3,
+              "similarity": 0.6975948214530945
+            },
+            {
+              "cluster": 87,
+              "similarity": 0.6823408007621765
+            },
+            {
+              "cluster": 5,
+              "similarity": 0.6815727949142456
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.6631643176078796
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.6230177879333496
+            }
+          ]
+        },
+        "69": {
+          "cluster_id": 69,
+          "size": 369,
+          "top_neighbors": [
+            {
+              "cluster": 96,
+              "similarity": 0.7782504558563232
+            },
+            {
+              "cluster": 71,
+              "similarity": 0.7159497141838074
+            },
+            {
+              "cluster": 70,
+              "similarity": 0.7151257991790771
+            },
+            {
+              "cluster": 93,
+              "similarity": 0.692764937877655
+            },
+            {
+              "cluster": 85,
+              "similarity": 0.6756175756454468
+            }
+          ]
+        },
+        "70": {
+          "cluster_id": 70,
+          "size": 436,
+          "top_neighbors": [
+            {
+              "cluster": 71,
+              "similarity": 0.815011203289032
+            },
+            {
+              "cluster": 85,
+              "similarity": 0.732759952545166
+            },
+            {
+              "cluster": 69,
+              "similarity": 0.7151257991790771
+            },
+            {
+              "cluster": 67,
+              "similarity": 0.7005287408828735
+            },
+            {
+              "cluster": 96,
+              "similarity": 0.6419503688812256
+            }
+          ]
+        },
+        "71": {
+          "cluster_id": 71,
+          "size": 3471,
+          "top_neighbors": [
+            {
+              "cluster": 70,
+              "similarity": 0.815011203289032
+            },
+            {
+              "cluster": 69,
+              "similarity": 0.7159497141838074
+            },
+            {
+              "cluster": 85,
+              "similarity": 0.6979050636291504
+            },
+            {
+              "cluster": 67,
+              "similarity": 0.6934757828712463
+            },
+            {
+              "cluster": 96,
+              "similarity": 0.6569709777832031
+            }
+          ]
+        },
+        "72": {
+          "cluster_id": 72,
+          "size": 874,
+          "top_neighbors": [
+            {
+              "cluster": 73,
+              "similarity": 0.8552147746086121
+            },
+            {
+              "cluster": 101,
+              "similarity": 0.7820263504981995
+            },
+            {
+              "cluster": 74,
+              "similarity": 0.7694725394248962
+            },
+            {
+              "cluster": 97,
+              "similarity": 0.6472139954566956
+            },
+            {
+              "cluster": 91,
+              "similarity": 0.6410394310951233
+            }
+          ]
+        },
+        "73": {
+          "cluster_id": 73,
+          "size": 1249,
+          "top_neighbors": [
+            {
+              "cluster": 74,
+              "similarity": 0.8903902769088745
+            },
+            {
+              "cluster": 72,
+              "similarity": 0.8552147746086121
+            },
+            {
+              "cluster": 48,
+              "similarity": 0.6948907971382141
+            },
+            {
+              "cluster": 60,
+              "similarity": 0.6211044192314148
+            },
+            {
+              "cluster": 101,
+              "similarity": 0.5922322869300842
+            }
+          ]
+        },
+        "74": {
+          "cluster_id": 74,
+          "size": 337,
+          "top_neighbors": [
+            {
+              "cluster": 73,
+              "similarity": 0.8903902769088745
+            },
+            {
+              "cluster": 72,
+              "similarity": 0.7694725394248962
+            },
+            {
+              "cluster": 48,
+              "similarity": 0.7315433621406555
+            },
+            {
+              "cluster": 60,
+              "similarity": 0.6443482041358948
+            },
+            {
+              "cluster": 50,
+              "similarity": 0.4946124255657196
+            }
+          ]
+        },
+        "75": {
+          "cluster_id": 75,
+          "size": 1072,
+          "top_neighbors": [
+            {
+              "cluster": 27,
+              "similarity": 0.6513835787773132
+            },
+            {
+              "cluster": 88,
+              "similarity": 0.614665150642395
+            },
+            {
+              "cluster": 29,
+              "similarity": 0.6044752597808838
+            },
+            {
+              "cluster": 81,
+              "similarity": 0.5900923013687134
+            },
+            {
+              "cluster": 83,
+              "similarity": 0.547279417514801
+            }
+          ]
+        },
+        "76": {
+          "cluster_id": 76,
+          "size": 527,
+          "top_neighbors": [
+            {
+              "cluster": 77,
+              "similarity": 0.7506816983222961
+            },
+            {
+              "cluster": 87,
+              "similarity": 0.7496032118797302
+            },
+            {
+              "cluster": 5,
+              "similarity": 0.6640046834945679
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.6561015248298645
+            },
+            {
+              "cluster": 34,
+              "similarity": 0.6508492231369019
+            }
+          ]
+        },
+        "77": {
+          "cluster_id": 77,
+          "size": 777,
+          "top_neighbors": [
+            {
+              "cluster": 76,
+              "similarity": 0.7506816983222961
+            },
+            {
+              "cluster": 19,
+              "similarity": 0.6613830327987671
+            },
+            {
+              "cluster": 44,
+              "similarity": 0.6416120529174805
+            },
+            {
+              "cluster": 84,
+              "similarity": 0.6353364586830139
+            },
+            {
+              "cluster": 62,
+              "similarity": 0.577289879322052
+            }
+          ]
+        },
+        "78": {
+          "cluster_id": 78,
+          "size": 340,
+          "top_neighbors": [
+            {
+              "cluster": 79,
+              "similarity": 0.9201244711875916
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.7244354486465454
+            },
+            {
+              "cluster": 83,
+              "similarity": 0.6291235089302063
+            },
+            {
+              "cluster": 86,
+              "similarity": 0.5921211242675781
+            },
+            {
+              "cluster": 82,
+              "similarity": 0.5542383790016174
+            }
+          ]
+        },
+        "79": {
+          "cluster_id": 79,
+          "size": 877,
+          "top_neighbors": [
+            {
+              "cluster": 78,
+              "similarity": 0.9201244711875916
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.851463794708252
+            },
+            {
+              "cluster": 86,
+              "similarity": 0.6412312984466553
+            },
+            {
+              "cluster": 38,
+              "similarity": 0.5598390102386475
+            },
+            {
+              "cluster": 83,
+              "similarity": 0.5462949872016907
+            }
+          ]
+        },
+        "80": {
+          "cluster_id": 80,
+          "size": 443,
+          "top_neighbors": [
+            {
+              "cluster": 103,
+              "similarity": 0.9175212383270264
+            },
+            {
+              "cluster": 91,
+              "similarity": 0.8053092360496521
+            },
+            {
+              "cluster": 101,
+              "similarity": 0.7923147082328796
+            },
+            {
+              "cluster": 105,
+              "similarity": 0.7626518607139587
+            },
+            {
+              "cluster": 106,
+              "similarity": 0.6498807668685913
+            }
+          ]
+        },
+        "81": {
+          "cluster_id": 81,
+          "size": 938,
+          "top_neighbors": [
+            {
+              "cluster": 82,
+              "similarity": 0.7812421917915344
+            },
+            {
+              "cluster": 83,
+              "similarity": 0.6162781715393066
+            },
+            {
+              "cluster": 75,
+              "similarity": 0.5900923013687134
+            },
+            {
+              "cluster": 17,
+              "similarity": 0.514740526676178
+            },
+            {
+              "cluster": 53,
+              "similarity": 0.5137679576873779
+            }
+          ]
+        },
+        "82": {
+          "cluster_id": 82,
+          "size": 681,
+          "top_neighbors": [
+            {
+              "cluster": 81,
+              "similarity": 0.7812421917915344
+            },
+            {
+              "cluster": 83,
+              "similarity": 0.661200761795044
+            },
+            {
+              "cluster": 78,
+              "similarity": 0.5542383790016174
+            },
+            {
+              "cluster": 75,
+              "similarity": 0.5437432527542114
+            },
+            {
+              "cluster": 53,
+              "similarity": 0.522275447845459
+            }
+          ]
+        },
+        "83": {
+          "cluster_id": 83,
+          "size": 2911,
+          "top_neighbors": [
+            {
+              "cluster": 82,
+              "similarity": 0.661200761795044
+            },
+            {
+              "cluster": 86,
+              "similarity": 0.6332384943962097
+            },
+            {
+              "cluster": 78,
+              "similarity": 0.6291235089302063
+            },
+            {
+              "cluster": 81,
+              "similarity": 0.6162781715393066
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.552179753780365
+            }
+          ]
+        },
+        "84": {
+          "cluster_id": 84,
+          "size": 401,
+          "top_neighbors": [
+            {
+              "cluster": 89,
+              "similarity": 0.779884934425354
+            },
+            {
+              "cluster": 34,
+              "similarity": 0.751284122467041
+            },
+            {
+              "cluster": 88,
+              "similarity": 0.6723104119300842
+            },
+            {
+              "cluster": 77,
+              "similarity": 0.6353364586830139
+            },
+            {
+              "cluster": 99,
+              "similarity": 0.6292831301689148
+            }
+          ]
+        },
+        "85": {
+          "cluster_id": 85,
+          "size": 512,
+          "top_neighbors": [
+            {
+              "cluster": 92,
+              "similarity": 0.858244001865387
+            },
+            {
+              "cluster": 94,
+              "similarity": 0.7586802840232849
+            },
+            {
+              "cluster": 70,
+              "similarity": 0.732759952545166
+            },
+            {
+              "cluster": 95,
+              "similarity": 0.7034947276115417
+            },
+            {
+              "cluster": 71,
+              "similarity": 0.6979050636291504
+            }
+          ]
+        },
+        "86": {
+          "cluster_id": 86,
+          "size": 425,
+          "top_neighbors": [
+            {
+              "cluster": 87,
+              "similarity": 0.8014090061187744
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.7420271635055542
+            },
+            {
+              "cluster": 32,
+              "similarity": 0.6773209571838379
+            },
+            {
+              "cluster": 79,
+              "similarity": 0.6412312984466553
+            },
+            {
+              "cluster": 83,
+              "similarity": 0.6332384943962097
+            }
+          ]
+        },
+        "87": {
+          "cluster_id": 87,
+          "size": 4077,
+          "top_neighbors": [
+            {
+              "cluster": 3,
+              "similarity": 0.8280282020568848
+            },
+            {
+              "cluster": 5,
+              "similarity": 0.8187907934188843
+            },
+            {
+              "cluster": 86,
+              "similarity": 0.8014090061187744
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.787367582321167
+            },
+            {
+              "cluster": 76,
+              "similarity": 0.7496032118797302
+            }
+          ]
+        },
+        "88": {
+          "cluster_id": 88,
+          "size": 388,
+          "top_neighbors": [
+            {
+              "cluster": 89,
+              "similarity": 0.7917311787605286
+            },
+            {
+              "cluster": 84,
+              "similarity": 0.6723104119300842
+            },
+            {
+              "cluster": 99,
+              "similarity": 0.6398181319236755
+            },
+            {
+              "cluster": 75,
+              "similarity": 0.614665150642395
+            },
+            {
+              "cluster": 27,
+              "similarity": 0.5841776728630066
+            }
+          ]
+        },
+        "89": {
+          "cluster_id": 89,
+          "size": 663,
+          "top_neighbors": [
+            {
+              "cluster": 88,
+              "similarity": 0.7917311787605286
+            },
+            {
+              "cluster": 84,
+              "similarity": 0.779884934425354
+            },
+            {
+              "cluster": 99,
+              "similarity": 0.6568117737770081
+            },
+            {
+              "cluster": 27,
+              "similarity": 0.5390560626983643
+            },
+            {
+              "cluster": 52,
+              "similarity": 0.503476083278656
+            }
+          ]
+        },
+        "90": {
+          "cluster_id": 90,
+          "size": 836,
+          "top_neighbors": [
+            {
+              "cluster": 102,
+              "similarity": 0.6711071133613586
+            },
+            {
+              "cluster": 55,
+              "similarity": 0.6575567126274109
+            },
+            {
+              "cluster": 40,
+              "similarity": 0.6289560198783875
+            },
+            {
+              "cluster": 97,
+              "similarity": 0.6208754181861877
+            },
+            {
+              "cluster": 98,
+              "similarity": 0.60390704870224
+            }
+          ]
+        },
+        "91": {
+          "cluster_id": 91,
+          "size": 1321,
+          "top_neighbors": [
+            {
+              "cluster": 101,
+              "similarity": 0.857938289642334
+            },
+            {
+              "cluster": 80,
+              "similarity": 0.8053092360496521
+            },
+            {
+              "cluster": 103,
+              "similarity": 0.7864334583282471
+            },
+            {
+              "cluster": 72,
+              "similarity": 0.6410394310951233
+            },
+            {
+              "cluster": 105,
+              "similarity": 0.6338815689086914
+            }
+          ]
+        },
+        "92": {
+          "cluster_id": 92,
+          "size": 918,
+          "top_neighbors": [
+            {
+              "cluster": 85,
+              "similarity": 0.858244001865387
+            },
+            {
+              "cluster": 94,
+              "similarity": 0.844336748123169
+            },
+            {
+              "cluster": 95,
+              "similarity": 0.8198665976524353
+            },
+            {
+              "cluster": 93,
+              "similarity": 0.7433076500892639
+            },
+            {
+              "cluster": 63,
+              "similarity": 0.701031506061554
+            }
+          ]
+        },
+        "93": {
+          "cluster_id": 93,
+          "size": 938,
+          "top_neighbors": [
+            {
+              "cluster": 94,
+              "similarity": 0.886494517326355
+            },
+            {
+              "cluster": 95,
+              "similarity": 0.78019779920578
+            },
+            {
+              "cluster": 96,
+              "similarity": 0.7716302871704102
+            },
+            {
+              "cluster": 97,
+              "similarity": 0.7695273756980896
+            },
+            {
+              "cluster": 92,
+              "similarity": 0.7433076500892639
+            }
+          ]
+        },
+        "94": {
+          "cluster_id": 94,
+          "size": 436,
+          "top_neighbors": [
+            {
+              "cluster": 95,
+              "similarity": 0.9123809337615967
+            },
+            {
+              "cluster": 93,
+              "similarity": 0.886494517326355
+            },
+            {
+              "cluster": 92,
+              "similarity": 0.844336748123169
+            },
+            {
+              "cluster": 85,
+              "similarity": 0.7586802840232849
+            },
+            {
+              "cluster": 63,
+              "similarity": 0.6889605522155762
+            }
+          ]
+        },
+        "95": {
+          "cluster_id": 95,
+          "size": 598,
+          "top_neighbors": [
+            {
+              "cluster": 94,
+              "similarity": 0.9123809337615967
+            },
+            {
+              "cluster": 92,
+              "similarity": 0.8198665976524353
+            },
+            {
+              "cluster": 93,
+              "similarity": 0.78019779920578
+            },
+            {
+              "cluster": 63,
+              "similarity": 0.7603367567062378
+            },
+            {
+              "cluster": 85,
+              "similarity": 0.7034947276115417
+            }
+          ]
+        },
+        "96": {
+          "cluster_id": 96,
+          "size": 404,
+          "top_neighbors": [
+            {
+              "cluster": 97,
+              "similarity": 0.8678916096687317
+            },
+            {
+              "cluster": 69,
+              "similarity": 0.7782504558563232
+            },
+            {
+              "cluster": 93,
+              "similarity": 0.7716302871704102
+            },
+            {
+              "cluster": 98,
+              "similarity": 0.7131814956665039
+            },
+            {
+              "cluster": 99,
+              "similarity": 0.7015960812568665
+            }
+          ]
+        },
+        "97": {
+          "cluster_id": 97,
+          "size": 1360,
+          "top_neighbors": [
+            {
+              "cluster": 96,
+              "similarity": 0.8678916096687317
+            },
+            {
+              "cluster": 93,
+              "similarity": 0.7695273756980896
+            },
+            {
+              "cluster": 98,
+              "similarity": 0.7407591342926025
+            },
+            {
+              "cluster": 99,
+              "similarity": 0.693500280380249
+            },
+            {
+              "cluster": 101,
+              "similarity": 0.6546847820281982
+            }
+          ]
+        },
+        "98": {
+          "cluster_id": 98,
+          "size": 708,
+          "top_neighbors": [
+            {
+              "cluster": 97,
+              "similarity": 0.7407591342926025
+            },
+            {
+              "cluster": 96,
+              "similarity": 0.7131814956665039
+            },
+            {
+              "cluster": 99,
+              "similarity": 0.6353290677070618
+            },
+            {
+              "cluster": 69,
+              "similarity": 0.6252986788749695
+            },
+            {
+              "cluster": 93,
+              "similarity": 0.6235761046409607
+            }
+          ]
+        },
+        "99": {
+          "cluster_id": 99,
+          "size": 4636,
+          "top_neighbors": [
+            {
+              "cluster": 100,
+              "similarity": 0.7732607126235962
+            },
+            {
+              "cluster": 96,
+              "similarity": 0.7015960812568665
+            },
+            {
+              "cluster": 97,
+              "similarity": 0.693500280380249
+            },
+            {
+              "cluster": 89,
+              "similarity": 0.6568117737770081
+            },
+            {
+              "cluster": 102,
+              "similarity": 0.6430648565292358
+            }
+          ]
+        },
+        "100": {
+          "cluster_id": 100,
+          "size": 730,
+          "top_neighbors": [
+            {
+              "cluster": 99,
+              "similarity": 0.7732607126235962
+            },
+            {
+              "cluster": 106,
+              "similarity": 0.6955738067626953
+            },
+            {
+              "cluster": 102,
+              "similarity": 0.6566781997680664
+            },
+            {
+              "cluster": 5,
+              "similarity": 0.5745307207107544
+            },
+            {
+              "cluster": 104,
+              "similarity": 0.5730172991752625
+            }
+          ]
+        },
+        "101": {
+          "cluster_id": 101,
+          "size": 852,
+          "top_neighbors": [
+            {
+              "cluster": 103,
+              "similarity": 0.8754250407218933
+            },
+            {
+              "cluster": 91,
+              "similarity": 0.857938289642334
+            },
+            {
+              "cluster": 80,
+              "similarity": 0.7923147082328796
+            },
+            {
+              "cluster": 72,
+              "similarity": 0.7820263504981995
+            },
+            {
+              "cluster": 105,
+              "similarity": 0.7576937675476074
+            }
+          ]
+        },
+        "102": {
+          "cluster_id": 102,
+          "size": 338,
+          "top_neighbors": [
+            {
+              "cluster": 106,
+              "similarity": 0.8488807082176208
+            },
+            {
+              "cluster": 90,
+              "similarity": 0.6711071133613586
+            },
+            {
+              "cluster": 100,
+              "similarity": 0.6566781997680664
+            },
+            {
+              "cluster": 99,
+              "similarity": 0.6430648565292358
+            },
+            {
+              "cluster": 105,
+              "similarity": 0.6400291919708252
+            }
+          ]
+        },
+        "103": {
+          "cluster_id": 103,
+          "size": 788,
+          "top_neighbors": [
+            {
+              "cluster": 80,
+              "similarity": 0.9175212383270264
+            },
+            {
+              "cluster": 101,
+              "similarity": 0.8754250407218933
+            },
+            {
+              "cluster": 105,
+              "similarity": 0.8652662634849548
+            },
+            {
+              "cluster": 91,
+              "similarity": 0.7864334583282471
+            },
+            {
+              "cluster": 106,
+              "similarity": 0.7380014657974243
+            }
+          ]
+        },
+        "104": {
+          "cluster_id": 104,
+          "size": 589,
+          "top_neighbors": [
+            {
+              "cluster": 106,
+              "similarity": 0.8480044603347778
+            },
+            {
+              "cluster": 105,
+              "similarity": 0.81805419921875
+            },
+            {
+              "cluster": 103,
+              "similarity": 0.6793395280838013
+            },
+            {
+              "cluster": 71,
+              "similarity": 0.6279974579811096
+            },
+            {
+              "cluster": 33,
+              "similarity": 0.6168195605278015
+            }
+          ]
+        },
+        "105": {
+          "cluster_id": 105,
+          "size": 482,
+          "top_neighbors": [
+            {
+              "cluster": 103,
+              "similarity": 0.8652662634849548
+            },
+            {
+              "cluster": 106,
+              "similarity": 0.8451534509658813
+            },
+            {
+              "cluster": 104,
+              "similarity": 0.81805419921875
+            },
+            {
+              "cluster": 80,
+              "similarity": 0.7626518607139587
+            },
+            {
+              "cluster": 101,
+              "similarity": 0.7576937675476074
+            }
+          ]
+        },
+        "106": {
+          "cluster_id": 106,
+          "size": 1792,
+          "top_neighbors": [
+            {
+              "cluster": 102,
+              "similarity": 0.8488807082176208
+            },
+            {
+              "cluster": 104,
+              "similarity": 0.8480044603347778
+            },
+            {
+              "cluster": 105,
+              "similarity": 0.8451534509658813
+            },
+            {
+              "cluster": 103,
+              "similarity": 0.7380014657974243
+            },
+            {
+              "cluster": 100,
+              "similarity": 0.6955738067626953
+            }
+          ]
+        }
+      },
+      "output_files": {
+        "embeddings_pt": "/kaggle/working/clustering/embeddings_2024.pt",
+        "cluster_npz": "/kaggle/working/clustering/cluster_2024.npz"
+      }
+    },
+    {
+      "year": 2025,
+      "n_clusters": 66,
+      "noise": 48299,
+      "noise_pct": 40.98,
+      "silhouette": 0.43430575728416443,
+      "davies_bouldin": 0.6998540816833891,
+      "calinski_harabasz": 66597.3125,
+      "min_cluster_size": 300,
+      "min_samples": 30,
+      "umap_n_neighbors": 15,
+      "total_authors": 117870,
+      "top10_clusters": [
+        {
+          "cluster_id": 25,
+          "size": 4527
+        },
+        {
+          "cluster_id": 39,
+          "size": 4522
+        },
+        {
+          "cluster_id": 51,
+          "size": 3819
+        },
+        {
+          "cluster_id": 37,
+          "size": 3772
+        },
+        {
+          "cluster_id": 16,
+          "size": 3605
+        },
+        {
+          "cluster_id": 22,
+          "size": 2544
+        },
+        {
+          "cluster_id": 42,
+          "size": 2017
+        },
+        {
+          "cluster_id": 32,
+          "size": 1953
+        },
+        {
+          "cluster_id": 21,
+          "size": 1942
+        },
+        {
+          "cluster_id": 58,
+          "size": 1745
+        }
+      ],
+      "communities": {
+        "0": {
+          "cluster_id": 0,
+          "size": 574,
+          "top_neighbors": [
+            {
+              "cluster": 1,
+              "similarity": 0.7576054334640503
+            },
+            {
+              "cluster": 25,
+              "similarity": 0.6563223004341125
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.6124593615531921
+            },
+            {
+              "cluster": 19,
+              "similarity": 0.5196605920791626
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.5037691593170166
+            }
+          ]
+        },
+        "1": {
+          "cluster_id": 1,
+          "size": 916,
+          "top_neighbors": [
+            {
+              "cluster": 0,
+              "similarity": 0.7576054334640503
+            },
+            {
+              "cluster": 25,
+              "similarity": 0.735867977142334
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.6967783570289612
+            },
+            {
+              "cluster": 19,
+              "similarity": 0.6769504547119141
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.6213547587394714
+            }
+          ]
+        },
+        "2": {
+          "cluster_id": 2,
+          "size": 546,
+          "top_neighbors": [
+            {
+              "cluster": 7,
+              "similarity": 0.8914996385574341
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.8906590342521667
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.8503508567810059
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.8076726794242859
+            },
+            {
+              "cluster": 12,
+              "similarity": 0.7436542510986328
+            }
+          ]
+        },
+        "3": {
+          "cluster_id": 3,
+          "size": 559,
+          "top_neighbors": [
+            {
+              "cluster": 7,
+              "similarity": 0.8951901197433472
+            },
+            {
+              "cluster": 2,
+              "similarity": 0.8906590342521667
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.8534248471260071
+            },
+            {
+              "cluster": 19,
+              "similarity": 0.805967390537262
+            },
+            {
+              "cluster": 15,
+              "similarity": 0.7504613399505615
+            }
+          ]
+        },
+        "4": {
+          "cluster_id": 4,
+          "size": 324,
+          "top_neighbors": [
+            {
+              "cluster": 7,
+              "similarity": 0.7735264301300049
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.7731561064720154
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.7291619181632996
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.7121710181236267
+            },
+            {
+              "cluster": 2,
+              "similarity": 0.7017456293106079
+            }
+          ]
+        },
+        "5": {
+          "cluster_id": 5,
+          "size": 766,
+          "top_neighbors": [
+            {
+              "cluster": 8,
+              "similarity": 0.8395656943321228
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.6127393245697021
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.5385984778404236
+            },
+            {
+              "cluster": 33,
+              "similarity": 0.4967302083969116
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.48332950472831726
+            }
+          ]
+        },
+        "6": {
+          "cluster_id": 6,
+          "size": 311,
+          "top_neighbors": [
+            {
+              "cluster": 3,
+              "similarity": 0.8534248471260071
+            },
+            {
+              "cluster": 2,
+              "similarity": 0.8503508567810059
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.822380542755127
+            },
+            {
+              "cluster": 19,
+              "similarity": 0.8180976510047913
+            },
+            {
+              "cluster": 25,
+              "similarity": 0.7518934607505798
+            }
+          ]
+        },
+        "7": {
+          "cluster_id": 7,
+          "size": 458,
+          "top_neighbors": [
+            {
+              "cluster": 3,
+              "similarity": 0.8951901197433472
+            },
+            {
+              "cluster": 2,
+              "similarity": 0.8914996385574341
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.8405253291130066
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.822380542755127
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.8108619451522827
+            }
+          ]
+        },
+        "8": {
+          "cluster_id": 8,
+          "size": 833,
+          "top_neighbors": [
+            {
+              "cluster": 5,
+              "similarity": 0.8395656943321228
+            },
+            {
+              "cluster": 15,
+              "similarity": 0.6426650285720825
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.6222330927848816
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.6003332138061523
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.5680121183395386
+            }
+          ]
+        },
+        "9": {
+          "cluster_id": 9,
+          "size": 651,
+          "top_neighbors": [
+            {
+              "cluster": 7,
+              "similarity": 0.8405253291130066
+            },
+            {
+              "cluster": 2,
+              "similarity": 0.8076726794242859
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.7855692505836487
+            },
+            {
+              "cluster": 4,
+              "similarity": 0.7731561064720154
+            },
+            {
+              "cluster": 15,
+              "similarity": 0.7652127146720886
+            }
+          ]
+        },
+        "10": {
+          "cluster_id": 10,
+          "size": 313,
+          "top_neighbors": [
+            {
+              "cluster": 7,
+              "similarity": 0.8108619451522827
+            },
+            {
+              "cluster": 15,
+              "similarity": 0.7916380167007446
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.7855692505836487
+            },
+            {
+              "cluster": 2,
+              "similarity": 0.7354393601417542
+            },
+            {
+              "cluster": 4,
+              "similarity": 0.7291619181632996
+            }
+          ]
+        },
+        "11": {
+          "cluster_id": 11,
+          "size": 826,
+          "top_neighbors": [
+            {
+              "cluster": 4,
+              "similarity": 0.7121710181236267
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.6353363394737244
+            },
+            {
+              "cluster": 42,
+              "similarity": 0.598760187625885
+            },
+            {
+              "cluster": 45,
+              "similarity": 0.5526754856109619
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.5492141842842102
+            }
+          ]
+        },
+        "12": {
+          "cluster_id": 12,
+          "size": 866,
+          "top_neighbors": [
+            {
+              "cluster": 7,
+              "similarity": 0.7893730401992798
+            },
+            {
+              "cluster": 2,
+              "similarity": 0.7436542510986328
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.6902151703834534
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.6696818470954895
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.66162109375
+            }
+          ]
+        },
+        "13": {
+          "cluster_id": 13,
+          "size": 957,
+          "top_neighbors": [
+            {
+              "cluster": 40,
+              "similarity": 0.6749570369720459
+            },
+            {
+              "cluster": 14,
+              "similarity": 0.660074770450592
+            },
+            {
+              "cluster": 25,
+              "similarity": 0.5142415165901184
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.5114702582359314
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.5072197318077087
+            }
+          ]
+        },
+        "14": {
+          "cluster_id": 14,
+          "size": 362,
+          "top_neighbors": [
+            {
+              "cluster": 13,
+              "similarity": 0.660074770450592
+            },
+            {
+              "cluster": 40,
+              "similarity": 0.5798451900482178
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.5596704483032227
+            },
+            {
+              "cluster": 47,
+              "similarity": 0.5444995164871216
+            },
+            {
+              "cluster": 19,
+              "similarity": 0.5297492146492004
+            }
+          ]
+        },
+        "15": {
+          "cluster_id": 15,
+          "size": 1214,
+          "top_neighbors": [
+            {
+              "cluster": 7,
+              "similarity": 0.8106392621994019
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.7916380167007446
+            },
+            {
+              "cluster": 16,
+              "similarity": 0.7908624410629272
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.7652127146720886
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.7504613399505615
+            }
+          ]
+        },
+        "16": {
+          "cluster_id": 16,
+          "size": 3605,
+          "top_neighbors": [
+            {
+              "cluster": 15,
+              "similarity": 0.7908624410629272
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.6821832656860352
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.6519833207130432
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.6236463785171509
+            },
+            {
+              "cluster": 2,
+              "similarity": 0.6186545491218567
+            }
+          ]
+        },
+        "17": {
+          "cluster_id": 17,
+          "size": 352,
+          "top_neighbors": [
+            {
+              "cluster": 60,
+              "similarity": 0.7084808945655823
+            },
+            {
+              "cluster": 25,
+              "similarity": 0.6466072797775269
+            },
+            {
+              "cluster": 55,
+              "similarity": 0.6233770251274109
+            },
+            {
+              "cluster": 56,
+              "similarity": 0.6205147504806519
+            },
+            {
+              "cluster": 46,
+              "similarity": 0.4877821207046509
+            }
+          ]
+        },
+        "18": {
+          "cluster_id": 18,
+          "size": 448,
+          "top_neighbors": [
+            {
+              "cluster": 15,
+              "similarity": 0.742793083190918
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.6601267457008362
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.6420021057128906
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.6279241442680359
+            },
+            {
+              "cluster": 20,
+              "similarity": 0.5897495150566101
+            }
+          ]
+        },
+        "19": {
+          "cluster_id": 19,
+          "size": 305,
+          "top_neighbors": [
+            {
+              "cluster": 6,
+              "similarity": 0.8180976510047913
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.805967390537262
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.7441412210464478
+            },
+            {
+              "cluster": 2,
+              "similarity": 0.727411150932312
+            },
+            {
+              "cluster": 25,
+              "similarity": 0.7042470574378967
+            }
+          ]
+        },
+        "20": {
+          "cluster_id": 20,
+          "size": 1404,
+          "top_neighbors": [
+            {
+              "cluster": 9,
+              "similarity": 0.5947272777557373
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.5921990871429443
+            },
+            {
+              "cluster": 18,
+              "similarity": 0.5897495150566101
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.5689136981964111
+            },
+            {
+              "cluster": 15,
+              "similarity": 0.5337653756141663
+            }
+          ]
+        },
+        "21": {
+          "cluster_id": 21,
+          "size": 1942,
+          "top_neighbors": [
+            {
+              "cluster": 41,
+              "similarity": 0.7246915698051453
+            },
+            {
+              "cluster": 58,
+              "similarity": 0.6732873916625977
+            },
+            {
+              "cluster": 57,
+              "similarity": 0.6139585375785828
+            },
+            {
+              "cluster": 12,
+              "similarity": 0.6116670370101929
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.5992960333824158
+            }
+          ]
+        },
+        "22": {
+          "cluster_id": 22,
+          "size": 2544,
+          "top_neighbors": [
+            {
+              "cluster": 6,
+              "similarity": 0.6400496959686279
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.5747592449188232
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.5691055655479431
+            },
+            {
+              "cluster": 2,
+              "similarity": 0.5601974129676819
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.5543440580368042
+            }
+          ]
+        },
+        "23": {
+          "cluster_id": 23,
+          "size": 610,
+          "top_neighbors": [
+            {
+              "cluster": 24,
+              "similarity": 0.7439114451408386
+            },
+            {
+              "cluster": 34,
+              "similarity": 0.5872474312782288
+            },
+            {
+              "cluster": 22,
+              "similarity": 0.5228242874145508
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.47410839796066284
+            },
+            {
+              "cluster": 32,
+              "similarity": 0.45552292466163635
+            }
+          ]
+        },
+        "24": {
+          "cluster_id": 24,
+          "size": 1283,
+          "top_neighbors": [
+            {
+              "cluster": 23,
+              "similarity": 0.7439114451408386
+            },
+            {
+              "cluster": 55,
+              "similarity": 0.6667039394378662
+            },
+            {
+              "cluster": 60,
+              "similarity": 0.5651748776435852
+            },
+            {
+              "cluster": 34,
+              "similarity": 0.5390129685401917
+            },
+            {
+              "cluster": 65,
+              "similarity": 0.4657205045223236
+            }
+          ]
+        },
+        "25": {
+          "cluster_id": 25,
+          "size": 4527,
+          "top_neighbors": [
+            {
+              "cluster": 6,
+              "similarity": 0.7518934607505798
+            },
+            {
+              "cluster": 1,
+              "similarity": 0.735867977142334
+            },
+            {
+              "cluster": 19,
+              "similarity": 0.7042470574378967
+            },
+            {
+              "cluster": 0,
+              "similarity": 0.6563223004341125
+            },
+            {
+              "cluster": 17,
+              "similarity": 0.6466072797775269
+            }
+          ]
+        },
+        "26": {
+          "cluster_id": 26,
+          "size": 596,
+          "top_neighbors": [
+            {
+              "cluster": 25,
+              "similarity": 0.5755640268325806
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.5619899034500122
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.5468674302101135
+            },
+            {
+              "cluster": 2,
+              "similarity": 0.546140730381012
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.5285887122154236
+            }
+          ]
+        },
+        "27": {
+          "cluster_id": 27,
+          "size": 571,
+          "top_neighbors": [
+            {
+              "cluster": 48,
+              "similarity": 0.6690250039100647
+            },
+            {
+              "cluster": 57,
+              "similarity": 0.6034331321716309
+            },
+            {
+              "cluster": 38,
+              "similarity": 0.5106029510498047
+            },
+            {
+              "cluster": 35,
+              "similarity": 0.49718788266181946
+            },
+            {
+              "cluster": 19,
+              "similarity": 0.49407559633255005
+            }
+          ]
+        },
+        "28": {
+          "cluster_id": 28,
+          "size": 1436,
+          "top_neighbors": [
+            {
+              "cluster": 12,
+              "similarity": 0.633640468120575
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.6087766289710999
+            },
+            {
+              "cluster": 2,
+              "similarity": 0.5769063234329224
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.5179123878479004
+            },
+            {
+              "cluster": 10,
+              "similarity": 0.5145604610443115
+            }
+          ]
+        },
+        "29": {
+          "cluster_id": 29,
+          "size": 915,
+          "top_neighbors": [
+            {
+              "cluster": 42,
+              "similarity": 0.6143280863761902
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.5765698552131653
+            },
+            {
+              "cluster": 12,
+              "similarity": 0.5755797624588013
+            },
+            {
+              "cluster": 39,
+              "similarity": 0.5438141822814941
+            },
+            {
+              "cluster": 57,
+              "similarity": 0.45426812767982483
+            }
+          ]
+        },
+        "30": {
+          "cluster_id": 30,
+          "size": 516,
+          "top_neighbors": [
+            {
+              "cluster": 31,
+              "similarity": 0.7239400744438171
+            },
+            {
+              "cluster": 37,
+              "similarity": 0.689234733581543
+            },
+            {
+              "cluster": 50,
+              "similarity": 0.5205106139183044
+            },
+            {
+              "cluster": 38,
+              "similarity": 0.4726104140281677
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.4608830213546753
+            }
+          ]
+        },
+        "31": {
+          "cluster_id": 31,
+          "size": 564,
+          "top_neighbors": [
+            {
+              "cluster": 30,
+              "similarity": 0.7239400744438171
+            },
+            {
+              "cluster": 51,
+              "similarity": 0.5960049629211426
+            },
+            {
+              "cluster": 37,
+              "similarity": 0.5440618991851807
+            },
+            {
+              "cluster": 50,
+              "similarity": 0.5260359644889832
+            },
+            {
+              "cluster": 38,
+              "similarity": 0.5125110745429993
+            }
+          ]
+        },
+        "32": {
+          "cluster_id": 32,
+          "size": 1953,
+          "top_neighbors": [
+            {
+              "cluster": 33,
+              "similarity": 0.8473571538925171
+            },
+            {
+              "cluster": 34,
+              "similarity": 0.7202721238136292
+            },
+            {
+              "cluster": 35,
+              "similarity": 0.5374537110328674
+            },
+            {
+              "cluster": 58,
+              "similarity": 0.5307235717773438
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.5163081884384155
+            }
+          ]
+        },
+        "33": {
+          "cluster_id": 33,
+          "size": 776,
+          "top_neighbors": [
+            {
+              "cluster": 32,
+              "similarity": 0.8473571538925171
+            },
+            {
+              "cluster": 35,
+              "similarity": 0.756732702255249
+            },
+            {
+              "cluster": 34,
+              "similarity": 0.6760416030883789
+            },
+            {
+              "cluster": 54,
+              "similarity": 0.5612970590591431
+            },
+            {
+              "cluster": 43,
+              "similarity": 0.5427718162536621
+            }
+          ]
+        },
+        "34": {
+          "cluster_id": 34,
+          "size": 648,
+          "top_neighbors": [
+            {
+              "cluster": 35,
+              "similarity": 0.749597430229187
+            },
+            {
+              "cluster": 32,
+              "similarity": 0.7202721238136292
+            },
+            {
+              "cluster": 33,
+              "similarity": 0.6760416030883789
+            },
+            {
+              "cluster": 57,
+              "similarity": 0.6201620697975159
+            },
+            {
+              "cluster": 23,
+              "similarity": 0.5872474312782288
+            }
+          ]
+        },
+        "35": {
+          "cluster_id": 35,
+          "size": 422,
+          "top_neighbors": [
+            {
+              "cluster": 33,
+              "similarity": 0.756732702255249
+            },
+            {
+              "cluster": 34,
+              "similarity": 0.749597430229187
+            },
+            {
+              "cluster": 32,
+              "similarity": 0.5374537110328674
+            },
+            {
+              "cluster": 57,
+              "similarity": 0.5321504473686218
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.5172986388206482
+            }
+          ]
+        },
+        "36": {
+          "cluster_id": 36,
+          "size": 362,
+          "top_neighbors": [
+            {
+              "cluster": 61,
+              "similarity": 0.6556724309921265
+            },
+            {
+              "cluster": 51,
+              "similarity": 0.6348168849945068
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.5729468464851379
+            },
+            {
+              "cluster": 63,
+              "similarity": 0.5368002653121948
+            },
+            {
+              "cluster": 45,
+              "similarity": 0.5299808979034424
+            }
+          ]
+        },
+        "37": {
+          "cluster_id": 37,
+          "size": 3772,
+          "top_neighbors": [
+            {
+              "cluster": 30,
+              "similarity": 0.689234733581543
+            },
+            {
+              "cluster": 38,
+              "similarity": 0.6815313100814819
+            },
+            {
+              "cluster": 31,
+              "similarity": 0.5440618991851807
+            },
+            {
+              "cluster": 39,
+              "similarity": 0.5321787595748901
+            },
+            {
+              "cluster": 12,
+              "similarity": 0.48797041177749634
+            }
+          ]
+        },
+        "38": {
+          "cluster_id": 38,
+          "size": 1382,
+          "top_neighbors": [
+            {
+              "cluster": 37,
+              "similarity": 0.6815313100814819
+            },
+            {
+              "cluster": 31,
+              "similarity": 0.5125110745429993
+            },
+            {
+              "cluster": 27,
+              "similarity": 0.5106029510498047
+            },
+            {
+              "cluster": 57,
+              "similarity": 0.4810108542442322
+            },
+            {
+              "cluster": 35,
+              "similarity": 0.48034411668777466
+            }
+          ]
+        },
+        "39": {
+          "cluster_id": 39,
+          "size": 4522,
+          "top_neighbors": [
+            {
+              "cluster": 29,
+              "similarity": 0.5438141822814941
+            },
+            {
+              "cluster": 37,
+              "similarity": 0.5321787595748901
+            },
+            {
+              "cluster": 57,
+              "similarity": 0.5148129463195801
+            },
+            {
+              "cluster": 12,
+              "similarity": 0.5010896325111389
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.4912131130695343
+            }
+          ]
+        },
+        "40": {
+          "cluster_id": 40,
+          "size": 1373,
+          "top_neighbors": [
+            {
+              "cluster": 13,
+              "similarity": 0.6749570369720459
+            },
+            {
+              "cluster": 49,
+              "similarity": 0.605633020401001
+            },
+            {
+              "cluster": 14,
+              "similarity": 0.5798451900482178
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.47152218222618103
+            },
+            {
+              "cluster": 12,
+              "similarity": 0.4706510901451111
+            }
+          ]
+        },
+        "41": {
+          "cluster_id": 41,
+          "size": 322,
+          "top_neighbors": [
+            {
+              "cluster": 54,
+              "similarity": 0.8193629384040833
+            },
+            {
+              "cluster": 21,
+              "similarity": 0.7246915698051453
+            },
+            {
+              "cluster": 43,
+              "similarity": 0.7218899130821228
+            },
+            {
+              "cluster": 62,
+              "similarity": 0.6865500211715698
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.5708523392677307
+            }
+          ]
+        },
+        "42": {
+          "cluster_id": 42,
+          "size": 2017,
+          "top_neighbors": [
+            {
+              "cluster": 29,
+              "similarity": 0.6143280863761902
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.598760187625885
+            },
+            {
+              "cluster": 51,
+              "similarity": 0.5866948366165161
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.5691092610359192
+            },
+            {
+              "cluster": 4,
+              "similarity": 0.5598655939102173
+            }
+          ]
+        },
+        "43": {
+          "cluster_id": 43,
+          "size": 549,
+          "top_neighbors": [
+            {
+              "cluster": 54,
+              "similarity": 0.7291393280029297
+            },
+            {
+              "cluster": 41,
+              "similarity": 0.7218899130821228
+            },
+            {
+              "cluster": 7,
+              "similarity": 0.6405565738677979
+            },
+            {
+              "cluster": 6,
+              "similarity": 0.6202389001846313
+            },
+            {
+              "cluster": 3,
+              "similarity": 0.558601438999176
+            }
+          ]
+        },
+        "44": {
+          "cluster_id": 44,
+          "size": 485,
+          "top_neighbors": [
+            {
+              "cluster": 48,
+              "similarity": 0.7077228426933289
+            },
+            {
+              "cluster": 46,
+              "similarity": 0.6572217345237732
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.501710057258606
+            },
+            {
+              "cluster": 27,
+              "similarity": 0.491212397813797
+            },
+            {
+              "cluster": 65,
+              "similarity": 0.49082762002944946
+            }
+          ]
+        },
+        "45": {
+          "cluster_id": 45,
+          "size": 461,
+          "top_neighbors": [
+            {
+              "cluster": 63,
+              "similarity": 0.7936414480209351
+            },
+            {
+              "cluster": 62,
+              "similarity": 0.7150984406471252
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.6274129748344421
+            },
+            {
+              "cluster": 11,
+              "similarity": 0.5526754856109619
+            },
+            {
+              "cluster": 36,
+              "similarity": 0.5299808979034424
+            }
+          ]
+        },
+        "46": {
+          "cluster_id": 46,
+          "size": 416,
+          "top_neighbors": [
+            {
+              "cluster": 44,
+              "similarity": 0.6572217345237732
+            },
+            {
+              "cluster": 55,
+              "similarity": 0.640209436416626
+            },
+            {
+              "cluster": 60,
+              "similarity": 0.5834152698516846
+            },
+            {
+              "cluster": 41,
+              "similarity": 0.5685949325561523
+            },
+            {
+              "cluster": 54,
+              "similarity": 0.5553924441337585
+            }
+          ]
+        },
+        "47": {
+          "cluster_id": 47,
+          "size": 936,
+          "top_neighbors": [
+            {
+              "cluster": 48,
+              "similarity": 0.7519863843917847
+            },
+            {
+              "cluster": 58,
+              "similarity": 0.6065177917480469
+            },
+            {
+              "cluster": 4,
+              "similarity": 0.5971188545227051
+            },
+            {
+              "cluster": 14,
+              "similarity": 0.5444995164871216
+            },
+            {
+              "cluster": 19,
+              "similarity": 0.501828134059906
+            }
+          ]
+        },
+        "48": {
+          "cluster_id": 48,
+          "size": 661,
+          "top_neighbors": [
+            {
+              "cluster": 47,
+              "similarity": 0.7519863843917847
+            },
+            {
+              "cluster": 44,
+              "similarity": 0.7077228426933289
+            },
+            {
+              "cluster": 27,
+              "similarity": 0.6690250039100647
+            },
+            {
+              "cluster": 57,
+              "similarity": 0.5924621820449829
+            },
+            {
+              "cluster": 4,
+              "similarity": 0.5838867425918579
+            }
+          ]
+        },
+        "49": {
+          "cluster_id": 49,
+          "size": 611,
+          "top_neighbors": [
+            {
+              "cluster": 54,
+              "similarity": 0.691705048084259
+            },
+            {
+              "cluster": 65,
+              "similarity": 0.6742127537727356
+            },
+            {
+              "cluster": 40,
+              "similarity": 0.605633020401001
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.5964747071266174
+            },
+            {
+              "cluster": 61,
+              "similarity": 0.5909394025802612
+            }
+          ]
+        },
+        "50": {
+          "cluster_id": 50,
+          "size": 980,
+          "top_neighbors": [
+            {
+              "cluster": 51,
+              "similarity": 0.6097862124443054
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.6040944457054138
+            },
+            {
+              "cluster": 52,
+              "similarity": 0.5934697389602661
+            },
+            {
+              "cluster": 53,
+              "similarity": 0.579279899597168
+            },
+            {
+              "cluster": 42,
+              "similarity": 0.5406548380851746
+            }
+          ]
+        },
+        "51": {
+          "cluster_id": 51,
+          "size": 3819,
+          "top_neighbors": [
+            {
+              "cluster": 52,
+              "similarity": 0.6715495586395264
+            },
+            {
+              "cluster": 53,
+              "similarity": 0.66316819190979
+            },
+            {
+              "cluster": 36,
+              "similarity": 0.6348168849945068
+            },
+            {
+              "cluster": 50,
+              "similarity": 0.6097862124443054
+            },
+            {
+              "cluster": 31,
+              "similarity": 0.5960049629211426
+            }
+          ]
+        },
+        "52": {
+          "cluster_id": 52,
+          "size": 546,
+          "top_neighbors": [
+            {
+              "cluster": 51,
+              "similarity": 0.6715495586395264
+            },
+            {
+              "cluster": 50,
+              "similarity": 0.5934697389602661
+            },
+            {
+              "cluster": 53,
+              "similarity": 0.53176349401474
+            },
+            {
+              "cluster": 2,
+              "similarity": 0.48886385560035706
+            },
+            {
+              "cluster": 31,
+              "similarity": 0.4709089398384094
+            }
+          ]
+        },
+        "53": {
+          "cluster_id": 53,
+          "size": 1275,
+          "top_neighbors": [
+            {
+              "cluster": 51,
+              "similarity": 0.66316819190979
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.6154876947402954
+            },
+            {
+              "cluster": 50,
+              "similarity": 0.579279899597168
+            },
+            {
+              "cluster": 4,
+              "similarity": 0.5731000900268555
+            },
+            {
+              "cluster": 52,
+              "similarity": 0.53176349401474
+            }
+          ]
+        },
+        "54": {
+          "cluster_id": 54,
+          "size": 527,
+          "top_neighbors": [
+            {
+              "cluster": 41,
+              "similarity": 0.8193629384040833
+            },
+            {
+              "cluster": 43,
+              "similarity": 0.7291393280029297
+            },
+            {
+              "cluster": 49,
+              "similarity": 0.691705048084259
+            },
+            {
+              "cluster": 62,
+              "similarity": 0.658983051776886
+            },
+            {
+              "cluster": 61,
+              "similarity": 0.6197912096977234
+            }
+          ]
+        },
+        "55": {
+          "cluster_id": 55,
+          "size": 398,
+          "top_neighbors": [
+            {
+              "cluster": 60,
+              "similarity": 0.8166421055793762
+            },
+            {
+              "cluster": 56,
+              "similarity": 0.7068077325820923
+            },
+            {
+              "cluster": 24,
+              "similarity": 0.6667039394378662
+            },
+            {
+              "cluster": 46,
+              "similarity": 0.640209436416626
+            },
+            {
+              "cluster": 17,
+              "similarity": 0.6233770251274109
+            }
+          ]
+        },
+        "56": {
+          "cluster_id": 56,
+          "size": 682,
+          "top_neighbors": [
+            {
+              "cluster": 55,
+              "similarity": 0.7068077325820923
+            },
+            {
+              "cluster": 17,
+              "similarity": 0.6205147504806519
+            },
+            {
+              "cluster": 60,
+              "similarity": 0.618316650390625
+            },
+            {
+              "cluster": 61,
+              "similarity": 0.5216746926307678
+            },
+            {
+              "cluster": 25,
+              "similarity": 0.5157644152641296
+            }
+          ]
+        },
+        "57": {
+          "cluster_id": 57,
+          "size": 383,
+          "top_neighbors": [
+            {
+              "cluster": 58,
+              "similarity": 0.8656542301177979
+            },
+            {
+              "cluster": 34,
+              "similarity": 0.6201620697975159
+            },
+            {
+              "cluster": 21,
+              "similarity": 0.6139585375785828
+            },
+            {
+              "cluster": 27,
+              "similarity": 0.6034331321716309
+            },
+            {
+              "cluster": 48,
+              "similarity": 0.5924621820449829
+            }
+          ]
+        },
+        "58": {
+          "cluster_id": 58,
+          "size": 1745,
+          "top_neighbors": [
+            {
+              "cluster": 57,
+              "similarity": 0.8656542301177979
+            },
+            {
+              "cluster": 21,
+              "similarity": 0.6732873916625977
+            },
+            {
+              "cluster": 47,
+              "similarity": 0.6065177917480469
+            },
+            {
+              "cluster": 34,
+              "similarity": 0.5657916069030762
+            },
+            {
+              "cluster": 33,
+              "similarity": 0.5358499884605408
+            }
+          ]
+        },
+        "59": {
+          "cluster_id": 59,
+          "size": 770,
+          "top_neighbors": [
+            {
+              "cluster": 65,
+              "similarity": 0.7090423107147217
+            },
+            {
+              "cluster": 49,
+              "similarity": 0.5748868584632874
+            },
+            {
+              "cluster": 48,
+              "similarity": 0.5618026256561279
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.5119638442993164
+            },
+            {
+              "cluster": 61,
+              "similarity": 0.5102704763412476
+            }
+          ]
+        },
+        "60": {
+          "cluster_id": 60,
+          "size": 711,
+          "top_neighbors": [
+            {
+              "cluster": 55,
+              "similarity": 0.8166421055793762
+            },
+            {
+              "cluster": 17,
+              "similarity": 0.7084808945655823
+            },
+            {
+              "cluster": 56,
+              "similarity": 0.618316650390625
+            },
+            {
+              "cluster": 46,
+              "similarity": 0.5834152698516846
+            },
+            {
+              "cluster": 61,
+              "similarity": 0.5705870985984802
+            }
+          ]
+        },
+        "61": {
+          "cluster_id": 61,
+          "size": 1124,
+          "top_neighbors": [
+            {
+              "cluster": 36,
+              "similarity": 0.6556724309921265
+            },
+            {
+              "cluster": 54,
+              "similarity": 0.6197912096977234
+            },
+            {
+              "cluster": 49,
+              "similarity": 0.5909394025802612
+            },
+            {
+              "cluster": 55,
+              "similarity": 0.5816183686256409
+            },
+            {
+              "cluster": 9,
+              "similarity": 0.5783208608627319
+            }
+          ]
+        },
+        "62": {
+          "cluster_id": 62,
+          "size": 300,
+          "top_neighbors": [
+            {
+              "cluster": 63,
+              "similarity": 0.8823621869087219
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.8104585409164429
+            },
+            {
+              "cluster": 45,
+              "similarity": 0.7150984406471252
+            },
+            {
+              "cluster": 41,
+              "similarity": 0.6865500211715698
+            },
+            {
+              "cluster": 54,
+              "similarity": 0.658983051776886
+            }
+          ]
+        },
+        "63": {
+          "cluster_id": 63,
+          "size": 803,
+          "top_neighbors": [
+            {
+              "cluster": 62,
+              "similarity": 0.8823621869087219
+            },
+            {
+              "cluster": 45,
+              "similarity": 0.7936414480209351
+            },
+            {
+              "cluster": 64,
+              "similarity": 0.728381335735321
+            },
+            {
+              "cluster": 41,
+              "similarity": 0.56810063123703
+            },
+            {
+              "cluster": 61,
+              "similarity": 0.5407614707946777
+            }
+          ]
+        },
+        "64": {
+          "cluster_id": 64,
+          "size": 527,
+          "top_neighbors": [
+            {
+              "cluster": 62,
+              "similarity": 0.8104585409164429
+            },
+            {
+              "cluster": 65,
+              "similarity": 0.7607317566871643
+            },
+            {
+              "cluster": 63,
+              "similarity": 0.728381335735321
+            },
+            {
+              "cluster": 45,
+              "similarity": 0.6274129748344421
+            },
+            {
+              "cluster": 21,
+              "similarity": 0.5992960333824158
+            }
+          ]
+        },
+        "65": {
+          "cluster_id": 65,
+          "size": 1219,
+          "top_neighbors": [
+            {
+              "cluster": 64,
+              "similarity": 0.7607317566871643
+            },
+            {
+              "cluster": 59,
+              "similarity": 0.7090423107147217
+            },
+            {
+              "cluster": 49,
+              "similarity": 0.6742127537727356
+            },
+            {
+              "cluster": 62,
+              "similarity": 0.5440266728401184
+            },
+            {
+              "cluster": 48,
+              "similarity": 0.5429742932319641
+            }
+          ]
+        }
+      },
+      "output_files": {
+        "embeddings_pt": "/kaggle/working/clustering/embeddings_2025.pt",
+        "cluster_npz": "/kaggle/working/clustering/cluster_2025.npz"
+      }
+    }
+  ]
+}

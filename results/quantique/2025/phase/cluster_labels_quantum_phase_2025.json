@@ -1,0 +1,695 @@
+{
+  "18": {
+    "label": "deep learning / data mining / data privacy / AI for mathematics (AI4Math) / learning to optimize",
+    "top_keywords": [
+      [
+        "deep learning",
+        2
+      ],
+      [
+        "data mining",
+        1
+      ],
+      [
+        "data privacy",
+        1
+      ],
+      [
+        "AI for mathematics (AI4Math)",
+        1
+      ],
+      [
+        "learning to optimize",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Deep Learning: Applications, Architectures, Models, Tools, and Frameworks: A Comprehensive Survey",
+      "Learning New Tricks from Old Dogs: Multi-Source Transfer Learning from Pre-Trained Networks.",
+      "Learning to Optimize: A Tutorial for Continuous and Mixed-Integer Optimization",
+      "PyTorch Metric Learning.",
+      "UFO: Unified Feature Optimization"
+    ],
+    "size": 528825
+  },
+  "1": {
+    "label": "fine-grained complexity / similarity search / strong exponential-time hypothesis / closest pair / longest common subsequence",
+    "top_keywords": [
+      [
+        "fine-grained complexity",
+        1
+      ],
+      [
+        "similarity search",
+        1
+      ],
+      [
+        "strong exponential-time hypothesis",
+        1
+      ],
+      [
+        "closest pair",
+        1
+      ],
+      [
+        "longest common subsequence",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Distributed PCP Theorems for Hardness of Approximation in P.",
+      "The B-Branching Problem in Digraphs.",
+      "Bounds on the Length of Functional PIR and Batch Codes.",
+      "Solving D-Sat Via Backdoors to Small Treewidth",
+      "Nearest Neighbor Complexity and Boolean Circuits"
+    ],
+    "size": 10982
+  },
+  "11": {
+    "label": "Medical image segmentation / Vision Transformer / CNN / medical image segmentation / collaborative cross-fusion",
+    "top_keywords": [
+      [
+        "Medical image segmentation",
+        4
+      ],
+      [
+        "Vision Transformer",
+        1
+      ],
+      [
+        "CNN",
+        1
+      ],
+      [
+        "medical image segmentation",
+        1
+      ],
+      [
+        "collaborative cross-fusion",
+        1
+      ]
+    ],
+    "top_titles": [
+      "CCFNet: Collaborative Cross-Fusion Network for Medical Image Segmentation",
+      "SBC-UNet: A Network Based on Improved Hourglass Attention Mechanism and U-Net for Medical Image Segmentation.",
+      "NFN\uff0b: A Novel Network Followed Network for Retinal Vessel Segmentation.",
+      "Multi-compound Transformer for Accurate Biomedical Image Segmentation",
+      "Scale-wise Discriminative Region Learning for Medical Image Segmentation"
+    ],
+    "size": 19031
+  },
+  "14": {
+    "label": "Deep learning / Federated Learning / Laparoscopic cholecystectomy / Classification / X -Ray",
+    "top_keywords": [
+      [
+        "Deep learning",
+        3
+      ],
+      [
+        "Federated Learning",
+        2
+      ],
+      [
+        "Laparoscopic cholecystectomy",
+        2
+      ],
+      [
+        "Classification",
+        1
+      ],
+      [
+        "X -Ray",
+        1
+      ]
+    ],
+    "top_titles": [
+      "A Federated Learning Approach for Classifying Chest Diseases from Chest X-ray Images",
+      "Federated Learning Enables Big Data for Rare Cancer Boundary Detection",
+      "Deep Learning in Diverse Intelligent Sensor Based Systems.",
+      "Semi-Supervised Learning With Deep Embedded Clustering for Image Classification and Segmentation.",
+      "Federated Learning for Computer Vision"
+    ],
+    "size": 1867
+  },
+  "7": {
+    "label": "Human-Robot Collaboration / Robots / Visualization / human-robot collaboration / learning from demonstration",
+    "top_keywords": [
+      [
+        "Human-Robot Collaboration",
+        2
+      ],
+      [
+        "Robots",
+        2
+      ],
+      [
+        "Visualization",
+        2
+      ],
+      [
+        "human-robot collaboration",
+        2
+      ],
+      [
+        "learning from demonstration",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Learning Multimodal Models for Robot Dynamics Online with a Mixture of Gaussian Process Experts.",
+      "Physical Interaction As Communication: Learning Robot Objectives Online from Human Corrections",
+      "APPLD: Adaptive Planner Parameter Learning from Demonstration",
+      "Toward Proactive Human\u2013Robot Collaborative Assembly: A Multimodal Transfer-Learning-Enabled Action Prediction Approach",
+      "RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation"
+    ],
+    "size": 4135
+  },
+  "15": {
+    "label": "Machine learning / Deep learning / Satellite ioT / Satellite networks / Artificial intelligence",
+    "top_keywords": [
+      [
+        "Machine learning",
+        3
+      ],
+      [
+        "Deep learning",
+        3
+      ],
+      [
+        "Satellite ioT",
+        1
+      ],
+      [
+        "Satellite networks",
+        1
+      ],
+      [
+        "Artificial intelligence",
+        1
+      ]
+    ],
+    "top_titles": [
+      "On the Role of Machine Learning in Satellite Internet of Things: A Survey of Techniques, Challenges, and Future Directions",
+      "Explainable Artificial Intelligence (XAI) for Methods Working on Point Cloud Data: A Survey",
+      "Learning of Physically Significant Features from Earth Observation Data: an Illustration for Crop Classification and Irrigation Scheme Detection",
+      "ECA-MobileNetV3(Large)+SegNet Model for Binary Sugarcane Classification of Remotely Sensed Images",
+      "TS2HGRNet: A Paradigm of Two Stream Best Deep Learning Feature Fusion Assisted Framework for Human Gait Analysis Using Controlled Environment in Smart Cities."
+    ],
+    "size": 1475
+  },
+  "16": {
+    "label": "Monocular Depth Estimation / Novel view synthesis / Neural radiance fields / Human performance capture / Generalizable Neural radiance fields",
+    "top_keywords": [
+      [
+        "Monocular Depth Estimation",
+        2
+      ],
+      [
+        "Novel view synthesis",
+        1
+      ],
+      [
+        "Neural radiance fields",
+        1
+      ],
+      [
+        "Human performance capture",
+        1
+      ],
+      [
+        "Generalizable Neural radiance fields",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering.",
+      "MegaScenes: Scene-Level View Synthesis at Scale",
+      "Inferring Implicit 3D Representations from Human Figures on Pictorial Maps",
+      "Single-Shot Scene Reconstruction.",
+      "Learning Personalized High Quality Volumetric Head Avatars from Monocular RGB Videos"
+    ],
+    "size": 3963
+  },
+  "19": {
+    "label": "Task analysis / Object detection / Feature extraction / feature fusion / 3D object detection",
+    "top_keywords": [
+      [
+        "Task analysis",
+        2
+      ],
+      [
+        "Object detection",
+        2
+      ],
+      [
+        "Feature extraction",
+        2
+      ],
+      [
+        "feature fusion",
+        2
+      ],
+      [
+        "3D object detection",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Complexer-YOLO: Real-Time 3D Object Detection and Tracking on Semantic Point Clouds.",
+      "Real-world Object Recognition with Off-the-shelf Deep Conv Nets: How Many Objects Can Icub Learn?",
+      "Transformer-Based Model for Monocular Visual Odometry: A Video Understanding Approach",
+      "Geometry Understanding from Autonomous Driving Scenarios Based on Feature Refinement",
+      "MVImgNet: A Large-scale Dataset of Multi-view Images."
+    ],
+    "size": 18506
+  },
+  "4": {
+    "label": "Medical Concept Embedding / Electronic Health Records / Personal health records / neural networks / reasoning about belief and knowledge",
+    "top_keywords": [
+      [
+        "Medical Concept Embedding",
+        3
+      ],
+      [
+        "Electronic Health Records",
+        2
+      ],
+      [
+        "Personal health records",
+        1
+      ],
+      [
+        "neural networks",
+        1
+      ],
+      [
+        "reasoning about belief and knowledge",
+        1
+      ]
+    ],
+    "top_titles": [
+      "CarePre: an Intelligent Clinical Decision Assistance System",
+      "Behind the Scenes: A Medical Natural Language Processing Project",
+      "BenchMD: A Benchmark for Unified Learning on Medical Images and Sensors",
+      "Medical Device Surveillance with Electronic Health Records",
+      "EHRSHOT: an EHR Benchmark for Few-Shot Evaluation of Foundation Models"
+    ],
+    "size": 3043
+  },
+  "20": {
+    "label": "discontinuous Galerkin method / Radial basis function / high-order discontinuous Galerkin / matrix-free algorithms / multigrid",
+    "top_keywords": [
+      [
+        "discontinuous Galerkin method",
+        2
+      ],
+      [
+        "Radial basis function",
+        2
+      ],
+      [
+        "high-order discontinuous Galerkin",
+        1
+      ],
+      [
+        "matrix-free algorithms",
+        1
+      ],
+      [
+        "multigrid",
+        1
+      ]
+    ],
+    "top_titles": [
+      "A Next-Generation Discontinuous Galerkin Fluid Dynamics Solver with Application to High-Resolution Lung Airflow Simulations",
+      "Hyper.deal: an Efficient, Matrix-Free Finite-Element Library for High-Dimensional Partial Differential Equations",
+      "Fast Matrix-Free Evaluation of Discontinuous Galerkin Finite Element Operators",
+      "Lymph: Discontinuous Polytopal Methods for Multi-PHysics Differential Problems",
+      "A Scalable Rbf-Fd Method for Atmospheric Flow"
+    ],
+    "size": 3123
+  },
+  "10": {
+    "label": "Multimodal fusion / Deep Learning / Multimodal learning / Patient representation learning / Patient outcome prediction",
+    "top_keywords": [
+      [
+        "Multimodal fusion",
+        2
+      ],
+      [
+        "Deep Learning",
+        2
+      ],
+      [
+        "Multimodal learning",
+        2
+      ],
+      [
+        "Patient representation learning",
+        1
+      ],
+      [
+        "Patient outcome prediction",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Multimodal Fusion Network for ICU Patient Outcome Prediction",
+      "Deep Learning-a First Meta-Survey of Selected Reviews Across Scientific Disciplines, Their Commonalities, Challenges and Research Impact",
+      "Exploring the State of Machine Learning and Deep Learning in Medicine: A Survey of the Italian Research Community",
+      "Federated Learning Enables Big Data for Rare Cancer Boundary Detection",
+      "Domain Generalization for Medical Image Analysis: A Review"
+    ],
+    "size": 1992
+  },
+  "5": {
+    "label": "Machine learning / Medical imaging / Convolutional neural networks / Transfer Learning / Deep Learning",
+    "top_keywords": [
+      [
+        "Machine learning",
+        2
+      ],
+      [
+        "Medical imaging",
+        2
+      ],
+      [
+        "Convolutional neural networks",
+        2
+      ],
+      [
+        "Transfer Learning",
+        1
+      ],
+      [
+        "Deep Learning",
+        1
+      ]
+    ],
+    "top_titles": [
+      "DLTK: State of the Art Reference Implementations for Deep Learning on Medical Images.",
+      "Not-so-supervised: a Survey of Semi-Supervised, Multi-Instance, and Transfer Learning in Medical Image Analysis",
+      "GaNDLF: A Generally Nuanced Deep Learning Framework for Scalable End-to-End Clinical Workflows in Medical Imaging",
+      "Learning Clinically Useful Information from Images: Past, Present and Future.",
+      "Semi-supervised Learning for Network-Based Cardiac MR Image Segmentation"
+    ],
+    "size": 1093
+  },
+  "2": {
+    "label": "transfer learning / chest X-rays / Machine learning / Brain tumor / ViT",
+    "top_keywords": [
+      [
+        "transfer learning",
+        2
+      ],
+      [
+        "chest X-rays",
+        2
+      ],
+      [
+        "Machine learning",
+        2
+      ],
+      [
+        "Brain tumor",
+        1
+      ],
+      [
+        "ViT",
+        1
+      ]
+    ],
+    "top_titles": [
+      "ViT-CB: Integrating Hybrid Vision Transformer and CatBoost to Enhanced Brain Tumor Detection with SHAP",
+      "Review of Deep Learning-Based Pathological Image Classification: from Task-Specific Models to Foundation Models",
+      "Automated Breast Ultrasound Lesions Detection Using Convolutional Neural Networks",
+      "A Hybrid Feature Fusion Deep Learning Framework for Multi-Source Medical Image Analysis",
+      "Advancing Brain Tumor Segmentation and Grading Through Integration of FusionNet and IBCO-based ALCResNet"
+    ],
+    "size": 2364
+  },
+  "6": {
+    "label": "Medical imaging / Deep learning / Machine learning / Computational modeling / Special issues and sections",
+    "top_keywords": [
+      [
+        "Medical imaging",
+        3
+      ],
+      [
+        "Deep learning",
+        3
+      ],
+      [
+        "Machine learning",
+        2
+      ],
+      [
+        "Computational modeling",
+        2
+      ],
+      [
+        "Special issues and sections",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Guest Editorial Deep Learning in Medical Imaging: Overview and Future Promise of an Exciting New Technique",
+      "DLTK: State of the Art Reference Implementations for Deep Learning on Medical Images.",
+      "LitefusionNet: Boosting the Performance for Medical Image Classification with an Intelligent and Lightweight Feature Fusion Network",
+      "Medical Image Data and Datasets in the Era of Machine Learning - Whitepaper from the 2016 C-MIMI Meeting Dataset Session.",
+      "Optimized Deep Learning Model for Comprehensive Medical Image Analysis Across Multiple Modalities"
+    ],
+    "size": 2698
+  },
+  "8": {
+    "label": "Machine learning / Deep learning / deep learning / machine learning / Explainable Artificial Intelligence",
+    "top_keywords": [
+      [
+        "Machine learning",
+        2
+      ],
+      [
+        "Deep learning",
+        2
+      ],
+      [
+        "deep learning",
+        2
+      ],
+      [
+        "machine learning",
+        2
+      ],
+      [
+        "Explainable Artificial Intelligence",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Computational Approaches to Explainable Artificial Intelligence: Advances in Theory, Applications and Trends.",
+      "Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark",
+      "Interpretable Deep Models for ICU Outcome Prediction",
+      "Deep Learning for Health Informatics.",
+      "RSDNet: Learning to Predict Remaining Surgery Duration from Laparoscopic Videos Without Manual Annotations"
+    ],
+    "size": 4830
+  },
+  "9": {
+    "label": "Deep learning / deep learning / Breast cancer / Diabetic foot ulcer / Wound",
+    "top_keywords": [
+      [
+        "Deep learning",
+        4
+      ],
+      [
+        "deep learning",
+        2
+      ],
+      [
+        "Breast cancer",
+        1
+      ],
+      [
+        "Diabetic foot ulcer",
+        1
+      ],
+      [
+        "Wound",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Robust Application of New Deep Learning Tools: an Experimental Study in Medical Imaging",
+      "A Prior Guide Feature Enhancement Network for Classifying Ischaemic Stroke Onset Time Based on DWI and FLAIR Imaging",
+      "Optimized Deep Learning Model for Comprehensive Medical Image Analysis Across Multiple Modalities",
+      "Explainable Detection of Myocardial Infarction Using Deep Learning Models with Grad-CAM Technique on ECG Signals",
+      "BARF: A New Direct and Cross-Based Binary Residual Feature Fusion with Uncertainty-Aware Module for Medical Image Classification."
+    ],
+    "size": 1839
+  },
+  "13": {
+    "label": "Deep Learning / Medical Image Analysis / Medical image segmentation / Truncation / Compression",
+    "top_keywords": [
+      [
+        "Deep Learning",
+        2
+      ],
+      [
+        "Medical Image Analysis",
+        2
+      ],
+      [
+        "Medical image segmentation",
+        2
+      ],
+      [
+        "Truncation",
+        1
+      ],
+      [
+        "Compression",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Optimized Deep Learning Model for Comprehensive Medical Image Analysis Across Multiple Modalities",
+      "Improving Pneumonia Diagnosis with High-Accuracy Cnn-Based Chest X-Ray Image Classification and Integrated Gradient",
+      "FSNet: Dual Interpretable Graph Convolutional Network for Alzheimer\u2019s Disease Analysis",
+      "LMCNet: a Lightweight and Efficient Model for Multi-Classification of Breast Cancer Images",
+      "Transforming Lung Disease Diagnosis with Transfer Learning Using Chest X-Ray Images on Cloud Computing"
+    ],
+    "size": 1299
+  },
+  "0": {
+    "label": "deep learning / Medical imaging / Medicine/Public Health / general / Biomedicine",
+    "top_keywords": [
+      [
+        "deep learning",
+        2
+      ],
+      [
+        "Medical imaging",
+        2
+      ],
+      [
+        "Medicine/Public Health",
+        2
+      ],
+      [
+        "general",
+        2
+      ],
+      [
+        "Biomedicine",
+        2
+      ]
+    ],
+    "top_titles": [
+      "MONAI: An open-source framework for deep learning in healthcare",
+      "Exploring Scalable Medical Image Encoders Beyond Text Supervision",
+      "CheXpedition: Investigating Generalization Challenges for Translation of  Chest X-Ray Algorithms to the Clinical Setting",
+      "Benchmarking Collaborative Learning Methods Cost-Effectiveness for Prostate Segmentation",
+      "Transforming Lung Disease Diagnosis with Transfer Learning Using Chest X-Ray Images on Cloud Computing"
+    ],
+    "size": 2754
+  },
+  "3": {
+    "label": "Machine learning / machine learning / deep learning / Sentinel-1 / long time series",
+    "top_keywords": [
+      [
+        "Machine learning",
+        3
+      ],
+      [
+        "machine learning",
+        3
+      ],
+      [
+        "deep learning",
+        3
+      ],
+      [
+        "Sentinel-1",
+        2
+      ],
+      [
+        "long time series",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Improving Leaf Area Index Retrieval Using Multi-Sensor Images and Stacking Learning in Subtropical Forests of China",
+      "Are the Current Expectations for SAR Remote Sensing of Soil Moisture Using Machine Learning Over-Optimistic?",
+      "Accounting for Training Data Error in Machine Learning Applied to Earth Observations.",
+      "Soil Salinity Mapping Using Machine Learning Algorithms with the Sentinel-2 MSI in Arid Areas, China",
+      "Mapping Paddy Rice in Complex Landscapes with Landsat Time Series Data and Superpixel-Based Deep Learning Method"
+    ],
+    "size": 3274
+  },
+  "17": {
+    "label": "Neural Network Architectures / Image Segmentation / MRI Segmentation / Medical Imaging / Medical Image Analysis",
+    "top_keywords": [
+      [
+        "Neural Network Architectures",
+        1
+      ],
+      [
+        "Image Segmentation",
+        1
+      ],
+      [
+        "MRI Segmentation",
+        1
+      ],
+      [
+        "Medical Imaging",
+        1
+      ],
+      [
+        "Medical Image Analysis",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Nnu-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation.",
+      "A Recent Survey of Vision Transformers for Medical Image Segmentation",
+      "RIL-Contour: a Medical Imaging Dataset Annotation Tool for and with Deep Learning",
+      "HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation.",
+      "Adaptive Feature Aggregation Based Multi-Task Learning for Uncertainty-Guided Semi-Supervised Medical Image Segmentation."
+    ],
+    "size": 1788
+  },
+  "12": {
+    "label": "Deep learning / Breast cancer / Medical image / Deep Learning / Supervised learning",
+    "top_keywords": [
+      [
+        "Deep learning",
+        3
+      ],
+      [
+        "Breast cancer",
+        2
+      ],
+      [
+        "Medical image",
+        1
+      ],
+      [
+        "Deep Learning",
+        1
+      ],
+      [
+        "Supervised learning",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Medical Image Analysis Through Deep Learning Techniques: A Comprehensive Survey",
+      "Hybrid-Patch-Alex: A New Patch Division and Deep Feature Extraction-Based Image Classification Model to Detect COVID-19, Heart Failure, and Other Lung Conditions Using Medical Images",
+      "Advancing Breast Cancer Diagnosis: Token Vision Transformers for Faster and Accurate Classification of Histopathology Images",
+      "LMCNet: a Lightweight and Efficient Model for Multi-Classification of Breast Cancer Images",
+      "CVD-HNet: Classifying Pneumonia and COVID-19 in Chest X-ray Images Using Deep Network"
+    ],
+    "size": 1950
+  }
+}

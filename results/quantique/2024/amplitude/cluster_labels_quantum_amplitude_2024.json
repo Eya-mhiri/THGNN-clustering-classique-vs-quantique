@@ -1,0 +1,3896 @@
+{
+  "63": {
+    "label": "Optimization / Linear programming / Consensus / distributed optimization / energy Internet",
+    "top_keywords": [
+      [
+        "Optimization",
+        2
+      ],
+      [
+        "Linear programming",
+        2
+      ],
+      [
+        "Consensus",
+        1
+      ],
+      [
+        "distributed optimization",
+        1
+      ],
+      [
+        "energy Internet",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Distributed Neurodynamic Optimization for Energy Internet Management",
+      "Special Issue On: Optimization Methods for Decision Making: Advances and Applications.",
+      "The Intelligent Critic Framework for Advanced Optimal Control",
+      "Large-Scale Expensive Optimization with a Switching Strategy",
+      "Stochastic Configuration Networks with Improved Supervisory Mechanism"
+    ],
+    "size": 77155
+  },
+  "84": {
+    "label": "Statistics / Sociology / Optimization / neural network / Bayesian optimization",
+    "top_keywords": [
+      [
+        "Statistics",
+        2
+      ],
+      [
+        "Sociology",
+        2
+      ],
+      [
+        "Optimization",
+        2
+      ],
+      [
+        "neural network",
+        2
+      ],
+      [
+        "Bayesian optimization",
+        2
+      ]
+    ],
+    "top_titles": [
+      "A Data Stream Ensemble Assisted Multifactorial Evolutionary Algorithm for Offline Data-Driven Dynamic Optimization.",
+      "Differential Evolution Based on Network Structure for Feature Selection",
+      "Learning to Guide Particle Search for Dynamic Multiobjective Optimization.",
+      "Knee Point-Based Imbalanced Transfer Learning for Dynamic Multiobjective Optimization.",
+      "Evolutionary Optimization of High-Dimensional Multiobjective and Many-Objective Expensive Problems Assisted by a Dropout Neural Network"
+    ],
+    "size": 2148
+  },
+  "40": {
+    "label": "Software Defect Prediction / semantics / Choreography languages / Adaptation / Abstract interpretation",
+    "top_keywords": [
+      [
+        "Software Defect Prediction",
+        2
+      ],
+      [
+        "semantics",
+        2
+      ],
+      [
+        "Choreography languages",
+        1
+      ],
+      [
+        "Adaptation",
+        1
+      ],
+      [
+        "Abstract interpretation",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Split Transition Power Abstraction for Unbounded Safety",
+      "Developing Correct, Distributed, Adaptive Software",
+      "Detecting Missing-Check Bugs Via Semantic- and Context-Aware Criticalness and Constraints Inferences.",
+      "Angelic Verification: Precise Verification Modulo Unknowns.",
+      "Refinement Through Restraint: Bringing Down the Cost of Verification"
+    ],
+    "size": 5206
+  },
+  "43": {
+    "label": "Trial and error / Grounded theory method / User behaviour / Appropriation / Rejection",
+    "top_keywords": [
+      [
+        "Trial and error",
+        1
+      ],
+      [
+        "Grounded theory method",
+        1
+      ],
+      [
+        "User behaviour",
+        1
+      ],
+      [
+        "Appropriation",
+        1
+      ],
+      [
+        "Rejection",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Appropriating Information Technology Artefacts Through Trial and Error: the Case of the Tablet",
+      "From Physical to Digital: Investigating the Offline Drivers of the Online Use and Quality of Knowledge Exchange of an Intraorganizational Digital Collaborative Technology",
+      "Examining Structural, Perceptual, and Attitudinal Influences on the Quality of Information Sharing in Collaborative Technology Use",
+      "Information Technology Identity: A Key Determinant of IT Feature and Exploratory Usage.",
+      "Interaction Between Task Characteristics and Technology Affordances."
+    ],
+    "size": 11086
+  },
+  "89": {
+    "label": "Trajectory / Vehicle dynamics / Autonomous vehicles / Adaptation models / Predictive models",
+    "top_keywords": [
+      [
+        "Trajectory",
+        3
+      ],
+      [
+        "Vehicle dynamics",
+        3
+      ],
+      [
+        "Autonomous vehicles",
+        3
+      ],
+      [
+        "Adaptation models",
+        2
+      ],
+      [
+        "Predictive models",
+        2
+      ]
+    ],
+    "top_titles": [
+      "TP-FRL: an Efficient and Adaptive Trajectory Prediction Method Based on the Rule and Learning-Based Frameworks Fusion",
+      "Vehicle Trajectory Prediction Method Driven by Raw Sensing Data for Intelligent Vehicles",
+      "Online Learning-Informed Feedforward-Feedback Controller Synthesis for Path Tracking of Autonomous Vehicles",
+      "Knowledge Augmented Machine Learning with Applications in Autonomous Driving: A Survey",
+      "DroNet: Learning to Fly by Driving."
+    ],
+    "size": 9502
+  },
+  "117": {
+    "label": "Task analysis / Resource management / Servers / Internet of Things / Delays",
+    "top_keywords": [
+      [
+        "Task analysis",
+        5
+      ],
+      [
+        "Resource management",
+        4
+      ],
+      [
+        "Servers",
+        3
+      ],
+      [
+        "Internet of Things",
+        3
+      ],
+      [
+        "Delays",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Distributed Computing and Networking Coordination for Task Offloading under Uncertainties",
+      "MIDP: an MDP-based Intelligent Big Data Processing Scheme for Vehicular Edge Computing",
+      "Communication-Efficient Federated Learning for Wireless Edge Intelligence in IoT",
+      "Joint Optimization of Energy Conservation and Privacy Preservation for Intelligent Task Offloading in MEC-Enabled Smart Cities",
+      "FLight: A Lightweight Federated Learning Framework in Edge and Fog Computing"
+    ],
+    "size": 34340
+  },
+  "114": {
+    "label": "federated learning / Federated Learning / Edge computing / edge devices / edge intelligence",
+    "top_keywords": [
+      [
+        "federated learning",
+        3
+      ],
+      [
+        "Federated Learning",
+        2
+      ],
+      [
+        "Edge computing",
+        2
+      ],
+      [
+        "edge devices",
+        1
+      ],
+      [
+        "edge intelligence",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Collate: Collaborative Neural Network Learning for Latency-Critical Edge Systems.",
+      "Personalized Federated Learning with Communication Compression.",
+      "One Bit Aggregation for Federated Edge Learning with Reconfigurable Intelligent Surface: Analysis and Optimization",
+      "BOSE: Block-Wise Federated Learning in Heterogeneous Edge Computing",
+      "Efficient Asynchronous Federated Learning with Sparsification and Quantization"
+    ],
+    "size": 17829
+  },
+  "107": {
+    "label": "resource allocation / Servers / Federated learning / mobile edge computing / Task analysis",
+    "top_keywords": [
+      [
+        "resource allocation",
+        3
+      ],
+      [
+        "Servers",
+        3
+      ],
+      [
+        "Federated learning",
+        2
+      ],
+      [
+        "mobile edge computing",
+        2
+      ],
+      [
+        "Task analysis",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Federated Learning Via Over-the-Air Computation",
+      "Communication-Efficient Federated Learning for Wireless Edge Intelligence in IoT",
+      "Advanced Deep Learning for Resource Allocation and Security Aware Data Offloading in Industrial Mobile Edge Computing.",
+      "ERP: Edge Resource Pooling for Data Stream Mobile Computing.",
+      "Reinforcement-Learning- and Belief-Learning-Based Double Auction Mechanism for Edge Computing Resource Allocation"
+    ],
+    "size": 6167
+  },
+  "32": {
+    "label": "Medical image segmentation / Image segmentation / Biomedical imaging / Feature extraction / Training",
+    "top_keywords": [
+      [
+        "Medical image segmentation",
+        3
+      ],
+      [
+        "Image segmentation",
+        1
+      ],
+      [
+        "Biomedical imaging",
+        1
+      ],
+      [
+        "Feature extraction",
+        1
+      ],
+      [
+        "Training",
+        1
+      ]
+    ],
+    "top_titles": [
+      "MH UNet: A Multi-Scale Hierarchical Based Architecture for Medical Image Segmentation",
+      "NFN\uff0b: A Novel Network Followed Network for Retinal Vessel Segmentation.",
+      "GC-Net: Global Context Network for Medical Image Segmentation",
+      "Domain Generalization for Medical Image Analysis: A Review",
+      "Guest Editorial Deep Learning in Medical Imaging: Overview and Future Promise of an Exciting New Technique"
+    ],
+    "size": 31100
+  },
+  "103": {
+    "label": "Federated learning / ML modules / black-box attacks / transfer attacks / cloud-based ML services",
+    "top_keywords": [
+      [
+        "Federated learning",
+        2
+      ],
+      [
+        "ML modules",
+        1
+      ],
+      [
+        "black-box attacks",
+        1
+      ],
+      [
+        "transfer attacks",
+        1
+      ],
+      [
+        "cloud-based ML services",
+        1
+      ]
+    ],
+    "top_titles": [
+      "FaDec: A Fast Decision-based Attack for Adversarial Machine Learning.",
+      "TraceArk: Towards Actionable Performance Anomaly Alerting for Online Service Systems.",
+      "Federated Learning Aided Deep Convolutional Neural Network Solution for Smart Traffic Management.",
+      "MonitorAssistant: Simplifying Cloud Service Monitoring Via Large Language Models",
+      "Digital Twin Enhanced Federated Reinforcement Learning with Lightweight Knowledge Distillation in Mobile Networks"
+    ],
+    "size": 6823
+  },
+  "66": {
+    "label": "deep learning / adversarial examples / adversarial training / autoencoders / hidden state",
+    "top_keywords": [
+      [
+        "deep learning",
+        2
+      ],
+      [
+        "adversarial examples",
+        1
+      ],
+      [
+        "adversarial training",
+        1
+      ],
+      [
+        "autoencoders",
+        1
+      ],
+      [
+        "hidden state",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Fortified Networks: Improving the Robustness of Deep Networks by Modeling the Manifold of Hidden Representations.",
+      "Tuning DNN Model Compression to Resource and Data Availability in Cooperative Training",
+      "Visual Prompting Upgrades Neural Network Sparsification: A Data-Model Perspective",
+      "Lightweight Deep Learning: an Overview",
+      "Mathematical Introduction to Deep Learning: Methods, Implementations,   and Theory"
+    ],
+    "size": 6455
+  },
+  "8": {
+    "label": "distributed algorithms / distributed graph algorithms / Laplacian solvers / minor-based sparsification / Parallel algorithms",
+    "top_keywords": [
+      [
+        "distributed algorithms",
+        2
+      ],
+      [
+        "distributed graph algorithms",
+        1
+      ],
+      [
+        "Laplacian solvers",
+        1
+      ],
+      [
+        "minor-based sparsification",
+        1
+      ],
+      [
+        "Parallel algorithms",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Minor Sparsifiers and the Distributed Laplacian Paradigm",
+      "Conditional Hardness Results for Massively Parallel Computation from Distributed Lower Bounds",
+      "Fast Dynamic Cuts, Distances and Effective Resistances Via Vertex Sparsifiers.",
+      "PTAS for Sparse General-Valued CSPs",
+      "Universally-Optimal Distributed Exact Min-Cut"
+    ],
+    "size": 12059
+  },
+  "36": {
+    "label": "Machine Learning Interpretability / Interpretable Models / Model Interpretability / information extraction / fiction",
+    "top_keywords": [
+      [
+        "Machine Learning Interpretability",
+        2
+      ],
+      [
+        "Interpretable Models",
+        2
+      ],
+      [
+        "Model Interpretability",
+        2
+      ],
+      [
+        "information extraction",
+        1
+      ],
+      [
+        "fiction",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Augur: Mining Human Behaviors From Fiction To Power Interactive Systems",
+      "From Machine Learning to Explainable AI",
+      "A Classification and Review of Tools for Developing and Interacting with Machine Learning Systems.",
+      "Actionable Explainable AI (axai): A Practical Example with Aggregation Functions for Adaptive Classification and Textual Explanations for Interpretable Machine Learning",
+      "Interpretable Machine Learning: Moving from Mythos to Diagnostics"
+    ],
+    "size": 10708
+  },
+  "51": {
+    "label": "Channel estimation / Integrated sensing and communication (ISAC) / target detection / transmit beamforming / pilot design",
+    "top_keywords": [
+      [
+        "Channel estimation",
+        2
+      ],
+      [
+        "Integrated sensing and communication (ISAC)",
+        2
+      ],
+      [
+        "target detection",
+        2
+      ],
+      [
+        "transmit beamforming",
+        2
+      ],
+      [
+        "pilot design",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Joint UL/DL Dictionary Learning and Channel Estimation Via Two-Timescale Optimization in Massive MIMO Systems",
+      "Spatial Pilot Reassignment Algorithm for Channel Estimation Stage of Cell-Free Multi-Ars Communication Systems",
+      "Integrated Sensing and Communication: Joint Pilot and Transmission Design.",
+      "Asynchronous Distributed Beamforming Optimization Framework for RIS-Assisted Wireless Communications.",
+      "Optimal Collaborative Mapping of Terrestrial Transmitters: Receiver Placement and Performance Characterization."
+    ],
+    "size": 19102
+  },
+  "105": {
+    "label": "Federated learning / Computational modeling / Servers / Resource management / Industrial Internet of Things",
+    "top_keywords": [
+      [
+        "Federated learning",
+        4
+      ],
+      [
+        "Computational modeling",
+        3
+      ],
+      [
+        "Servers",
+        2
+      ],
+      [
+        "Resource management",
+        2
+      ],
+      [
+        "Industrial Internet of Things",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Optimizing Federated Learning in Distributed Industrial IoT: A Multi-Agent Approach.",
+      "Convergence Analysis and Latency Minimization for Semi-Federated Learning in Massive IoT Networks",
+      "Deep Learning for Hybrid 5G Services in Mobile Edge Computing Systems: Learn from a Digital Twin",
+      "CrowdLearning: A Decentralized Distributed Training Framework Based on Collectives of Trusted AIoT Devices",
+      "Adaptive Clustering Based Straggler-aware Federated Learning in Wireless Edge Networks"
+    ],
+    "size": 8197
+  },
+  "93": {
+    "label": "Convex functions / Convergence / Optimization / Gradient methods / Distributed optimization",
+    "top_keywords": [
+      [
+        "Convex functions",
+        3
+      ],
+      [
+        "Convergence",
+        2
+      ],
+      [
+        "Optimization",
+        2
+      ],
+      [
+        "Gradient methods",
+        2
+      ],
+      [
+        "Distributed optimization",
+        2
+      ]
+    ],
+    "top_titles": [
+      "On Distributed Nonconvex Optimization: Projected Subgradient Method for Weakly Convex Problems in Networks.",
+      "Communication-Efficient Distributed Eigenspace Estimation.",
+      "Distributed Continuous and Discrete Time Projection Neurodynamic Approaches for Sparse Recovery.",
+      "Primal-dual Methods for Large-Scale and Distributed Convex Optimization and Data Analytics",
+      "Distributed Sparsity Constrained Optimization over the Stiefel Manifold"
+    ],
+    "size": 4236
+  },
+  "62": {
+    "label": "Reinforcement Learning / Meta-Learning / Representation Learning / Transfer Learning / Semi-Supervised Learning",
+    "top_keywords": [
+      [
+        "Reinforcement Learning",
+        6
+      ],
+      [
+        "Meta-Learning",
+        3
+      ],
+      [
+        "Representation Learning",
+        2
+      ],
+      [
+        "Transfer Learning",
+        2
+      ],
+      [
+        "Semi-Supervised Learning",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Parrot: Data-Driven Behavioral Priors for Reinforcement Learning.",
+      "Generalizing Skills with Semi-Supervised Reinforcement Learning.",
+      "Generalization with Lossy Affordances: Leveraging Broad Offline Data for Learning Visuomotor Tasks",
+      "Guided Online Distillation: Promoting Safe Reinforcement Learning by Offline Demonstration",
+      "Skill-based Meta-Reinforcement Learning"
+    ],
+    "size": 9760
+  },
+  "81": {
+    "label": "Deep learning / Feature extraction / Visualization / Computer vision / Developments",
+    "top_keywords": [
+      [
+        "Deep learning",
+        4
+      ],
+      [
+        "Feature extraction",
+        2
+      ],
+      [
+        "Visualization",
+        2
+      ],
+      [
+        "Computer vision",
+        1
+      ],
+      [
+        "Developments",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Deep Learning for Visual Understanding: A Review.",
+      "LSV-ANet: Deep Learning on Local Structure Visualization for Feature Matching",
+      "Improving Deep Convolutional Neural Networks with Unsupervised Feature Learning",
+      "MFIL-FCOS: A Multi-Scale Fusion and Interactive Learning Method for 2D Object Detection and Remote Sensing Image Detection",
+      "DIMA: Digging into Multigranular Archetype for Fine-Grained Object Detection"
+    ],
+    "size": 149225
+  },
+  "33": {
+    "label": "Topic Modeling / Language Modeling / Language Understanding / Sequence-to-Sequence Learning / Statistical Language Modeling",
+    "top_keywords": [
+      [
+        "Topic Modeling",
+        8
+      ],
+      [
+        "Language Modeling",
+        6
+      ],
+      [
+        "Language Understanding",
+        2
+      ],
+      [
+        "Sequence-to-Sequence Learning",
+        2
+      ],
+      [
+        "Statistical Language Modeling",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Augmenting Interpretable Models with Large Language Models During Training",
+      "Jointly Learning to Label Sentences and Tokens.",
+      "SOLAR 10.7B: Scaling Large Language Models with Simple Yet Effective Depth Up-Scaling",
+      "Language Models As Black-Box Optimizers for Vision-Language Models.",
+      "GLUECons: A Generic Benchmark for Learning under Constraints"
+    ],
+    "size": 84578
+  },
+  "91": {
+    "label": "Data models / deep learning / Deep learning / Predictive models / Neural networks",
+    "top_keywords": [
+      [
+        "Data models",
+        3
+      ],
+      [
+        "deep learning",
+        3
+      ],
+      [
+        "Deep learning",
+        2
+      ],
+      [
+        "Predictive models",
+        2
+      ],
+      [
+        "Neural networks",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Neuroplex: learning to detect complex events in sensor networks through knowledge injection",
+      "Demystifying Deep Learning in Predictive Spatiotemporal Analytics: an Information-Theoretic Framework.",
+      "Small Data Challenges for Intelligent Prognostics and Health Management: a Review",
+      "An End-to-End Deep Learning Framework for Fault Detection in Marine Machinery",
+      "IoT-based Predictive Maintenance for Fleet Management"
+    ],
+    "size": 7251
+  },
+  "23": {
+    "label": "3D medical imaging / Interactive 3D image segmentation / Active learning / Deep learning / 3d shape analysis",
+    "top_keywords": [
+      [
+        "3D medical imaging",
+        1
+      ],
+      [
+        "Interactive 3D image segmentation",
+        1
+      ],
+      [
+        "Active learning",
+        1
+      ],
+      [
+        "Deep learning",
+        1
+      ],
+      [
+        "3d shape analysis",
+        1
+      ]
+    ],
+    "top_titles": [
+      "ViLMedic: a Framework for Research at the Intersection of Vision and Language in Medical AI",
+      "MONAI Label: A Framework for AI-assisted Interactive Labeling of 3D Medical Images",
+      "Motion Annotation Programs: A Scalable Approach to Annotating Kinematic Articulations in Large 3D Shape Collections",
+      "Collaborative Virtual Reality for Laparoscopic Liver Surgery Training.",
+      "Human-centered Machine Learning Through Interactive Visualization: Review and Open Challenges."
+    ],
+    "size": 3278
+  },
+  "65": {
+    "label": "attention mechanism / Deep learning / Task analysis / Feature extraction / Low-light image enhancement",
+    "top_keywords": [
+      [
+        "attention mechanism",
+        2
+      ],
+      [
+        "Deep learning",
+        2
+      ],
+      [
+        "Task analysis",
+        2
+      ],
+      [
+        "Feature extraction",
+        2
+      ],
+      [
+        "Low-light image enhancement",
+        1
+      ]
+    ],
+    "top_titles": [
+      "LELD: Learn Enhancement by Learning Degradation",
+      "Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets",
+      "Spatiotemporal Representation Learning for Blind Video Quality Assessment",
+      "High Efficiency Deep-learning Based Video Compression",
+      "Stacked Deformable Convolution Network with Weighted Non-Local Attention and Branch Residual Connection for Image Quality Assessment"
+    ],
+    "size": 4676
+  },
+  "52": {
+    "label": "Task analysis / Planning / Trajectory / Transformers / Roads",
+    "top_keywords": [
+      [
+        "Task analysis",
+        3
+      ],
+      [
+        "Planning",
+        2
+      ],
+      [
+        "Trajectory",
+        2
+      ],
+      [
+        "Transformers",
+        2
+      ],
+      [
+        "Roads",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Watch This: Scalable Cost-Function Learning for Path Planning in Urban Environments.",
+      "Interactive Joint Planning for Autonomous Vehicles",
+      "On Machine Learning and Structure for Mobile Robots",
+      "Unsupervised Early Prediction of Human Reaching for Human\u2013robot Collaboration in Shared Workspaces",
+      "LF-Net: A Learning-Based Frenet Planning Approach for Urban Autonomous Driving"
+    ],
+    "size": 5255
+  },
+  "31": {
+    "label": "Local search / Combinatorial optimization / IT\u00d6 algorithm / Large scale optimization / Multiple balanced traveling salesmen problem",
+    "top_keywords": [
+      [
+        "Local search",
+        2
+      ],
+      [
+        "Combinatorial optimization",
+        2
+      ],
+      [
+        "IT\u00d6 algorithm",
+        1
+      ],
+      [
+        "Large scale optimization",
+        1
+      ],
+      [
+        "Multiple balanced traveling salesmen problem",
+        1
+      ]
+    ],
+    "top_titles": [
+      "IT\u00d6 Algorithm with Local Search for Large Scale Multiple Balanced Traveling Salesmen Problem",
+      "A Two-Echelon Inventory Routing Problem for Perishable Products",
+      "Redesigning Benders Decomposition for Large-Scale Facility Location",
+      "Order Assignment and Scheduling for Personal Protective Equipment Production During the Outbreak of Epidemics",
+      "Exact and Heuristic Algorithms for the Interval Min-Max Regret Generalized Assignment Problem."
+    ],
+    "size": 12334
+  },
+  "100": {
+    "label": "Servers / Task analysis / Computational modeling / Internet of Things / resource allocation",
+    "top_keywords": [
+      [
+        "Servers",
+        3
+      ],
+      [
+        "Task analysis",
+        3
+      ],
+      [
+        "Computational modeling",
+        2
+      ],
+      [
+        "Internet of Things",
+        2
+      ],
+      [
+        "resource allocation",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Computation Offloading and Resource Allocation Based on DT-MEC-Assisted Federated Learning Framework",
+      "Secure and Optimized Load Balancing for Multitier IoT and Edge-Cloud Computing Systems.",
+      "A Lightweight and Privacy-Preserving Authentication Protocol for Mobile Edge Computing",
+      "Metadata-Private Resource Allocation in Edge Computing Withstands Semi-Malicious Edge Nodes",
+      "Compute- and Data-Intensive Networks: the Key to the Metaverse."
+    ],
+    "size": 10077
+  },
+  "72": {
+    "label": "automatic target recognition (ATR) / Time series / Deep learning / Transformer / SAR data",
+    "top_keywords": [
+      [
+        "automatic target recognition (ATR)",
+        2
+      ],
+      [
+        "Time series",
+        1
+      ],
+      [
+        "Deep learning",
+        1
+      ],
+      [
+        "Transformer",
+        1
+      ],
+      [
+        "SAR data",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Orchard Classification Based on Super-Pixels and Deep Learning with Sparse Optical Images",
+      "Intelligent Detection and Segmentation of Space-Borne SAR Radio Frequency Interference",
+      "Active Multiview Fusion Framework for SAR Automatic Target Recognition",
+      "Decision Fusion of Deep Learning and Shallow Learning for Marine Oil Spill Detection",
+      "On-Board Real-Time Ship Detection in HISEA-1 SAR Images Based on CFAR and Lightweight Deep Learning"
+    ],
+    "size": 8586
+  },
+  "71": {
+    "label": "finite-time analysis / regret analysis / distributed dynamic parameters estimation / time-varying parameter / noisy signals",
+    "top_keywords": [
+      [
+        "finite-time analysis",
+        2
+      ],
+      [
+        "regret analysis",
+        1
+      ],
+      [
+        "distributed dynamic parameters estimation",
+        1
+      ],
+      [
+        "time-varying parameter",
+        1
+      ],
+      [
+        "noisy signals",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Distributed Estimation of Dynamic Parameters: Regret Analysis",
+      "Distributed Online Optimization in Dynamic Environments Using Mirror Descent.",
+      "Finite-time Analysis of the Distributed Detection Problem.",
+      "Distributed Detection: Finite-Time Analysis and Impact of Network Topology.",
+      "A Nonautonomous-Differential-inclusion Neurodynamic Approach for Nonsmooth Distributed Optimization on Multi-Agent Systems"
+    ],
+    "size": 5453
+  },
+  "85": {
+    "label": "Neural networks / machine learning / Multi-fidelity / Machine learning / supervised learning",
+    "top_keywords": [
+      [
+        "Neural networks",
+        3
+      ],
+      [
+        "machine learning",
+        2
+      ],
+      [
+        "Multi-fidelity",
+        2
+      ],
+      [
+        "Machine learning",
+        2
+      ],
+      [
+        "supervised learning",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Towards a Mathematical Understanding of Neural Network-Based Machine Learning: What We Know and What We Don't",
+      "Machine Learning from a Continuous Viewpoint,i",
+      "Feature-adjacent Multi-Fidelity Physics-Informed Machine Learning for Partial Differential Equations",
+      "Regularized Optimal Transport Layers for Generalized Global Pooling Operations.",
+      "SIGNSGD: Compressed Optimisation for Non-Convex Problems."
+    ],
+    "size": 3459
+  },
+  "59": {
+    "label": "Deepfakes / Forgery / Faces / Feature extraction / Deepfake detection",
+    "top_keywords": [
+      [
+        "Deepfakes",
+        2
+      ],
+      [
+        "Forgery",
+        2
+      ],
+      [
+        "Faces",
+        2
+      ],
+      [
+        "Feature extraction",
+        2
+      ],
+      [
+        "Deepfake detection",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Deep Learning for Fixed Model Reuse.",
+      "Improving Generalization of Deepfake Detectors by Imposing Gradient Regularization",
+      "DSSE-net: Dual Stream Skip Edge-Enhanced Network with Forgery Loss for Image Forgery Localization",
+      "ImageNet Pre-trained CNNs for JPEG Steganalysis",
+      "Improving EfficientNet for JPEG Steganalysis."
+    ],
+    "size": 7510
+  },
+  "106": {
+    "label": "Security / Computational modeling / outsourced storage / verifiable data streaming / Privacy",
+    "top_keywords": [
+      [
+        "Security",
+        3
+      ],
+      [
+        "Computational modeling",
+        2
+      ],
+      [
+        "outsourced storage",
+        2
+      ],
+      [
+        "verifiable data streaming",
+        2
+      ],
+      [
+        "Privacy",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Optimal Verifiable Data Streaming under Concurrent Queries",
+      "Scalable Role-Based Data Disclosure Control for the Internet of Things.",
+      "An SGX-Based Key Management Framework for Data Centric Networking.",
+      "DAML: Practical Secure Protocol for Data Aggregation Based on Machine Learning",
+      "Verifiable Data Streaming with Efficient Update for Intelligent Automation Systems"
+    ],
+    "size": 14732
+  },
+  "45": {
+    "label": "Temporal Logic / Security Policies / Runtime verification / Taxonomy / Tool",
+    "top_keywords": [
+      [
+        "Temporal Logic",
+        1
+      ],
+      [
+        "Security Policies",
+        1
+      ],
+      [
+        "Runtime verification",
+        1
+      ],
+      [
+        "Taxonomy",
+        1
+      ],
+      [
+        "Tool",
+        1
+      ]
+    ],
+    "top_titles": [
+      "A Temporal Logic for Strategic Hyperproperties",
+      "A Taxonomy for Classifying Runtime Verification Tools",
+      "A Deductive Verification Infrastructure for Probabilistic Programs.",
+      "KATch: A Fast Symbolic Verifier for NetKAT",
+      "Personalized Algorithmic Recourse with Preference Elicitation"
+    ],
+    "size": 3756
+  },
+  "28": {
+    "label": "virtual reality / Virtual reality / Head-mounted displays / Dual-hand input devices / Interaction design",
+    "top_keywords": [
+      [
+        "virtual reality",
+        4
+      ],
+      [
+        "Virtual reality",
+        1
+      ],
+      [
+        "Head-mounted displays",
+        1
+      ],
+      [
+        "Dual-hand input devices",
+        1
+      ],
+      [
+        "Interaction design",
+        1
+      ]
+    ],
+    "top_titles": [
+      "User-elicited Dual-Hand Interactions for Manipulating 3D Objects in Virtual Reality Environments",
+      "User Representations in Human-Computer Interaction",
+      "FaceDisplay: Towards Asymmetric Multi-User Interaction for Nomadic Virtual Reality.",
+      "Interaction in an Immersive Collaborative Virtual Reality Environment: A Comparison Between Leap Motion and HTC Controllers.",
+      "Authoring Moving Parts of Objects in AR, VR and the Desktop"
+    ],
+    "size": 5601
+  },
+  "96": {
+    "label": "deep learning / Machine learning / manifold learning / tabular data / Deep learning theory",
+    "top_keywords": [
+      [
+        "deep learning",
+        4
+      ],
+      [
+        "Machine learning",
+        2
+      ],
+      [
+        "manifold learning",
+        1
+      ],
+      [
+        "tabular data",
+        1
+      ],
+      [
+        "Deep learning theory",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Manifoldron: Direct Space Partition Via Manifold Discovery",
+      "Generalization Error Guaranteed Auto-Encoder-Based Nonlinear Model Reduction for Operator Learning",
+      "Learning with Noisy Labels Through Learnable Weighting and Centroid Similarity",
+      "Deep Learning and Symbolic Regression for Discovering Parametric Equations.",
+      "Integration of Neural Network-Based Symbolic Regression in Deep Learning for Scientific Discovery"
+    ],
+    "size": 3087
+  },
+  "55": {
+    "label": "Representation Learning / Robust Learning / Transfer Learning / Few-Shot Learning / Deep Learning",
+    "top_keywords": [
+      [
+        "Representation Learning",
+        3
+      ],
+      [
+        "Robust Learning",
+        2
+      ],
+      [
+        "Transfer Learning",
+        2
+      ],
+      [
+        "Few-Shot Learning",
+        2
+      ],
+      [
+        "Deep Learning",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Deep Learning for Fixed Model Reuse.",
+      "OoD-Bench: Quantifying and Understanding Two Dimensions of Out-of-Distribution Generalization",
+      "Domain-Adjusted Regression Or: ERM May Already Learn Features Sufficient for Out-of-Distribution Generalization",
+      "Invariance Learning in Deep Neural Networks with Differentiable Laplace Approximations.",
+      "Verifying the Generalization of Deep Learning to Out-of-Distribution Domains"
+    ],
+    "size": 6659
+  },
+  "7": {
+    "label": "Medical image segmentation / Image segmentation / Medical Imaging / Anatomical structure / Deep neural network",
+    "top_keywords": [
+      [
+        "Medical image segmentation",
+        2
+      ],
+      [
+        "Image segmentation",
+        2
+      ],
+      [
+        "Medical Imaging",
+        2
+      ],
+      [
+        "Anatomical structure",
+        2
+      ],
+      [
+        "Deep neural network",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Labelling with Dynamics: A Data-Efficient Learning Paradigm for Medical Image Segmentation",
+      "OFF-eNET: an Optimally Fused Fully End-to-End Network for Automatic Dense Volumetric 3D Intracranial Blood Vessels Segmentation.",
+      "DLTK: State of the Art Reference Implementations for Deep Learning on Medical Images.",
+      "Adaptive Feature Aggregation Based Multi-Task Learning for Uncertainty-Guided Semi-Supervised Medical Image Segmentation.",
+      "Boosting Medical Image Segmentation Performance with Adaptive Convolution Layer"
+    ],
+    "size": 5893
+  },
+  "77": {
+    "label": "Medical image segmentation / Computational modeling / Transformers / Image classification / Knowledge distillation",
+    "top_keywords": [
+      [
+        "Medical image segmentation",
+        3
+      ],
+      [
+        "Computational modeling",
+        2
+      ],
+      [
+        "Transformers",
+        2
+      ],
+      [
+        "Image classification",
+        2
+      ],
+      [
+        "Knowledge distillation",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Learning a Hierarchical Global Attention for Image Classification",
+      "Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning",
+      "Explainable Knowledge Distillation for On-device Chest X-Ray Classification.",
+      "HDKD: Hybrid Data-Efficient Knowledge Distillation Network for Medical Image Classification.",
+      "TC-Net: A Joint Learning Framework Based on CNN and Vision Transformer for Multi-Lesion Medical Images Segmentation."
+    ],
+    "size": 4440
+  },
+  "12": {
+    "label": "Learning-from-observation / semantic constraints / domestic robots / object-centric action analysis / robot teaching",
+    "top_keywords": [
+      [
+        "Learning-from-observation",
+        1
+      ],
+      [
+        "semantic constraints",
+        1
+      ],
+      [
+        "domestic robots",
+        1
+      ],
+      [
+        "object-centric action analysis",
+        1
+      ],
+      [
+        "robot teaching",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Semantic Constraints to Represent Common Sense Required in Household Actions for Multi-Modal Learning-from-observation Robot",
+      "Collaborative Autonomy Between High-Level Behaviors and Human Operators for Remote Manipulation Tasks Using Different Humanoid Robots",
+      "Simultaneously Learning Intentions and Preferences During Physical Human-Robot Cooperation",
+      "Toward Proactive Human\u2013Robot Collaborative Assembly: A Multimodal Transfer-Learning-Enabled Action Prediction Approach",
+      "LanCon-Learn: Learning with Language to Enable Generalization in Multi-Task Manipulation"
+    ],
+    "size": 2074
+  },
+  "98": {
+    "label": "Machine learning / Semi-Supervised Learning / deployed machine learning model / training data points / deep learning models",
+    "top_keywords": [
+      [
+        "Machine learning",
+        2
+      ],
+      [
+        "Semi-Supervised Learning",
+        2
+      ],
+      [
+        "deployed machine learning model",
+        1
+      ],
+      [
+        "training data points",
+        1
+      ],
+      [
+        "deep learning models",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Unrolling SGD: Understanding Factors Influencing Machine Unlearning",
+      "SLIDE : in Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems.",
+      "BOLT: an Automated Deep Learning Framework for Training and Deploying Large-Scale Search and Recommendation Models on Commodity CPU Hardware",
+      "Bounding Training Data Reconstruction in DP-SGD",
+      "Systemization of Knowledge: Robust Deep Learning Using Hardware-software Co-Design in Centralized and Federated Settings"
+    ],
+    "size": 9234
+  },
+  "108": {
+    "label": "Internet of Things / Authentication / Protocols / Cloud computing / Industrial Internet of Things",
+    "top_keywords": [
+      [
+        "Internet of Things",
+        4
+      ],
+      [
+        "Authentication",
+        4
+      ],
+      [
+        "Protocols",
+        2
+      ],
+      [
+        "Cloud computing",
+        2
+      ],
+      [
+        "Industrial Internet of Things",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Leakage-Resilient Authenticated Key Exchange for Edge Artificial Intelligence",
+      "Authenticated Key Agreement Scheme for Fog-Driven IoT Healthcare System.",
+      "Scalable and Revocable Attribute-Based Data Sharing with Short Revocation List for IIoT",
+      "A Lightweight Architecture for Hardware-Based Security in the Emerging Era of Systems of Systems",
+      "Provably Secured Lightweight Authenticated Key Agreement Protocol for Modern Health Industry."
+    ],
+    "size": 8168
+  },
+  "46": {
+    "label": "Runtime verification / Taxonomy / Tool / Classification / Mindmap",
+    "top_keywords": [
+      [
+        "Runtime verification",
+        1
+      ],
+      [
+        "Taxonomy",
+        1
+      ],
+      [
+        "Tool",
+        1
+      ],
+      [
+        "Classification",
+        1
+      ],
+      [
+        "Mindmap",
+        1
+      ]
+    ],
+    "top_titles": [
+      "A Taxonomy for Classifying Runtime Verification Tools",
+      "Honeyquest: Rapidly Measuring the Enticingness of Cyber Deception Techniques with Code-based Questionnaires",
+      "Towards a Software Product Line for Machine Learning Workflows: Focus on Supporting Evolution.",
+      "Software-Intensive Systems for Smart Cities: from Ensembles to Superorganisms.",
+      "From Features Engineering to Scenarios Engineering for Trustworthy AI: I&I, C&C, and V&V"
+    ],
+    "size": 5740
+  },
+  "5": {
+    "label": "Visual Question Answering / Image Captioning / Representation Learning / Semi-Supervised Learning / Meta-Learning",
+    "top_keywords": [
+      [
+        "Visual Question Answering",
+        5
+      ],
+      [
+        "Image Captioning",
+        4
+      ],
+      [
+        "Representation Learning",
+        3
+      ],
+      [
+        "Semi-Supervised Learning",
+        3
+      ],
+      [
+        "Meta-Learning",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Vision-Language Models for Vision Tasks: A Survey",
+      "Scaling Up Visual and Vision-Language Representation Learning with Noisy Text Supervision.",
+      "Flamingo: a Visual Language Model for Few-Shot Learning",
+      "Prismer: A Vision-Language Model with an Ensemble of Experts",
+      "Sequential Modeling Enables Scalable Learning for Large Vision Models"
+    ],
+    "size": 46284
+  },
+  "38": {
+    "label": "Huffman coding / Encryption / Reversible data hiding / Image coding / Encrypted images",
+    "top_keywords": [
+      [
+        "Huffman coding",
+        4
+      ],
+      [
+        "Encryption",
+        3
+      ],
+      [
+        "Reversible data hiding",
+        3
+      ],
+      [
+        "Image coding",
+        2
+      ],
+      [
+        "Encrypted images",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Boolean-based Two-in-One Secret Image Sharing by Adaptive Pixel Grouping.",
+      "Reversible Data Hiding in Encrypted Images Using Reservoir Computing Based Data Fusion Strategy",
+      "Reversible Data Hiding in Encrypted Images Based on Time-Varying Huffman Coding Table",
+      "Parametric Reversible Data Hiding in Encrypted Images Using Adaptive Bit-Level Data Embedding and Checkerboard Based Prediction",
+      "Reversible Data Hiding in Encrypted Image Based on (7, 4) Hamming Code and UnitSmooth Detection."
+    ],
+    "size": 3761
+  },
+  "67": {
+    "label": "Feature extraction / Deep learning / Data models / Adaptation models / Task analysis",
+    "top_keywords": [
+      [
+        "Feature extraction",
+        3
+      ],
+      [
+        "Deep learning",
+        3
+      ],
+      [
+        "Data models",
+        2
+      ],
+      [
+        "Adaptation models",
+        2
+      ],
+      [
+        "Task analysis",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Invariant Feature Learning for Sensor-based Human Activity Recognition",
+      "ImageNet Classification with Raspberry Pis: Federated Learning Algorithms of Local Classifiers",
+      "Federated Learning\u2013based Global Road Damage Detection",
+      "Evolving Unsupervised Deep Neural Networks for Learning Meaningful Representations",
+      "An Overview of Deep Semi-Supervised Learning"
+    ],
+    "size": 2886
+  },
+  "79": {
+    "label": "Delays / Interference / Heuristic algorithms / Resource management / Computational modeling",
+    "top_keywords": [
+      [
+        "Delays",
+        3
+      ],
+      [
+        "Interference",
+        2
+      ],
+      [
+        "Heuristic algorithms",
+        2
+      ],
+      [
+        "Resource management",
+        2
+      ],
+      [
+        "Computational modeling",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Distributed Caching for Data Dissemination in the Downlink of Heterogeneous Networks.",
+      "Energy Aware Disjoint Dominating Sets Algorithm for Heterogeneous Wireless Sensor Networks",
+      "Q-Learning-Based Data-Aggregation-Aware Energy-Efficient Routing Protocol for Wireless Sensor Networks",
+      "Collaborative Task Offloading and Resource Allocation in Small-Cell MEC: A Multi-Agent PPO-Based Scheme",
+      "Learning-Based Deadlock-Free Multi-Objective Task Offloading in Satellite Edge Computing with Data-Dependent Constraints and Limited Buffers."
+    ],
+    "size": 3001
+  },
+  "92": {
+    "label": "Cost function / Convergence / Topology / Estimation / Distributed algorithm",
+    "top_keywords": [
+      [
+        "Cost function",
+        3
+      ],
+      [
+        "Convergence",
+        2
+      ],
+      [
+        "Topology",
+        2
+      ],
+      [
+        "Estimation",
+        2
+      ],
+      [
+        "Distributed algorithm",
+        2
+      ]
+    ],
+    "top_titles": [
+      "A General Framework for Decentralized Optimization with First-Order Methods",
+      "Distributed Optimization Algorithms for MASs with Network Attacks: from Continuous-Time to Event-Triggered Communication",
+      "Nonlinear Perturbation-based Non-Convex Optimization over Time-Varying Networks",
+      "GNSD: a Gradient-Tracking Based Nonconvex Stochastic Algorithm for Decentralized Optimization.",
+      "Distributed Online Optimization with Long-Term Constraints"
+    ],
+    "size": 4021
+  },
+  "97": {
+    "label": "Deep learning / Electrocardiogram / deep learning / Atrial fibrillation / Cardiovascular diseases",
+    "top_keywords": [
+      [
+        "Deep learning",
+        6
+      ],
+      [
+        "Electrocardiogram",
+        2
+      ],
+      [
+        "deep learning",
+        2
+      ],
+      [
+        "Atrial fibrillation",
+        2
+      ],
+      [
+        "Cardiovascular diseases",
+        2
+      ]
+    ],
+    "top_titles": [
+      "ECG-CL: A Comprehensive Electrocardiogram Interpretation Method Based on Continual Learning",
+      "Classification of Pathological ECG Beats Based on Wireless Body Sensor Networks and Fractional Fourier Transform and Convolutional Neural Network",
+      "Machine Learning for Bioinformatics and Neuroimaging",
+      "An Atrial Fibrillation Classification Method Based on an Outlier Data Filtering Strategy and Modified Residual Block of the Feature Pyramid Network",
+      "Deep Learning for Ecg Classification: A Comparative Study of 1d and 2d Representations and Multimodal Fusion Approaches"
+    ],
+    "size": 2919
+  },
+  "113": {
+    "label": "Federated Learning / Energy efficiency / High performance edge computing / Artificial intelligence / Data lake",
+    "top_keywords": [
+      [
+        "Federated Learning",
+        2
+      ],
+      [
+        "Energy efficiency",
+        1
+      ],
+      [
+        "High performance edge computing",
+        1
+      ],
+      [
+        "Artificial intelligence",
+        1
+      ],
+      [
+        "Data lake",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Energy Data Classification at the Edge: a Comparative Study for Energy Efficiency Applications",
+      "Lightweight Privacy-Preserving Predictive Maintenance in 6G Enabled IIoT",
+      "Federated Deep Learning for Heterogeneous Edge Computing",
+      "Crossing Roads of Federated Learning and Smart Grids: Overview, Challenges, and Perspectives.",
+      "SHT-based Public Auditing Protocol with Error Tolerance in FDL-empowered IoVs"
+    ],
+    "size": 7089
+  },
+  "57": {
+    "label": "Multi-scale feature / Internet of Things / Deep Learning / Transfer Learning / Artificial Intelligences",
+    "top_keywords": [
+      [
+        "Multi-scale feature",
+        2
+      ],
+      [
+        "Internet of Things",
+        2
+      ],
+      [
+        "Deep Learning",
+        1
+      ],
+      [
+        "Transfer Learning",
+        1
+      ],
+      [
+        "Artificial Intelligences",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Deep Learning-a First Meta-Survey of Selected Reviews Across Scientific Disciplines, Their Commonalities, Challenges and Research Impact",
+      "Inception MLP: A Vision MLP Backbone for Multi-scale Feature Extraction",
+      "A Novel Sequential Structure for Lightweight Multi-Scale Feature Learning under Limited Available Images.",
+      "Low-Resource Scenario Classification Through Model Pruning Towards Refined Edge Intelligence",
+      "A Deep Neural Architecture for Harmonizing 3-D Input Data Analysis and Decision Making in Medical Imaging."
+    ],
+    "size": 5152
+  },
+  "34": {
+    "label": "Data visualization / Three-dimensional displays / immersive analytics / immersive visualization / stereoscopic visualization",
+    "top_keywords": [
+      [
+        "Data visualization",
+        2
+      ],
+      [
+        "Three-dimensional displays",
+        2
+      ],
+      [
+        "immersive analytics",
+        2
+      ],
+      [
+        "immersive visualization",
+        1
+      ],
+      [
+        "stereoscopic visualization",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Navigable Videos for Presenting Scientific Data on Affordable Head-Mounted Displays",
+      "Nearmi: A Framework for Designing Point of Interest Techniques for VR Users with Limited Mobility",
+      "Visual Highlighting for Situated Brushing and Linking",
+      "Good Keyframes to Inpaint.",
+      "Expanding the Horizons of Situated Visualization: the Extended SV Model"
+    ],
+    "size": 7555
+  },
+  "83": {
+    "label": "Deep learning / Feature extraction / Information fusion / Real-time data / Heterogeneous data",
+    "top_keywords": [
+      [
+        "Deep learning",
+        2
+      ],
+      [
+        "Feature extraction",
+        2
+      ],
+      [
+        "Information fusion",
+        1
+      ],
+      [
+        "Real-time data",
+        1
+      ],
+      [
+        "Heterogeneous data",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Online Learning to Accelerate Neural Network Inference with Traveling Classifiers",
+      "Ifusion: Towards Efficient Intelligence Fusion for Deep Learning from Real-Time and Heterogeneous Data.",
+      "Marine Vessel Re-Identification: A Large-Scale Dataset and Global-and-Local Fusion-Based Discriminative Feature Learning.",
+      "UDTIRI: an Online Open-Source Intelligent Road Inspection Benchmark Suite",
+      "A Novel Fusion Feature Imageization with Improved Extreme Learning Machine for Network Anomaly Detection"
+    ],
+    "size": 9158
+  },
+  "37": {
+    "label": "Remote sensing / remote sensing / Image restoration / Feature extraction / Training",
+    "top_keywords": [
+      [
+        "Remote sensing",
+        4
+      ],
+      [
+        "remote sensing",
+        3
+      ],
+      [
+        "Image restoration",
+        2
+      ],
+      [
+        "Feature extraction",
+        2
+      ],
+      [
+        "Training",
+        2
+      ]
+    ],
+    "top_titles": [
+      "MASCAR: Multidomain Adaptive Spatial\u2013Spectral Variable Compression Artifact Removal Network for Multispectral Remote Sensing Images",
+      "Ada4dir: an Adaptive Model-Driven All-in-One Image Restoration Network for Remote Sensing Images",
+      "Remote Sensing Image Pan-Sharpening Via Pixel Difference Enhance",
+      "Fusion of Infrared and Visible Images Via Multi-Layer Convolutional Sparse Representation",
+      "From Multi-Scale Decomposition to Non-Multi-Scale Decomposition Methods: A Comprehensive Survey of Image Fusion Techniques and Its Applications."
+    ],
+    "size": 8259
+  },
+  "27": {
+    "label": "Design Research / Knowledge Sharing / Technology Use / Usability / User-Centered Design",
+    "top_keywords": [
+      [
+        "Design Research",
+        2
+      ],
+      [
+        "Knowledge Sharing",
+        1
+      ],
+      [
+        "Technology Use",
+        1
+      ],
+      [
+        "Usability",
+        1
+      ],
+      [
+        "User-Centered Design",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Different Views and Evaluations of IT Artifacts.",
+      "Reflections on 5 Years of Personal Informatics: Rising Concerns and Emerging Directions.",
+      "The Impact of IT Equivocality on Postadoptive Use Behaviors: Development and Validation of a Multidimensional Construct",
+      "Virtually in This Together \u2013 How Web-Conferencing Systems Enabled a New Virtual Togetherness During the COVID-19 Crisis",
+      "User Engagement and Beyond: A Conceptual Framework for Engagement in Information Systems Research"
+    ],
+    "size": 12990
+  },
+  "116": {
+    "label": "Energy consumption / Delays / Edge computing / Mobile edge computing / mobile edge computing (MEC)",
+    "top_keywords": [
+      [
+        "Energy consumption",
+        2
+      ],
+      [
+        "Delays",
+        2
+      ],
+      [
+        "Edge computing",
+        2
+      ],
+      [
+        "Mobile edge computing",
+        2
+      ],
+      [
+        "mobile edge computing (MEC)",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Scalable Compute Continuum",
+      "BEV-SGD: Best Effort Voting SGD Against Byzantine Attacks for Analog-Aggregation-Based Federated Learning over the Air",
+      "Double Deep Q-Learning-based Path Selection and Service Placement for Latency-Sensitive Beyond 5G Applications",
+      "Energy-Aware Collaborative Service Caching in a 5G-Enabled MEC with Uncertain Payoffs",
+      "Multi-Objective Computation Sharing in Energy and Delay Constrained Mobile Edge Computing Environments"
+    ],
+    "size": 3260
+  },
+  "18": {
+    "label": "Secure Multi-party Computation / Privacy-Preserving Computation / Searchable Encryption / Secure Computation / Pairing-based Cryptography",
+    "top_keywords": [
+      [
+        "Secure Multi-party Computation",
+        5
+      ],
+      [
+        "Privacy-Preserving Computation",
+        5
+      ],
+      [
+        "Searchable Encryption",
+        4
+      ],
+      [
+        "Secure Computation",
+        2
+      ],
+      [
+        "Pairing-based Cryptography",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Tetrad: Actively Secure 4PC for Secure Training and Inference",
+      "MPClan: Protocol Suite for Privacy-Conscious Computations.",
+      "Richer Efficiency/Security Trade-offs in 2PC",
+      "Protecting Distributed Primitives Against Leakage: Equivocal Secret Sharing and More.",
+      "LevioSA: Lightweight Secure Arithmetic Computation."
+    ],
+    "size": 5784
+  },
+  "109": {
+    "label": "Internet-of-Things / Encryption / attribute-based encryption / Cloud computing / Privacy-preserving",
+    "top_keywords": [
+      [
+        "Internet-of-Things",
+        2
+      ],
+      [
+        "Encryption",
+        2
+      ],
+      [
+        "attribute-based encryption",
+        2
+      ],
+      [
+        "Cloud computing",
+        2
+      ],
+      [
+        "Privacy-preserving",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Lightning-Fast and Privacy-Preserving Outsourced Computation in the Cloud",
+      "Expressive Bilateral Access Control for Internet-of-Things in Cloud-Fog Computing.",
+      "Efficient Dynamic Key-Aggregate Cryptosystem for Secure and Flexible Data Sharing.",
+      "Scalable and Revocable Attribute-Based Data Sharing with Short Revocation List for IIoT",
+      "Symmetric-Key Based Proofs Of Retrievability Supporting Public Verification"
+    ],
+    "size": 9202
+  },
+  "94": {
+    "label": "deep learning / Atrial fibrillation / Deep learning / Attention mechanism / Electrocardiogram",
+    "top_keywords": [
+      [
+        "deep learning",
+        3
+      ],
+      [
+        "Atrial fibrillation",
+        2
+      ],
+      [
+        "Deep learning",
+        2
+      ],
+      [
+        "Attention mechanism",
+        2
+      ],
+      [
+        "Electrocardiogram",
+        1
+      ]
+    ],
+    "top_titles": [
+      "An Atrial Fibrillation Detection Algorithm Based on Lightweight Design Architecture and Feature Fusion Strategy",
+      "Automated Arrhythmia Detection with Homeomorphically Irreducible Tree Technique Using More Than 10, 000 Individual Subject ECG Records.",
+      "Exploring Cardiac Rhythms and Improving ECG Beat Classification Through Latent Spaces",
+      "Deep Learning with a Recurrent Network Structure in the Sequence Modeling of Imbalanced Data for ECG-Rhythm Classifier",
+      "HAN-ECG: an Interpretable Atrial Fibrillation Detection Model Using Hierarchical Attention Networks."
+    ],
+    "size": 3184
+  },
+  "76": {
+    "label": "Visual Servoing / 3D Human Pose / Unsupervised Learning / Pose Estimation / 3D from single images",
+    "top_keywords": [
+      [
+        "Visual Servoing",
+        3
+      ],
+      [
+        "3D Human Pose",
+        3
+      ],
+      [
+        "Unsupervised Learning",
+        3
+      ],
+      [
+        "Pose Estimation",
+        2
+      ],
+      [
+        "3D from single images",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Ivs-Net: Learning Human View Synthesis from Internet Videos",
+      "Chained Representation Cycling: Learning to Estimate 3D Human Pose and Shape by Cycling Between Representations.",
+      "AutoRF: Learning 3D Object Radiance Fields from Single View Observations",
+      "Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion",
+      "EPIC Fields: Marrying 3D Geometry and Video Understanding"
+    ],
+    "size": 29468
+  },
+  "82": {
+    "label": "distributed optimization / heuristic search / Source location / Survivable network / Submodular cover",
+    "top_keywords": [
+      [
+        "distributed optimization",
+        2
+      ],
+      [
+        "heuristic search",
+        2
+      ],
+      [
+        "Source location",
+        1
+      ],
+      [
+        "Survivable network",
+        1
+      ],
+      [
+        "Submodular cover",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Approximating Source Location and Star Survivable Network Problems.",
+      "Distributed Convex Optimization \"Over-the-air\" in Dynamic Environments",
+      "Detecting Critical Nodes in Sparse Graphs Via \"Reduce-Solve-combine\" Memetic Search",
+      "Online Submodular Maximization with Free Disposal",
+      "Approximation Algorithms for Minimum Norm and Ordered Optimization Problems."
+    ],
+    "size": 3035
+  },
+  "64": {
+    "label": "Image restoration / Feature extraction / Optical imaging / Decoding / Estimation",
+    "top_keywords": [
+      [
+        "Image restoration",
+        2
+      ],
+      [
+        "Feature extraction",
+        2
+      ],
+      [
+        "Optical imaging",
+        1
+      ],
+      [
+        "Decoding",
+        1
+      ],
+      [
+        "Estimation",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Deep Video Deblurring Using Sharpness Features from Exemplars.",
+      "Image De-Raining Transformer.",
+      "Robust High Dynamic Range (HDR) Imaging with Complex Motion and Parallax.",
+      "Hierarchical Separable Video Transformer for Snapshot Compressive Imaging",
+      "Single Image Deraining Via Deep Shared Pyramid Network."
+    ],
+    "size": 6290
+  },
+  "54": {
+    "label": "Representation learning / semi-nonnegative matrix factorization / deep network / clustering / Self-supervised learning",
+    "top_keywords": [
+      [
+        "Representation learning",
+        1
+      ],
+      [
+        "semi-nonnegative matrix factorization",
+        1
+      ],
+      [
+        "deep network",
+        1
+      ],
+      [
+        "clustering",
+        1
+      ],
+      [
+        "Self-supervised learning",
+        1
+      ]
+    ],
+    "top_titles": [
+      "DNSRF: Deep Network-based Semi-NMF Representation Framework",
+      "Contextual Features Online Prediction for Self-Supervised Graph Representation.",
+      "CDFKD-MFS: Collaborative Data-free Knowledge Distillation Via Multi-level Feature Sharing",
+      "Multi-View Network Representation Learning Algorithm Research",
+      "Revisiting Multi-View Learning: A Perspective of Implicitly Heterogeneous Graph Convolutional Network"
+    ],
+    "size": 7900
+  },
+  "115": {
+    "label": "data parallelism / pipeline parallelism / deep learning / Training / Edge intelligence",
+    "top_keywords": [
+      [
+        "data parallelism",
+        2
+      ],
+      [
+        "pipeline parallelism",
+        2
+      ],
+      [
+        "deep learning",
+        2
+      ],
+      [
+        "Training",
+        2
+      ],
+      [
+        "Edge intelligence",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Asteroid: Resource-Efficient Hybrid Pipeline Parallelism for Collaborative DNN Training on Heterogeneous Edge Devices",
+      "FedDCT: Federated Learning of Large Convolutional Neural Networks on Resource Constrained Devices Using Divide and Collaborative Training",
+      "Tuning DNN Model Compression to Resource and Data Availability in Cooperative Training",
+      "FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking",
+      "A Data-Centric Optimization Framework for Machine Learning"
+    ],
+    "size": 7720
+  },
+  "112": {
+    "label": "NOMA / Uplink / Multiaccess communication / Machine-to-machine communications / Internet of Things",
+    "top_keywords": [
+      [
+        "NOMA",
+        3
+      ],
+      [
+        "Uplink",
+        3
+      ],
+      [
+        "Multiaccess communication",
+        2
+      ],
+      [
+        "Machine-to-machine communications",
+        2
+      ],
+      [
+        "Internet of Things",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Robust Secure Beamforming for Wireless Powered Cognitive Satellite-Terrestrial Networks.",
+      "Coded Tandem Spreading Multiple Access for Massive Machine-Type Communications",
+      "Interference Mitigation Via Rate-Splitting and Common Message Decoding in Cloud Radio Access Networks.",
+      "Enabling Fully-Decoupled Radio Access with Elastic Resource Allocation",
+      "Multiple Access Techniques for Intelligent and Multi-Functional 6G: Tutorial, Survey, and Outlook"
+    ],
+    "size": 29055
+  },
+  "101": {
+    "label": "Servers / Computational modeling / Internet of Things / Federated learning / Data models",
+    "top_keywords": [
+      [
+        "Servers",
+        3
+      ],
+      [
+        "Computational modeling",
+        3
+      ],
+      [
+        "Internet of Things",
+        3
+      ],
+      [
+        "Federated learning",
+        3
+      ],
+      [
+        "Data models",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Federated Learning with Cooperating Devices: A Consensus Approach for Massive IoT Networks",
+      "Efficient Federated Learning for Fault Diagnosis in Industrial Cloud-Edge Computing",
+      "IoTSL: Toward Efficient Distributed Learning for Resource-Constrained Internet of Things",
+      "Distributed Learning on Mobile Devices: A New Approach to Data Mining in the Internet of Things",
+      "FLEE: A Hierarchical Federated Learning Framework for Distributed Deep Neural Network over Cloud, Edge, and End Device"
+    ],
+    "size": 4286
+  },
+  "21": {
+    "label": "Technology Use / Design Research / Usability / User-Centered Design / Quantified Self",
+    "top_keywords": [
+      [
+        "Technology Use",
+        1
+      ],
+      [
+        "Design Research",
+        1
+      ],
+      [
+        "Usability",
+        1
+      ],
+      [
+        "User-Centered Design",
+        1
+      ],
+      [
+        "Quantified Self",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Reflections on 5 Years of Personal Informatics: Rising Concerns and Emerging Directions.",
+      "Design Beyond the Numbers: Sharing, Comparing, Storytelling and the Need for a Quantified Us",
+      "Using Game Mechanics for Field Evaluation of Prototype Social Applications: a Novel Methodology",
+      "Head-mounted Displays, Smartphones, or Smartwatches? - Augmenting Conversations with Digital Representation of Self.",
+      "(Un)acceptable!?!: Re-thinking the Social Acceptability of Emerging Technologies."
+    ],
+    "size": 5022
+  },
+  "22": {
+    "label": "digital follow-up actions / predictive interface / large language models / dataset / pervasive augmented reality",
+    "top_keywords": [
+      [
+        "digital follow-up actions",
+        1
+      ],
+      [
+        "predictive interface",
+        1
+      ],
+      [
+        "large language models",
+        1
+      ],
+      [
+        "dataset",
+        1
+      ],
+      [
+        "pervasive augmented reality",
+        1
+      ]
+    ],
+    "top_titles": [
+      "OmniActions: Predicting Digital Actions in Response to Real-World Multimodal Sensory Inputs with LLMs",
+      "Context-Based Interface Prototyping: Understanding the Effect of Prototype Representation on User Feedback.",
+      "Move Your Body: Engaging Museum Visitors with Human-Data Interaction.",
+      "SAPIENS in XR: Operationalizing Interaction-Attention in Extended Reality.",
+      "Adapting Visualizations and Interfaces to the User."
+    ],
+    "size": 8844
+  },
+  "44": {
+    "label": "Generative Artificial Intelligence / ChatGPT / computational notebooks / User reviews / app store analytics",
+    "top_keywords": [
+      [
+        "Generative Artificial Intelligence",
+        2
+      ],
+      [
+        "ChatGPT",
+        2
+      ],
+      [
+        "computational notebooks",
+        2
+      ],
+      [
+        "User reviews",
+        2
+      ],
+      [
+        "app store analytics",
+        2
+      ]
+    ],
+    "top_titles": [
+      "A System's Approach Taxonomy for User-Centred XAI: A Survey",
+      "Human-AI Collaboration in Thematic Analysis Using ChatGPT: A User Study and Design Recommendations",
+      "Themisto: Towards Automated Documentation Generation in Computational Notebooks",
+      "Wikipedia ORES Explorer: Visualizing Trade-offs for Designing Applications with Machine Learning API.",
+      "LLMs As Research Tools: Applications and Evaluations in HCI Data Work"
+    ],
+    "size": 5925
+  },
+  "6": {
+    "label": "Magnetic resonance imaging / Biomedical imaging / Biomedical engineering / efficient medical imaging / medical imaging",
+    "top_keywords": [
+      [
+        "Magnetic resonance imaging",
+        3
+      ],
+      [
+        "Biomedical imaging",
+        2
+      ],
+      [
+        "Biomedical engineering",
+        2
+      ],
+      [
+        "efficient medical imaging",
+        1
+      ],
+      [
+        "medical imaging",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Robust and Efficient Medical Imaging with Self-Supervision",
+      "AI in Medical Imaging Informatics: Current Challenges and Future Directions",
+      "GaNDLF: A Generally Nuanced Deep Learning Framework for Scalable End-to-End Clinical Workflows in Medical Imaging",
+      "Nnu-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation.",
+      "Benchmarking Collaborative Learning Methods Cost-Effectiveness for Prostate Segmentation"
+    ],
+    "size": 2048
+  },
+  "69": {
+    "label": "Massive MIMO / interference channel / wideband transmission / Channel estimation / OFDM",
+    "top_keywords": [
+      [
+        "Massive MIMO",
+        4
+      ],
+      [
+        "interference channel",
+        3
+      ],
+      [
+        "wideband transmission",
+        3
+      ],
+      [
+        "Channel estimation",
+        3
+      ],
+      [
+        "OFDM",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Multi-RIS-Empowered Multiple Access: A Distributed Sum-Rate Maximization Approach",
+      "Network Deployment for Maximal Energy Efficiency in Uplink with Multislope Path Loss",
+      "Joint Precoder and Decoder Design in Downlink Multi-User MIMO C-RAN with Imperfect CSI.",
+      "Subset MMSE Receivers for Cell-Free Networks",
+      "Cooperative Hybrid Transmit Beamforming in Cell-free Mmwave MIMO Networks"
+    ],
+    "size": 5674
+  },
+  "110": {
+    "label": "task offloading / Task analysis / Servers / Optimization / 5G",
+    "top_keywords": [
+      [
+        "task offloading",
+        6
+      ],
+      [
+        "Task analysis",
+        5
+      ],
+      [
+        "Servers",
+        4
+      ],
+      [
+        "Optimization",
+        4
+      ],
+      [
+        "5G",
+        3
+      ]
+    ],
+    "top_titles": [
+      "Advanced Deep Learning for Resource Allocation and Security Aware Data Offloading in Industrial Mobile Edge Computing.",
+      "Intelligent Edge Computing in Internet of Vehicles: A Joint Computation Offloading and Caching Solution",
+      "Optimizing Energy Efficiency in Vehicular Edge-Cloud Networks Through Deep Reinforcement Learning-Based Computation Offloading",
+      "On Joint Offloading and Resource Allocation: A Double Deep Q-Network Approach.",
+      "Two-Layer Edge Intelligence for Task Offloading and Computing Capacity Allocation with UAV Assistance in Vehicular Networks"
+    ],
+    "size": 4872
+  },
+  "10": {
+    "label": "Virtual reality / microgesture /  grasping /  everyday objects /  false activation",
+    "top_keywords": [
+      [
+        "Virtual reality",
+        2
+      ],
+      [
+        "microgesture",
+        1
+      ],
+      [
+        " grasping",
+        1
+      ],
+      [
+        " everyday objects",
+        1
+      ],
+      [
+        " false activation",
+        1
+      ]
+    ],
+    "top_titles": [
+      "SoloFinger: Robust Microgestures while Grasping Everyday Objects",
+      "ANISMA: A Prototyping Toolkit to Explore Haptic Skin Deformation Applications Using Shape-Memory Alloys",
+      "Interactive Systems Based on Electrical Muscle Stimulation.",
+      "HulaMove: Using Commodity IMU for Waist Interaction.",
+      "Sensing Hand Interactions with Everyday Objects by Profiling Wrist Topography"
+    ],
+    "size": 1787
+  },
+  "14": {
+    "label": "Reinforcement Learning / Human-Robot Collaboration / Robot Learning / Action Recognition / Safe Human-Robot Interaction",
+    "top_keywords": [
+      [
+        "Reinforcement Learning",
+        3
+      ],
+      [
+        "Human-Robot Collaboration",
+        3
+      ],
+      [
+        "Robot Learning",
+        3
+      ],
+      [
+        "Action Recognition",
+        2
+      ],
+      [
+        "Safe Human-Robot Interaction",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Generalizable Task Planning Through Representation Pretraining",
+      "Object-centric Forward Modeling for Model Predictive Control.",
+      "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+      "Affordance Learning from Play for Sample-Efficient Policy Learning",
+      "ToolFlowNet: Robotic Manipulation with Tools Via Predicting Tool Flow from Point Clouds"
+    ],
+    "size": 5375
+  },
+  "75": {
+    "label": "Secure Multi-party Computation / Privacy-Preserving Computation / Searchable Encryption / Functional encryption /  Inner product",
+    "top_keywords": [
+      [
+        "Secure Multi-party Computation",
+        2
+      ],
+      [
+        "Privacy-Preserving Computation",
+        2
+      ],
+      [
+        "Searchable Encryption",
+        2
+      ],
+      [
+        "Functional encryption",
+        1
+      ],
+      [
+        " Inner product",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Efficient Functional Encryption For Inner-Product Values With Full-Hiding Security",
+      "STR: Secure Computation on Additive Shares Using the Share-Transform-Reveal Strategy",
+      "Secure Computation with Preprocessing Via Function Secret Sharing.",
+      "GIFT: A Small Present - Towards Reaching the Limit of Lightweight Encryption",
+      "MOE: Multiplication Operated Encryption with Trojan Resilience."
+    ],
+    "size": 4929
+  },
+  "102": {
+    "label": "Network security / Deep learning / Internet of things / Adversarial attacks and defenses / ensemble learning",
+    "top_keywords": [
+      [
+        "Network security",
+        2
+      ],
+      [
+        "Deep learning",
+        2
+      ],
+      [
+        "Internet of things",
+        2
+      ],
+      [
+        "Adversarial attacks and defenses",
+        2
+      ],
+      [
+        "ensemble learning",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Resource-Efficient Neural Networks for Embedded Systems",
+      "DeepDetect: an Innovative Hybrid Deep Learning Framework for Anomaly Detection in IoT Networks",
+      "Efficient and Robust Machine Learning for Real-World Systems.",
+      "Multi-View Ensemble Learning Based-Robust Graph Convolutional Networks Against Adversarial Attacks",
+      "Federated Ensemble-Learning for Transport Mode Detection in Vehicular Edge Network."
+    ],
+    "size": 2624
+  },
+  "16": {
+    "label": "Language Modeling / Topic Modeling / Language Understanding / Neural Machine Translation / Multilingual Neural Machine Translation",
+    "top_keywords": [
+      [
+        "Language Modeling",
+        5
+      ],
+      [
+        "Topic Modeling",
+        3
+      ],
+      [
+        "Language Understanding",
+        2
+      ],
+      [
+        "Neural Machine Translation",
+        2
+      ],
+      [
+        "Multilingual Neural Machine Translation",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Benchmarking Generalization Via In-Context Instructions on 1, 600+ Language Tasks",
+      "Baichuan 2: Open Large-scale Language Models",
+      "SILT: Efficient Transformer Training for Inter-Lingual Inference",
+      "Can Pretrained English Language Models Benefit Non-English NLP Systems in Low-Resource Scenarios?",
+      "GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective."
+    ],
+    "size": 8490
+  },
+  "70": {
+    "label": "machine learning / transfer learning / Deep learning / Training / Collaborative work",
+    "top_keywords": [
+      [
+        "machine learning",
+        4
+      ],
+      [
+        "transfer learning",
+        3
+      ],
+      [
+        "Deep learning",
+        2
+      ],
+      [
+        "Training",
+        2
+      ],
+      [
+        "Collaborative work",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Synchronous Dynamic View Learning: a Framework for Autonomous Training of Activity Recognition Models Using Wearable Sensors.",
+      "Plug-N-Learn: Automatic Learning of Computational Algorithms in Human-Centered Internet-Of-Things Applications",
+      "Federated Learning: A Signal Processing Perspective",
+      "EEG-Based Brain-Computer Interfaces (BCIs): A Survey of Recent Studies on Signal Sensing Technologies and Computational Intelligence Approaches and Their Applications",
+      "Federated Adam-Type Algorithm for Distributed Optimization with Lazy Strategy."
+    ],
+    "size": 5808
+  },
+  "87": {
+    "label": "Meta-Learning / Robust Learning / Adaptive inference / knowledge distillation (KD) / remaining useful life (RUL) prediction",
+    "top_keywords": [
+      [
+        "Meta-Learning",
+        2
+      ],
+      [
+        "Robust Learning",
+        2
+      ],
+      [
+        "Adaptive inference",
+        1
+      ],
+      [
+        "knowledge distillation (KD)",
+        1
+      ],
+      [
+        "remaining useful life (RUL) prediction",
+        1
+      ]
+    ],
+    "top_titles": [
+      "A Lightweight and Adaptive Knowledge Distillation Framework for Remaining Useful Life Prediction",
+      "A Catalogue of Machine Learning Algorithms for Healthcare Risk Predictions",
+      "Data Privacy Protection Health Status Assessment for Rotating Machinery with Dual-Task Feature Fusion Framework",
+      "Learning Dataset Representation for Automatic Machine Learning Algorithm Selection",
+      "Computational Approaches to Explainable Artificial Intelligence: Advances in Theory, Applications and Trends."
+    ],
+    "size": 2523
+  },
+  "42": {
+    "label": "linguistic set / hesitant intuitionistic fuzzy numbers / aggregation operators / linguistic scale function / multi-attribute decision-making (MADM)",
+    "top_keywords": [
+      [
+        "linguistic set",
+        1
+      ],
+      [
+        "hesitant intuitionistic fuzzy numbers",
+        1
+      ],
+      [
+        "aggregation operators",
+        1
+      ],
+      [
+        "linguistic scale function",
+        1
+      ],
+      [
+        "multi-attribute decision-making (MADM)",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Multi-Attribute Decision-Making Based on Prioritized Aggregation Operator under Hesitant Intuitionistic Fuzzy Linguistic Environment",
+      "Extended TOPSIS Method Based on the Entropy Measure and Probabilistic Hesitant Fuzzy Information and Their Application in Decision Support System.",
+      "Multi-attribute Group Decision-Making Method Using Single-Valued Neutrosophic Credibility Numbers with Fairly Variable Extended Power Average Operators and GRA-MARCOS",
+      "A Note on Extension of TOPSIS to Multiple Criteria Decision Making with Pythagorean Fuzzy Sets",
+      "Cumulative Prospect Theory Integrated CRITIC and TOPSIS Methods for Intuitionistic Fuzzy Multiple Attribute Group Decision Making."
+    ],
+    "size": 4616
+  },
+  "29": {
+    "label": "Computational biophysics / Computational science / Medicine/Public Health / general / Biomedicine",
+    "top_keywords": [
+      [
+        "Computational biophysics",
+        1
+      ],
+      [
+        "Computational science",
+        1
+      ],
+      [
+        "Medicine/Public Health",
+        1
+      ],
+      [
+        "general",
+        1
+      ],
+      [
+        "Biomedicine",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Integrating Machine Learning and Multiscale Modeling-Perspectives, Challenges, and Opportunities in the Biological, Biomedical, and Behavioral Sciences.",
+      "Scikit-learn: Machine Learning Without Learning the Machinery.",
+      "Machine Learning Meets Visualization - Experiences and Lessons Learned",
+      "LEAF: A Benchmark for Federated Settings.",
+      "Innvestigate Neural Networks!"
+    ],
+    "size": 2888
+  },
+  "73": {
+    "label": "Feature extraction / Training / Data mining / Deep learning / Supervised learning",
+    "top_keywords": [
+      [
+        "Feature extraction",
+        2
+      ],
+      [
+        "Training",
+        2
+      ],
+      [
+        "Data mining",
+        2
+      ],
+      [
+        "Deep learning",
+        2
+      ],
+      [
+        "Supervised learning",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Dimension Reduction with Prior Information for Knowledge Discovery",
+      "A Novel Approach for Classification of Mental Tasks Using Multiview Ensemble Learning (MEL)",
+      "Multivariable Correlation Feature Network Construction and Health Condition Assessment for Unlabeled Single-Sample Data",
+      "Discriminative Sparse Autoencoder for Gearbox Fault Diagnosis Toward Complex Vibration Signals",
+      "Extended Features Based Random Vector Functional Link Network for Classification Problem"
+    ],
+    "size": 2441
+  },
+  "49": {
+    "label": "Laser radar / Object detection / Dynamic environment / Three-dimensional displays / Feature extraction",
+    "top_keywords": [
+      [
+        "Laser radar",
+        3
+      ],
+      [
+        "Object detection",
+        3
+      ],
+      [
+        "Dynamic environment",
+        3
+      ],
+      [
+        "Three-dimensional displays",
+        2
+      ],
+      [
+        "Feature extraction",
+        2
+      ]
+    ],
+    "top_titles": [
+      "The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition",
+      "Perception, Distance Estimation, and Tracking Integration from BEV Representations.",
+      "GSL-VO: A Geometric-Semantic Information Enhanced Lightweight Visual Odometry in Dynamic Environments.",
+      "An Adaptive Network Fusing Light Detection and Ranging Height-Sliced Bird\u2019s-Eye View and Vision for Place Recognition",
+      "A Survey of Visual SLAM in Dynamic Environment: the Evolution from Geometric to Semantic Approaches"
+    ],
+    "size": 6579
+  },
+  "104": {
+    "label": "Training / Servers / Computational modeling / Federated learning / Internet of Things",
+    "top_keywords": [
+      [
+        "Training",
+        5
+      ],
+      [
+        "Servers",
+        4
+      ],
+      [
+        "Computational modeling",
+        4
+      ],
+      [
+        "Federated learning",
+        3
+      ],
+      [
+        "Internet of Things",
+        3
+      ]
+    ],
+    "top_titles": [
+      "Towards Asynchronous Federated Learning Based Threat Detection: A DC-Adam Approach",
+      "Distributed Learning on Mobile Devices: A New Approach to Data Mining in the Internet of Things",
+      "A Review of On-Device Machine Learning for IoT: an Energy Perspective",
+      "Budgeted Online Selection of Candidate IoT Clients to Participate in Federated Learning",
+      "Towards Asynchronous Federated Learning for Heterogeneous Edge-Powered Internet of Things"
+    ],
+    "size": 8836
+  },
+  "56": {
+    "label": "Servers / Edge computing / Training / Computation offloading / resource management",
+    "top_keywords": [
+      [
+        "Servers",
+        2
+      ],
+      [
+        "Edge computing",
+        2
+      ],
+      [
+        "Training",
+        2
+      ],
+      [
+        "Computation offloading",
+        1
+      ],
+      [
+        "resource management",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Federated Learning for Computational Offloading and Resource Management of Vehicular Edge Computing in 6G-V2X Network",
+      "Popularity-Aware Online Task Offloading for Heterogeneous Vehicular Edge Computing Using Contextual Clustering of Bandits",
+      "Federated Continuous Learning Based on Stacked Broad Learning System Assisted by Digital Twin Networks: an Incremental Learning Approach for Intrusion Detection in UAV Networks",
+      "Efficient Rate-Splitting Multiple Access for the Internet of Vehicles: Federated Edge Learning and Latency Minimization.",
+      "Distributed Intelligence in Wireless Networks"
+    ],
+    "size": 3525
+  },
+  "17": {
+    "label": "3D Human Pose / 3D from single images / Unsupervised Learning / Pose Estimation / Multiple Object Tracking",
+    "top_keywords": [
+      [
+        "3D Human Pose",
+        2
+      ],
+      [
+        "3D from single images",
+        2
+      ],
+      [
+        "Unsupervised Learning",
+        1
+      ],
+      [
+        "Pose Estimation",
+        1
+      ],
+      [
+        "Multiple Object Tracking",
+        1
+      ]
+    ],
+    "top_titles": [
+      "HSPACE: Synthetic Parametric Humans Animated in Complex Environments",
+      "Chained Representation Cycling: Learning to Estimate 3D Human Pose and Shape by Cycling Between Representations.",
+      "CIRCLE: Capture in Rich Contextual Environments.",
+      "Human Performance Capture from Monocular Video in the Wild",
+      "ChallenCap: Monocular 3D Capture of Challenging Human Performances Using Multi-Modal References."
+    ],
+    "size": 5828
+  },
+  "74": {
+    "label": "NOMA / Receivers / Array signal processing / Encoding / Relays",
+    "top_keywords": [
+      [
+        "NOMA",
+        4
+      ],
+      [
+        "Receivers",
+        4
+      ],
+      [
+        "Array signal processing",
+        3
+      ],
+      [
+        "Encoding",
+        2
+      ],
+      [
+        "Relays",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Coded Tandem Spreading Multiple Access for Massive Machine-Type Communications",
+      "An Alternative Non-cooperative Transmission Scheme Based on Coded Redundant Information",
+      "Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation",
+      "Beamforming Optimization for Physical Layer Security in MISO Wireless Networks",
+      "Interference Mitigation Via Rate-Splitting and Common Message Decoding in Cloud Radio Access Networks."
+    ],
+    "size": 6158
+  },
+  "35": {
+    "label": "Deep learning / deep learning / Image reconstruction / Deep image prior / Low-rank",
+    "top_keywords": [
+      [
+        "Deep learning",
+        4
+      ],
+      [
+        "deep learning",
+        2
+      ],
+      [
+        "Image reconstruction",
+        2
+      ],
+      [
+        "Deep image prior",
+        1
+      ],
+      [
+        "Low-rank",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Image Decomposition Combining Low-Rank and Deep Image Prior",
+      "Neural Networks-Based Regularization for Large-Scale Medical Image Reconstruction",
+      "Image Reconstruction is a New Frontier of Machine Learning.",
+      "A Primal Dual Network For Low-Level Vision Problems",
+      "GBE-Net: Global Boundary Enhancement Network for Breast Lesion Segmentation in Ultrasound Images"
+    ],
+    "size": 4906
+  },
+  "61": {
+    "label": "Transformer / Feature extraction / Convolutional neural network / Image dehazing / Image denoising",
+    "top_keywords": [
+      [
+        "Transformer",
+        3
+      ],
+      [
+        "Feature extraction",
+        2
+      ],
+      [
+        "Convolutional neural network",
+        2
+      ],
+      [
+        "Image dehazing",
+        2
+      ],
+      [
+        "Image denoising",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Multi-scale Network Toward Real-World Image Denoising",
+      "Fusion of Infrared and Visible Images Via Multi-Layer Convolutional Sparse Representation",
+      "Adaptive Dual Aggregation Network with Normalizing Flows for Low-Light Image Enhancement",
+      "Dual-branch Collaborative Transformer for Effective Image Deraining",
+      "Hierarchical Damage Correlations for Old Photo Restoration"
+    ],
+    "size": 13087
+  },
+  "50": {
+    "label": "Visual Question Answering / Object Recognition / Robot Navigation / Real-Time Planning / Optimal Motion Planning",
+    "top_keywords": [
+      [
+        "Visual Question Answering",
+        2
+      ],
+      [
+        "Object Recognition",
+        2
+      ],
+      [
+        "Robot Navigation",
+        2
+      ],
+      [
+        "Real-Time Planning",
+        2
+      ],
+      [
+        "Optimal Motion Planning",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Deep Learning for Vision-based Prediction: A Survey",
+      "CASTNet: A Context-Aware, Spatio-Temporal Dynamic Motion Prediction Ensemble for Autonomous Driving",
+      "DriveVLM: the Convergence of Autonomous Driving and Large Vision-Language Models",
+      "L3MVN: Leveraging Large Language Models for Visual Target Navigation",
+      "ST-P3: End-to-end Vision-based Autonomous Driving Via Spatial-Temporal Feature Learning"
+    ],
+    "size": 5442
+  },
+  "86": {
+    "label": "Computational modeling / Analytical models / Constraint Handling / Real-time Optimization / Data-Driven Control",
+    "top_keywords": [
+      [
+        "Computational modeling",
+        2
+      ],
+      [
+        "Analytical models",
+        2
+      ],
+      [
+        "Constraint Handling",
+        1
+      ],
+      [
+        "Real-time Optimization",
+        1
+      ],
+      [
+        "Data-Driven Control",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Statistical Learning Theory for Control: A Finite Sample Perspective.",
+      "Learnable Graph-regularization for Matrix Decomposition",
+      "Decision-Focused Learning: Foundations, State of the Art, Benchmark and Future Opportunities.",
+      "Self-Organizing Hierarchical Incremental Learning Framework and Universal Approximation Analysis Based on Stochastic Configuration Mechanism",
+      "Efficient Representation to Dynamic QoS Data Via Generalized Nesterov\u2019s Accelerated Gradient-incorporated Biased Non-negative Latent Factorization of Tensors"
+    ],
+    "size": 3327
+  },
+  "25": {
+    "label": "social robotics / Human-robot interaction / Human-Robot Interaction / end-user creation / perception-driven task plans",
+    "top_keywords": [
+      [
+        "social robotics",
+        3
+      ],
+      [
+        "Human-robot interaction",
+        2
+      ],
+      [
+        "Human-Robot Interaction",
+        2
+      ],
+      [
+        "end-user creation",
+        1
+      ],
+      [
+        "perception-driven task plans",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Evaluating Methods for End-User Creation of Robot Task Plans",
+      "The Needfinding Machine",
+      "Recipient Design in Human\u2013robot Interaction: the Emergent Assessment of a Robot\u2019s Competence",
+      "Data-Driven HRI: Learning Social Behaviors by Example from Human\u2013Human Interaction",
+      "Cognitive Human-Robot Interaction"
+    ],
+    "size": 2831
+  },
+  "111": {
+    "label": "ITS / V2X communications / ICAS / short-range communications / content caching",
+    "top_keywords": [
+      [
+        "ITS",
+        1
+      ],
+      [
+        "V2X communications",
+        1
+      ],
+      [
+        "ICAS",
+        1
+      ],
+      [
+        "short-range communications",
+        1
+      ],
+      [
+        "content caching",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Wireless Internet - 11th EAI International Conference, WiCON 2018, Taipei, Taiwan, October 15-16, 2018, Proceedings",
+      "Intelligent Transportation Systems in the Context of 5G-Beyond and 6G Networks",
+      "Optimizing the Resource Allocation of Periodic Messages with Different Sizes in LTE-V2V",
+      "Series Editorial: Artificial Intelligence and Data Science for Communications",
+      "Wireless Recommendations for Internet of Vehicles: Recent Advances, Challenges, and Opportunities."
+    ],
+    "size": 3468
+  },
+  "88": {
+    "label": "Deep learning / Collaboration / Predictive models / Robust Learning / Federated learning",
+    "top_keywords": [
+      [
+        "Deep learning",
+        2
+      ],
+      [
+        "Collaboration",
+        2
+      ],
+      [
+        "Predictive models",
+        2
+      ],
+      [
+        "Robust Learning",
+        2
+      ],
+      [
+        "Federated learning",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Federated Learning with Uncertainty-Based Client Clustering for Fleet-Wide Fault Diagnosis",
+      "Small Data Challenges for Intelligent Prognostics and Health Management: a Review",
+      "Collaborative Prognostics of Lithium-Ion Batteries Using Federated Learning with Dynamic Weighting and Attention Mechanism",
+      "Decision-Focused Learning: Foundations, State of the Art, Benchmark and Future Opportunities.",
+      "Stochastic Parallel Extreme Artificial Hydrocarbon Networks: an Implementation for Fast and Robust Supervised Machine Learning in High-Dimensional Data"
+    ],
+    "size": 2427
+  },
+  "53": {
+    "label": "Robotics / Multi-robot / Temporal logic / HRI / Heterogeneous robots",
+    "top_keywords": [
+      [
+        "Robotics",
+        2
+      ],
+      [
+        "Multi-robot",
+        1
+      ],
+      [
+        "Temporal logic",
+        1
+      ],
+      [
+        "HRI",
+        1
+      ],
+      [
+        "Heterogeneous robots",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Adaptive Heterogeneous Multi-Robot Collaboration from Formal Task Specifications",
+      "Data-Driven Abstractions for Robots with Stochastic Dynamics",
+      "Verifiable Strategy Synthesis for Multiple Autonomous Agents: a Scalable Approach",
+      "Sora for Hierarchical Parallel Motion Planner: A Safe End-to-End Method Against OOD Events",
+      "Hyper-Learning Algorithms for Online Evolution of Robot Controllers"
+    ],
+    "size": 3535
+  },
+  "41": {
+    "label": "Machine learning / Artificial intelligence / Trust / AI-augmented decision making / artificial intelligence",
+    "top_keywords": [
+      [
+        "Machine learning",
+        3
+      ],
+      [
+        "Artificial intelligence",
+        3
+      ],
+      [
+        "Trust",
+        2
+      ],
+      [
+        "AI-augmented decision making",
+        1
+      ],
+      [
+        "artificial intelligence",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Design Principles for Artificial Intelligence-Augmented Decision Making: an Action Design Research Study",
+      "How Do Users Feel when They Use Artificial Intelligence for Decision Making? A Framework for Assessing Users\u2019 Perception",
+      "The Design of Human-Artificial Intelligence Systems in Decision Sciences: A Look Back and Directions Forward",
+      "Beyond Effective Use: Integrating Wise Reasoning in Machine Learning Development",
+      "Adoption Barriers of AI - a Context-Specific Acceptance Model for Industrial Maintenance."
+    ],
+    "size": 4087
+  },
+  "3": {
+    "label": "Language Modeling / Machine Translation / Topic Modeling / Multilingual Neural Machine Translation / Statistical Language Modeling",
+    "top_keywords": [
+      [
+        "Language Modeling",
+        7
+      ],
+      [
+        "Machine Translation",
+        4
+      ],
+      [
+        "Topic Modeling",
+        3
+      ],
+      [
+        "Multilingual Neural Machine Translation",
+        3
+      ],
+      [
+        "Statistical Language Modeling",
+        2
+      ]
+    ],
+    "top_titles": [
+      "SOLAR 10.7B: Scaling Large Language Models with Simple Yet Effective Depth Up-Scaling",
+      "Benchmarking Generalization Via In-Context Instructions on 1, 600+ Language Tasks",
+      "Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model",
+      "Improving Language Models by Retrieving from Trillions of Tokens",
+      "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model"
+    ],
+    "size": 437
+  },
+  "78": {
+    "label": "deep learning / Deep learning / Convolutional neural networks / Task analysis / Graph convolutional network",
+    "top_keywords": [
+      [
+        "deep learning",
+        2
+      ],
+      [
+        "Deep learning",
+        2
+      ],
+      [
+        "Convolutional neural networks",
+        2
+      ],
+      [
+        "Task analysis",
+        2
+      ],
+      [
+        "Graph convolutional network",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Deep Multi-View Learning Methods: A Review.",
+      "Deep Random Walk of Unitary Invariance for Large-Scale Data Representation.",
+      "Development of Debiasing Technique for Lung Nodule Chest X-ray Datasets to Generalize Deep Learning Models.",
+      "Detect Occluded Items in X-ray Baggage Inspection",
+      "Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning"
+    ],
+    "size": 4128
+  },
+  "80": {
+    "label": "Multi-view learning / Multi-view clustering / Non-negative matrix factorization / Statistical learning theory / Co-training",
+    "top_keywords": [
+      [
+        "Multi-view learning",
+        2
+      ],
+      [
+        "Multi-view clustering",
+        2
+      ],
+      [
+        "Non-negative matrix factorization",
+        2
+      ],
+      [
+        "Statistical learning theory",
+        1
+      ],
+      [
+        "Co-training",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Multi-view Learning Overview: Recent Progress and New Challenges",
+      "Deep Probability Multi-View Feature Learning for Data Clustering",
+      "Multiview Structural Large Margin Classifier and Its Safe Acceleration Strategy.",
+      "Unsupervised Feature Selection Via Latent Representation Learning and Manifold Regularization",
+      "Unsupervised Multi-View Non-Negative for Law Data Feature Learning with Dual Graph-Regularization in Smart Internet of Things"
+    ],
+    "size": 4144
+  },
+  "30": {
+    "label": "inverse rendering / Volume transformation / Volume visualization / progressive / automatic",
+    "top_keywords": [
+      [
+        "inverse rendering",
+        2
+      ],
+      [
+        "Volume transformation",
+        1
+      ],
+      [
+        "Volume visualization",
+        1
+      ],
+      [
+        "progressive",
+        1
+      ],
+      [
+        "automatic",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Progressive Direct Volume-to-Volume Transformation.",
+      "Real-Time Volume Rendering with Octree-Based Implicit Surface Representation",
+      "Learning Neural Duplex Radiance Fields for Real-Time View Synthesis.",
+      "Differentiable Signed Distance Function Rendering.",
+      "Explicit Neural Surfaces: Learning Continuous Geometry with Deformation Fields"
+    ],
+    "size": 3743
+  },
+  "90": {
+    "label": "Secure Multi-party Computation / Searchable Encryption / Privacy-Preserving Computation / Homomorphic Encryption / Secure multiparty computation",
+    "top_keywords": [
+      [
+        "Secure Multi-party Computation",
+        4
+      ],
+      [
+        "Searchable Encryption",
+        3
+      ],
+      [
+        "Privacy-Preserving Computation",
+        3
+      ],
+      [
+        "Homomorphic Encryption",
+        2
+      ],
+      [
+        "Secure multiparty computation",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Efficient Secure Multiparty Computation with Identifiable Abort",
+      "Steel: Composable Hardware-based Stateful and Randomised Functional Encryption.",
+      "Efficient Public Trace and Revoke from Standard Assumptions",
+      "Generalized Pseudorandom Secret Sharing and Efficient Straggler-Resilient Secure Computation.",
+      "Concretely Efficient Large-Scale MPC with Active Security (or, TinyKeys for TinyOT)"
+    ],
+    "size": 2320
+  },
+  "0": {
+    "label": "quantum computing / Computer science / Quantum Computing / Benchmarking / real-system quantum computer studies",
+    "top_keywords": [
+      [
+        "quantum computing",
+        2
+      ],
+      [
+        "Computer science",
+        2
+      ],
+      [
+        "Quantum Computing",
+        2
+      ],
+      [
+        "Benchmarking",
+        2
+      ],
+      [
+        "real-system quantum computer studies",
+        2
+      ]
+    ],
+    "top_titles": [
+      "QUARK: A Framework for Quantum Computing Application Benchmarking",
+      "Automated Optimization of Large Quantum Circuits with Continuous Parameters",
+      "An Outlook for Quantum Computing [point of View]",
+      "MQT Bench: Benchmarking Software and Design Automation Tools for Quantum Computing",
+      "Programming Languages and Compiler Design for Realistic Quantum Hardware."
+    ],
+    "size": 328
+  },
+  "48": {
+    "label": "Deep learning / computer vision / Pose estimation / Computer vision / 3D human pose estimation",
+    "top_keywords": [
+      [
+        "Deep learning",
+        4
+      ],
+      [
+        "computer vision",
+        2
+      ],
+      [
+        "Pose estimation",
+        2
+      ],
+      [
+        "Computer vision",
+        2
+      ],
+      [
+        "3D human pose estimation",
+        2
+      ]
+    ],
+    "top_titles": [
+      "HADE: Exploiting Human Action Recognition Through Fine-Tuned Deep Learning Methods",
+      "A Comprehensive Analysis of Deep Regression",
+      "Efficient Monocular Human Pose Estimation Based on Deep Learning Methods: A Survey",
+      "JoyPose: Jointly Learning Evolutionary Data Augmentation and Anatomy-Aware Global\u2013local Representation for 3D Human Pose Estimation",
+      "From Detection to Understanding: A Survey on Representation Learning for Human-Object Interaction."
+    ],
+    "size": 6414
+  },
+  "9": {
+    "label": "Privacy / privacy / Smart Home / Smart Devices / IoT",
+    "top_keywords": [
+      [
+        "Privacy",
+        3
+      ],
+      [
+        "privacy",
+        3
+      ],
+      [
+        "Smart Home",
+        2
+      ],
+      [
+        "Smart Devices",
+        2
+      ],
+      [
+        "IoT",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Implications of XR on Privacy, Security and Behaviour: Insights from Experts.",
+      "Defending My Castle: A Co-Design Study of Privacy Mechanisms for Smart Homes.",
+      "PriView\u2013 Exploring Visualisations to Support Users\u2019 Privacy Awareness",
+      "Seeing is Believing?: Effects of Visualization on Smart Device Privacy Perceptions.",
+      "Informing the Design of Privacy-Empowering Tools for the Connected Home"
+    ],
+    "size": 2923
+  },
+  "58": {
+    "label": "deep learning / convolutional neural networks / computer architecture / Computer architecture / Computational modeling",
+    "top_keywords": [
+      [
+        "deep learning",
+        4
+      ],
+      [
+        "convolutional neural networks",
+        3
+      ],
+      [
+        "computer architecture",
+        3
+      ],
+      [
+        "Computer architecture",
+        2
+      ],
+      [
+        "Computational modeling",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Hardware and Software Optimizations for Accelerating Deep Neural Networks: Survey of Current Trends, Challenges, and the Road Ahead",
+      "Going Deeper with Convolutions",
+      "Deep Learning at Scale and at Ease",
+      "Singa: Putting Deep Learning In The Hands Of Multimedia Users",
+      "Corun: Concurrent Inference and Continuous Training at the Edge for Cost-Efficient AI-Based Mobile Image Sensing"
+    ],
+    "size": 5797
+  },
+  "95": {
+    "label": "Deep learning / Drug\u2013target binding affinity / Self-supervised learning / Mutual information / Multi-scale features",
+    "top_keywords": [
+      [
+        "Deep learning",
+        2
+      ],
+      [
+        "Drug\u2013target binding affinity",
+        1
+      ],
+      [
+        "Self-supervised learning",
+        1
+      ],
+      [
+        "Mutual information",
+        1
+      ],
+      [
+        "Multi-scale features",
+        1
+      ]
+    ],
+    "top_titles": [
+      "SubMDTA: Drug Target Affinity Prediction Based on Substructure Extraction and Multi-Scale Features.",
+      "Prediction of Drug-Target Interactions Based on Multi-Layer Network Representation Learning",
+      "Improving Brain E-Health Services Via High-Performance EEG Classification with Grouping Bayesian Optimization",
+      "ECG-CL: A Comprehensive Electrocardiogram Interpretation Method Based on Continual Learning",
+      "Computational Approaches to Explainable Artificial Intelligence: Advances in Theory, Applications and Trends."
+    ],
+    "size": 4443
+  },
+  "24": {
+    "label": "Human-AI Interaction / data annotation / human-AI collaboration / qualitative analysis / NLU",
+    "top_keywords": [
+      [
+        "Human-AI Interaction",
+        2
+      ],
+      [
+        "data annotation",
+        1
+      ],
+      [
+        "human-AI collaboration",
+        1
+      ],
+      [
+        "qualitative analysis",
+        1
+      ],
+      [
+        "NLU",
+        1
+      ]
+    ],
+    "top_titles": [
+      "PaTAT: Human-AI Collaborative Qualitative Coding with Explainable Interactive Rule Synthesis.",
+      "Navigating NLU Challenges in Pair Programming Agents: A Study on Data Size, Gender, Language, and Domain Effects",
+      "EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria",
+      "Pair Programming Conversations with Agents Vs. Developers: Challenges and Opportunities for SE Community.",
+      "Promptiverse: Scalable Generation of Scaffolding Prompts Through Human-AI Hybrid Knowledge Graph Annotation"
+    ],
+    "size": 2340
+  },
+  "99": {
+    "label": "Predictive models / Learning systems / remaining useful life (RUL) prediction / Remaining Useful Life (RUL) / Deep Learning (DL)",
+    "top_keywords": [
+      [
+        "Predictive models",
+        2
+      ],
+      [
+        "Learning systems",
+        2
+      ],
+      [
+        "remaining useful life (RUL) prediction",
+        2
+      ],
+      [
+        "Remaining Useful Life (RUL)",
+        1
+      ],
+      [
+        "Deep Learning (DL)",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Advancing RUL Prediction in Mechanical Systems: A Hybrid Deep Learning Approach Utilizing Non-Full Lifecycle Data",
+      "Semi-supervised Machinery Health Assessment Framework Via Temporal Broad Learning System Embedding Manifold Regularization with Unlabeled Data",
+      "Incremental Learning for Remaining Useful Life Prediction Via Temporal Cascade Broad Learning System with Newly Acquired Data.",
+      "A Remaining Useful Life Prediction Method of Rolling Bearings Based on Deep Reinforcement Learning",
+      "Soft-sensing of Wastewater Treatment Process Via Deep Belief Network with Event-triggered Learning."
+    ],
+    "size": 2192
+  },
+  "13": {
+    "label": "Machine learning / Sentinel-1 / machine learning / deep learning / Soil moisture",
+    "top_keywords": [
+      [
+        "Machine learning",
+        2
+      ],
+      [
+        "Sentinel-1",
+        2
+      ],
+      [
+        "machine learning",
+        2
+      ],
+      [
+        "deep learning",
+        2
+      ],
+      [
+        "Soil moisture",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Are the Current Expectations for SAR Remote Sensing of Soil Moisture Using Machine Learning Over-Optimistic?",
+      "Synergistic Use of Multi-Temporal RADARSAT-2 and VEN\u00b5S Data for Crop Classification Based on 1D Convolutional Neural Network",
+      "Detecting Fire Disturbances in Forests by Using GNSS Reflectometry and Machine Learning: A Case Study in Angola",
+      "A Comparison of Estimating Crop Residue Cover from Sentinel-2 Data Using Empirical Regressions and Machine Learning Methods",
+      "Multitemporal Level- $1\\beta$ Products: Definitions, Interpretation, and Applications"
+    ],
+    "size": 1422
+  },
+  "47": {
+    "label": "long-horizon manipulation / unknown objects / estimated affordances / general robot manipulation systems / general-purpose task",
+    "top_keywords": [
+      [
+        "long-horizon manipulation",
+        1
+      ],
+      [
+        "unknown objects",
+        1
+      ],
+      [
+        "estimated affordances",
+        1
+      ],
+      [
+        "general robot manipulation systems",
+        1
+      ],
+      [
+        "general-purpose task",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Long-Horizon Manipulation of Unknown Objects Via Task and Motion Planning with Estimated Affordances",
+      "Accelerated Sensorimotor Learning of Compliant Movement Primitives",
+      "Versatile Multicontact Planning and Control for Legged Loco-Manipulation.",
+      "Keypoint-Based Planar Bimanual Shaping of Deformable Linear Objects under Environmental Constraints with Hierarchical Action Framework",
+      "A Multiagent Reinforcement Learning Approach for Inverse Kinematics of High Dimensional Manipulators with Precision Positioning"
+    ],
+    "size": 4385
+  },
+  "19": {
+    "label": "virtual reality / sensemaking / Data visualization / Tools / Three-dimensional displays",
+    "top_keywords": [
+      [
+        "virtual reality",
+        2
+      ],
+      [
+        "sensemaking",
+        2
+      ],
+      [
+        "Data visualization",
+        1
+      ],
+      [
+        "Tools",
+        1
+      ],
+      [
+        "Three-dimensional displays",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Touch and Beyond: Comparing Physical and Virtual Reality Visualizations",
+      "Visfer: Camera-based Visual Data Transfer for Cross-Device Visualization",
+      "Visual Highlighting for Situated Brushing and Linking",
+      "Move Your Body: Engaging Museum Visitors with Human-Data Interaction.",
+      "Different Realities: a Comparison of Augmented and Virtual Reality for the Sensemaking Process"
+    ],
+    "size": 4278
+  },
+  "15": {
+    "label": "Object Detection / 3D observational signals / automatic hyperparameter optimization / autonomous skill acquisition / future depth videos",
+    "top_keywords": [
+      [
+        "Object Detection",
+        2
+      ],
+      [
+        "3D observational signals",
+        1
+      ],
+      [
+        "automatic hyperparameter optimization",
+        1
+      ],
+      [
+        "autonomous skill acquisition",
+        1
+      ],
+      [
+        "future depth videos",
+        1
+      ]
+    ],
+    "top_titles": [
+      "T3VIP: Transformation-based 3D Video Prediction",
+      "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving",
+      "Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding",
+      "VLocNet++: Deep Multitask Learning for Semantic Visual Localization and Odometry.",
+      "Automatically Prepare Training Data for YOLO Using Robotic In-Hand Observation and Synthesis."
+    ],
+    "size": 3622
+  },
+  "11": {
+    "label": "Affective Computing / simulation models / inverse modeling / amortized inference / Efficient machine learning",
+    "top_keywords": [
+      [
+        "Affective Computing",
+        1
+      ],
+      [
+        "simulation models",
+        1
+      ],
+      [
+        "inverse modeling",
+        1
+      ],
+      [
+        "amortized inference",
+        1
+      ],
+      [
+        "Efficient machine learning",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Privileged Information for Modeling Affect in the Wild",
+      "Amortized Inference with User Simulations.",
+      "Talaria: Interactively Optimizing Machine Learning Models for Efficient Inference",
+      "BlenderBot 3: a deployed conversational agent that continually learns to   responsibly engage",
+      "MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains"
+    ],
+    "size": 1561
+  },
+  "39": {
+    "label": "multipath Rayleigh fading channel / fading channels / differential phase shift keying / chaotic communication / AWGN channels",
+    "top_keywords": [
+      [
+        "multipath Rayleigh fading channel",
+        2
+      ],
+      [
+        "fading channels",
+        1
+      ],
+      [
+        "differential phase shift keying",
+        1
+      ],
+      [
+        "chaotic communication",
+        1
+      ],
+      [
+        "AWGN channels",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Multilevel Code-Shifted Differential-Chaos-shift-keying System.",
+      "Novel Integer Hahn Transform for Real-time Lossless Image Authentication in IoT: A 32-Bit Microcontroller Implementation",
+      "Design of an MISO-SWIPT-Aided Code-Index Modulated Multi-Carrier M-DCSK System for E-Health IoT",
+      "A Novel Differential Chaos Shift Keying Scheme with Multidimensional Index Modulation",
+      "Design of an Adaptive Multiresolution $M$ -Ary DCSK System"
+    ],
+    "size": 2268
+  },
+  "26": {
+    "label": "Supply chain management / Big data / Absorptive capacity (AC) / digital circular economy innovation (DCEI) / digital technology",
+    "top_keywords": [
+      [
+        "Supply chain management",
+        4
+      ],
+      [
+        "Big data",
+        3
+      ],
+      [
+        "Absorptive capacity (AC)",
+        2
+      ],
+      [
+        "digital circular economy innovation (DCEI)",
+        2
+      ],
+      [
+        "digital technology",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Leveraging Digital Technology Capability for Circular Economy Innovation in the Food Products Supply Chain: A Mixed-Method Study",
+      "Enablers to Supply Chain Performance on the Basis of Digitization Technologies.",
+      "Big Data Analytics in Supply Chain Management: A State-of-the-art Literature Review",
+      "Digitalisation of Manufacturing Operations: the Influential Role of Organisational, Social, Environmental, and Technological Impediments",
+      "A Decision Support Model for Identification and Prioritization of Key Performance Indicators in the Logistics Industry."
+    ],
+    "size": 3311
+  },
+  "60": {
+    "label": "Feature extraction / Remote sensing / pansharpening / Pansharpening / Transformers",
+    "top_keywords": [
+      [
+        "Feature extraction",
+        5
+      ],
+      [
+        "Remote sensing",
+        5
+      ],
+      [
+        "pansharpening",
+        3
+      ],
+      [
+        "Pansharpening",
+        2
+      ],
+      [
+        "Transformers",
+        2
+      ]
+    ],
+    "top_titles": [
+      "FusionMamba: Efficient Remote Sensing Image Fusion with State Space Model",
+      "MASCAR: Multidomain Adaptive Spatial\u2013Spectral Variable Compression Artifact Removal Network for Multispectral Remote Sensing Images",
+      "A Deep Multitask Convolutional Neural Network for Remote Sensing Image Super-Resolution and Colorization",
+      "Balanced Spatio-Spectral Feature Extraction for Hyperspectral and Multispectral Image Fusion",
+      "Deep Learning-Based Technique for Remote Sensing Image Enhancement Using Multiscale Feature Fusion"
+    ],
+    "size": 2159
+  },
+  "68": {
+    "label": "deep learning / Deep learning / learning with noisy labels / classification / Deep Learning",
+    "top_keywords": [
+      [
+        "deep learning",
+        3
+      ],
+      [
+        "Deep learning",
+        2
+      ],
+      [
+        "learning with noisy labels",
+        1
+      ],
+      [
+        "classification",
+        1
+      ],
+      [
+        "Deep Learning",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Learning with Noisy Labels Through Learnable Weighting and Centroid Similarity",
+      "Automatic Optimization-Based Methods in Machine Learning: A Systematic Review",
+      "Transformer with Selective Shuffled Position Embedding and Key-Patch Exchange Strategy for Early Detection of Knee Osteoarthritis",
+      "Emapdiffp: A Novel Learning Algorithm for Convolutional Neural Network Optimization",
+      "An Atrial Fibrillation Classification Method Based on an Outlier Data Filtering Strategy and Modified Residual Block of the Feature Pyramid Network"
+    ],
+    "size": 3386
+  },
+  "20": {
+    "label": "Human activity recognition / deep learning / wearables / Activity recognition / Wearable sensors",
+    "top_keywords": [
+      [
+        "Human activity recognition",
+        3
+      ],
+      [
+        "deep learning",
+        3
+      ],
+      [
+        "wearables",
+        2
+      ],
+      [
+        "Activity recognition",
+        2
+      ],
+      [
+        "Wearable sensors",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Encoding Human Activities Using Multimodal Wearable Sensory Data",
+      "WMNN: Wearables-Based Multi-Column Neural Network for Human Activity Recognition",
+      "M3Sense: Affect-Agnostic Multitask Representation Learning Using MultimodalWearable Sensors",
+      "SenseCollect: We Need Efficient Ways to Collect On-body Sensor-based Human Activity Data!",
+      "Intelligent Wearable System with Motion and Emotion Recognition Based on Digital Twin Technology"
+    ],
+    "size": 1168
+  },
+  "1": {
+    "label": "Representation Learning / Transfer Learning / Meta-Learning / Unsupervised Learning / Model Compression",
+    "top_keywords": [
+      [
+        "Representation Learning",
+        6
+      ],
+      [
+        "Transfer Learning",
+        5
+      ],
+      [
+        "Meta-Learning",
+        3
+      ],
+      [
+        "Unsupervised Learning",
+        3
+      ],
+      [
+        "Model Compression",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Pixel Recurrent Neural Networks.",
+      "PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications.",
+      "Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions.",
+      "Flamingo: a Visual Language Model for Few-Shot Learning",
+      "Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks"
+    ],
+    "size": 420
+  },
+  "4": {
+    "label": "Deep Learning / GPU / Graph-level Optimizations / Data Layout / Memoization",
+    "top_keywords": [
+      [
+        "Deep Learning",
+        3
+      ],
+      [
+        "GPU",
+        2
+      ],
+      [
+        "Graph-level Optimizations",
+        1
+      ],
+      [
+        "Data Layout",
+        1
+      ],
+      [
+        "Memoization",
+        1
+      ]
+    ],
+    "top_titles": [
+      "BrickDL: Graph-Level Optimizations for DNNs with Fine-Grained Data Blocking on GPUs",
+      "SurgT Challenge: Benchmark of Soft-Tissue Trackers for Robotic Surgery",
+      "Gemini 1.5: Unlocking Multimodal Understanding Across Millions of Tokens of Context.",
+      "MediaPipe: A Framework for Building Perception Pipelines",
+      "DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models"
+    ],
+    "size": 193
+  },
+  "2": {
+    "label": "CMS / Offline and computing / Machine learning / Particle Detectors / High-Energy Collider",
+    "top_keywords": [
+      [
+        "CMS",
+        1
+      ],
+      [
+        "Offline and computing",
+        1
+      ],
+      [
+        "Machine learning",
+        1
+      ],
+      [
+        "Particle Detectors",
+        1
+      ],
+      [
+        "High-Energy Collider",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Portable Acceleration of CMS Computing Workflows with Coprocessors As a Service",
+      "Machine Learning in High Energy Physics Community White Paper",
+      "Generative Models for Fast Calorimeter Simulation: the LHCb Case>",
+      "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs Via Reinforcement Learning",
+      "The Tracking Machine Learning Challenge : Throughput Phase"
+    ],
+    "size": 69
+  }
+}

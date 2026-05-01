@@ -1,0 +1,431 @@
+{
+  "12": {
+    "label": "Deep learning / data mining / data privacy / deep learning / Support Vector Machines",
+    "top_keywords": [
+      [
+        "Deep learning",
+        2
+      ],
+      [
+        "data mining",
+        1
+      ],
+      [
+        "data privacy",
+        1
+      ],
+      [
+        "deep learning",
+        1
+      ],
+      [
+        "Support Vector Machines",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Deep Learning: Applications, Architectures, Models, Tools, and Frameworks: A Comprehensive Survey",
+      "PyTorch Metric Learning.",
+      "Learning New Tricks from Old Dogs: Multi-Source Transfer Learning from Pre-Trained Networks.",
+      "Learning to Optimize: A Tutorial for Continuous and Mixed-Integer Optimization",
+      "SNR: Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning."
+    ],
+    "size": 784608
+  },
+  "8": {
+    "label": "Convolutional neural network / Deep learning / Transfer learning / Medical imaging / Healthcare",
+    "top_keywords": [
+      [
+        "Convolutional neural network",
+        3
+      ],
+      [
+        "Deep learning",
+        3
+      ],
+      [
+        "Transfer learning",
+        2
+      ],
+      [
+        "Medical imaging",
+        2
+      ],
+      [
+        "Healthcare",
+        2
+      ]
+    ],
+    "top_titles": [
+      "Deep Learning: Applications, Architectures, Models, Tools, and Frameworks: A Comprehensive Survey",
+      "LitefusionNet: Boosting the Performance for Medical Image Classification with an Intelligent and Lightweight Feature Fusion Network",
+      "Data Pyramid Structure for Optimizing EUS-based GISTs Diagnosis in Multi-Center Analysis with Missing Label",
+      "Supervised Fine-Tuned Approach for Automated Detection of Diabetic Retinopathy",
+      "Deep Learning and Its Applications in Biomedicine"
+    ],
+    "size": 20924
+  },
+  "5": {
+    "label": "Deep learning / Computer vision / Feature extraction / Task analysis / Transformers",
+    "top_keywords": [
+      [
+        "Deep learning",
+        3
+      ],
+      [
+        "Computer vision",
+        2
+      ],
+      [
+        "Feature extraction",
+        1
+      ],
+      [
+        "Task analysis",
+        1
+      ],
+      [
+        "Transformers",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Multimodal Informative ViT: Information Aggregation and Distribution for Hyperspectral and LiDAR Classification",
+      "Multimodal Classification of Parkinson\u2019s Disease in Home Environments with Resiliency to Missing Modalities",
+      "Aerial Animal Biometrics: Individual Friesian Cattle Recovery and Visual Identification Via an Autonomous UAV with Onboard Deep Inference",
+      "Invariant Attribute-Driven Binary Bi-Branch Classification of Hyperspectral and LiDAR Images",
+      "Object Detection Using Sim2Real Domain Randomization for Robotic Applications"
+    ],
+    "size": 455
+  },
+  "10": {
+    "label": "Model Interpretability / Source Code Analysis / Software Defect Prediction / stars! / reach",
+    "top_keywords": [
+      [
+        "Model Interpretability",
+        2
+      ],
+      [
+        "Source Code Analysis",
+        2
+      ],
+      [
+        "Software Defect Prediction",
+        2
+      ],
+      [
+        "stars!",
+        1
+      ],
+      [
+        "reach",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Generalization or Memorization: Data Contamination and Trustworthy Evaluation for Large Language Models",
+      "SantaCoder: don't reach for the stars!",
+      "Benchmarking Generalization Via In-Context Instructions on 1, 600+ Language Tasks",
+      "Explanation-Based Human Debugging of NLP Models: A Survey",
+      "Common Challenges of Deep Reinforcement Learning Applications Development: an Empirical Study"
+    ],
+    "size": 6356
+  },
+  "9": {
+    "label": "Topic Modeling / Language Modeling / Visual Question Answering / Image Captioning / Language Understanding",
+    "top_keywords": [
+      [
+        "Topic Modeling",
+        7
+      ],
+      [
+        "Language Modeling",
+        6
+      ],
+      [
+        "Visual Question Answering",
+        3
+      ],
+      [
+        "Image Captioning",
+        3
+      ],
+      [
+        "Language Understanding",
+        3
+      ]
+    ],
+    "top_titles": [
+      "UnIVAL: Unified Model for Image, Video, Audio and Language Tasks",
+      "Augmenting Interpretable Models with Large Language Models During Training",
+      "Jointly Learning to Label Sentences and Tokens.",
+      "SOLAR 10.7B: Scaling Large Language Models with Simple Yet Effective Depth Up-Scaling",
+      "Improving and Simplifying Pattern Exploiting Training"
+    ],
+    "size": 7155
+  },
+  "11": {
+    "label": "Language Modeling / Topic Modeling / Syntax-based Translation Models / Neural Machine Translation / Machine Translation",
+    "top_keywords": [
+      [
+        "Language Modeling",
+        9
+      ],
+      [
+        "Topic Modeling",
+        6
+      ],
+      [
+        "Syntax-based Translation Models",
+        5
+      ],
+      [
+        "Neural Machine Translation",
+        4
+      ],
+      [
+        "Machine Translation",
+        4
+      ]
+    ],
+    "top_titles": [
+      "Pretrained Generative Language Models As General Learning Frameworks for Sequence-Based Tasks",
+      "Benchmarking Generalization Via In-Context Instructions on 1, 600+ Language Tasks",
+      "Pre-trained Language Model Representations for Language Generation.",
+      "PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks",
+      "LaMDA: Language Models for Dialog Applications"
+    ],
+    "size": 3999
+  },
+  "7": {
+    "label": "energy efficiency / in-memory computing / Structured Gradient Sparsification / Training-In-Memory Engines / RRAM-based systems",
+    "top_keywords": [
+      [
+        "energy efficiency",
+        2
+      ],
+      [
+        "in-memory computing",
+        2
+      ],
+      [
+        "Structured Gradient Sparsification",
+        1
+      ],
+      [
+        "Training-In-Memory Engines",
+        1
+      ],
+      [
+        "RRAM-based systems",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Long Live TIME: Improving Lifetime for Training-in-memory Engines by Structured Gradient Sparsification.",
+      "14.6 A 1.42TOPS/W Deep Convolutional Neural Network Recognition Processor for Intelligent IoE Systems.",
+      "Deep In-Memory Architectures in SRAM: an Analog Approach to Approximate Computing",
+      "A 2.75-to-75.9tops/w Computing-in-Memory NN Processor Supporting Set-Associate Block-Wise Zero Skipping and Ping-Pong CIM with Simultaneous Computation and Weight Updating",
+      "A 16.38TOPS and 4.55POPS/W SRAM Computing-in-Memory Macro for Signed Operands Computation and Batch Normalization Implementation"
+    ],
+    "size": 2226
+  },
+  "2": {
+    "label": "Language Modeling / Topic Modeling / Machine Translation / Multilingual Neural Machine Translation / Syntax-based Translation Models",
+    "top_keywords": [
+      [
+        "Language Modeling",
+        8
+      ],
+      [
+        "Topic Modeling",
+        4
+      ],
+      [
+        "Machine Translation",
+        4
+      ],
+      [
+        "Multilingual Neural Machine Translation",
+        3
+      ],
+      [
+        "Syntax-based Translation Models",
+        3
+      ]
+    ],
+    "top_titles": [
+      "SOLAR 10.7B: Scaling Large Language Models with Simple Yet Effective Depth Up-Scaling",
+      "Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes.",
+      "Benchmarking Generalization Via In-Context Instructions on 1, 600+ Language Tasks",
+      "Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model",
+      "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems."
+    ],
+    "size": 521
+  },
+  "1": {
+    "label": "Transfer Learning / Meta-Learning / Visual Question Answering / Few-Shot Learning / Feature Matching",
+    "top_keywords": [
+      [
+        "Transfer Learning",
+        3
+      ],
+      [
+        "Meta-Learning",
+        2
+      ],
+      [
+        "Visual Question Answering",
+        1
+      ],
+      [
+        "Few-Shot Learning",
+        1
+      ],
+      [
+        "Feature Matching",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling",
+      "Flamingo: a Visual Language Model for Few-Shot Learning",
+      "DeepSeek-V3 Technical Report",
+      "Large-Scale Retrieval for Reinforcement Learning.",
+      "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs Via Reinforcement Learning"
+    ],
+    "size": 287
+  },
+  "6": {
+    "label": "acoustic modeling / transformer / Language Modeling / Sequence-to-Sequence Learning / Automatic Speech Recognition",
+    "top_keywords": [
+      [
+        "acoustic modeling",
+        2
+      ],
+      [
+        "transformer",
+        2
+      ],
+      [
+        "Language Modeling",
+        2
+      ],
+      [
+        "Sequence-to-Sequence Learning",
+        2
+      ],
+      [
+        "Automatic Speech Recognition",
+        1
+      ]
+    ],
+    "top_titles": [
+      "DeepSeek-V3 Technical Report",
+      "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+      "Scaling ASR Improves Zero and Few Shot Learning",
+      "The Llama 3 Herd of Models.",
+      "Transformer-based Acoustic Modeling for Hybrid Speech Recognition."
+    ],
+    "size": 87
+  },
+  "4": {
+    "label": "Representation Learning / Meta-Learning / Semi-Supervised Learning / Transfer Learning / Image Segmentation",
+    "top_keywords": [
+      [
+        "Representation Learning",
+        3
+      ],
+      [
+        "Meta-Learning",
+        3
+      ],
+      [
+        "Semi-Supervised Learning",
+        2
+      ],
+      [
+        "Transfer Learning",
+        2
+      ],
+      [
+        "Image Segmentation",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Pixel Recurrent Neural Networks.",
+      "Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions.",
+      "Scaling Vision Transformers to 22 Billion Parameters.",
+      "Representation Learning with Contrastive Predictive Coding.",
+      "Improved Conditional VRNNs for Video Prediction"
+    ],
+    "size": 284
+  },
+  "0": {
+    "label": "sparse matrices / GPU / autotuning / Languages / Performance",
+    "top_keywords": [
+      [
+        "sparse matrices",
+        2
+      ],
+      [
+        "GPU",
+        2
+      ],
+      [
+        "autotuning",
+        2
+      ],
+      [
+        "Languages",
+        1
+      ],
+      [
+        "Performance",
+        1
+      ]
+    ],
+    "top_titles": [
+      "Loop and Data Transformations for Sparse Matrix Code",
+      "Bricks: A High-Performance Portability Layer for Computations on Block-Structured Grids",
+      "Automating Wavefront Parallelization for Sparse Matrix Computations",
+      "Optimizing LOBPCG: Sparse Matrix Loop and Data Transformations in Action",
+      "The Sparse Polyhedral Framework: Composing Compiler-Generated Inspector-Executor Code"
+    ],
+    "size": 57
+  },
+  "3": {
+    "label": "Topic Modeling / Word Representation / Language Modeling / Large Language Model / World Knowledge",
+    "top_keywords": [
+      [
+        "Topic Modeling",
+        2
+      ],
+      [
+        "Word Representation",
+        2
+      ],
+      [
+        "Language Modeling",
+        2
+      ],
+      [
+        "Large Language Model",
+        1
+      ],
+      [
+        "World Knowledge",
+        1
+      ]
+    ],
+    "top_titles": [
+      "KoLA: Carefully Benchmarking World Knowledge of Large Language Models",
+      "HyperCLOVA X Technical Report",
+      "The FACTS Grounding Leaderboard: Benchmarking LLMs' Ability to Ground Responses to Long-Form Input",
+      "Gemini 1.5: Unlocking Multimodal Understanding Across Millions of Tokens of Context.",
+      "Gemini: A Family of Highly Capable Multimodal Models."
+    ],
+    "size": 16
+  }
+}
