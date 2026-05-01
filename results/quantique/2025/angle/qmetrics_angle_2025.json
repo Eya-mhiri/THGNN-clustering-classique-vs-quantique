@@ -1,0 +1,58 @@
+{
+  "encoding": "angle",
+  "year": 2025,
+  "n_clusters": 85,
+  "noise": 45966,
+  "noise_pct": 39.0,
+  "silhouette": 0.3465,
+  "davies_bouldin": 0.7064,
+  "calinski_harabasz": 53772.0,
+  "total_authors": 117870,
+  "delta_vs_classic": {
+    "silhouette": -0.0875,
+    "davies_bouldin": 0.0064,
+    "noise_pct": -2.0
+  },
+  "top10_clusters": [
+    {
+      "cluster_id": 57,
+      "size": 7768
+    },
+    {
+      "cluster_id": 38,
+      "size": 3519
+    },
+    {
+      "cluster_id": 41,
+      "size": 3234
+    },
+    {
+      "cluster_id": 51,
+      "size": 3174
+    },
+    {
+      "cluster_id": 32,
+      "size": 2331
+    },
+    {
+      "cluster_id": 60,
+      "size": 1699
+    },
+    {
+      "cluster_id": 30,
+      "size": 1686
+    },
+    {
+      "cluster_id": 8,
+      "size": 1633
+    },
+    {
+      "cluster_id": 22,
+      "size": 1601
+    },
+    {
+      "cluster_id": 26,
+      "size": 1361
+    }
+  ]
+}

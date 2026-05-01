@@ -19,14 +19,14 @@ is_admin = st.session_state.get("is_admin", False)
 # 2. SIDEBAR : FILTRES & GESTION (ACTEUR : ADMIN/USER)
 # ============================================================
 with st.sidebar:
-    st.header("🔍 Paramètres d'Analyse")
+    st.header(" Paramètres d'Analyse")
     
     # Use Case : Analyse longitudinale (Choix de l'année)
     selected_year = st.selectbox("📅 Choisir l'année d'étude", ["2024", "2025"])
     
     # Use Case : Choix de la méthode
-    q_method = st.selectbox("⚛️ Méthode Quantique", 
-                            ["Angle", "Amplitude", "Phase", "IQP", "Variational", "Chebyshev"])
+    q_method = st.selectbox(" Méthode Quantique", 
+                            ["Angle", "Amplitude", "Phase", "Variational"])
     
     st.divider()
     
@@ -51,12 +51,12 @@ with st.sidebar:
 # ============================================================
 # 3. CORPS DE LA PAGE : VISUALISATION & COMPARAISON
 # ============================================================
-st.title(f"🚀 Analyse de Clustering DBLP - {selected_year}")
+st.title(f" Analyse de Clustering DBLP - {selected_year}")
 
 tab_classic, tab_quantum, tab_compare = st.tabs([
-    "🧠 Clustering Classique THGNN", 
-    "⚛️ Clustering Quantique", 
-    "⚖️ Comparaison & Analyse"
+    " -Clustering Classique THGNN", 
+    " -Clustering Quantique", 
+    " -Comparaison & Analyse"
 ])
 
 # --- TAB 1 : CLASSIQUE (Use Case 2.3.1) ---

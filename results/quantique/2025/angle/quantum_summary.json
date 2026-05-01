@@ -1,0 +1,98 @@
+{
+  "description": "Quantum vs Classic clustering \u2014 THGNN DBLP",
+  "vqc_config": {
+    "n_qubits": 7,
+    "n_layers": 3,
+    "pca_dim": 7,
+    "n_epochs": 40,
+    "lr": 0.005,
+    "batch_size": 4098,
+    "k_nn": 15,
+    "lambda_compact": 0.4,
+    "train_sub": 20000,
+    "infer_sub": 30000,
+    "backend": "lightning.qubit"
+  },
+  "hdbscan_params": {
+    "min_cluster_size": 300,
+    "min_samples": 30,
+    "umap_n_neighbors": 15,
+    "umap_metric": "cosine"
+  },
+  "baseline": {
+    "2024": {
+      "silhouette": 0.346,
+      "davies_bouldin": 0.631,
+      "noise_pct": 29.0,
+      "n_clusters": 107,
+      "calinski_harabasz": 61670.0
+    },
+    "2025": {
+      "silhouette": 0.434,
+      "davies_bouldin": 0.7,
+      "noise_pct": 41.0,
+      "n_clusters": 66,
+      "calinski_harabasz": 66597.0
+    }
+  },
+  "quantum": {
+    "angle_2025": {
+      "encoding": "angle",
+      "year": 2025,
+      "n_clusters": 85,
+      "noise": 45966,
+      "noise_pct": 39.0,
+      "silhouette": 0.3465,
+      "davies_bouldin": 0.7064,
+      "calinski_harabasz": 53772.0,
+      "total_authors": 117870,
+      "delta_vs_classic": {
+        "silhouette": -0.0875,
+        "davies_bouldin": 0.0064,
+        "noise_pct": -2.0
+      },
+      "top10_clusters": [
+        {
+          "cluster_id": 57,
+          "size": 7768
+        },
+        {
+          "cluster_id": 38,
+          "size": 3519
+        },
+        {
+          "cluster_id": 41,
+          "size": 3234
+        },
+        {
+          "cluster_id": 51,
+          "size": 3174
+        },
+        {
+          "cluster_id": 32,
+          "size": 2331
+        },
+        {
+          "cluster_id": 60,
+          "size": 1699
+        },
+        {
+          "cluster_id": 30,
+          "size": 1686
+        },
+        {
+          "cluster_id": 8,
+          "size": 1633
+        },
+        {
+          "cluster_id": 22,
+          "size": 1601
+        },
+        {
+          "cluster_id": 26,
+          "size": 1361
+        }
+      ]
+    }
+  }
+}

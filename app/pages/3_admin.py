@@ -29,7 +29,7 @@ with st.expander("⚙️ Configuration des Chemins et Modes", expanded=True):
 # ============================================================
 # 2. INTÉGRITÉ DES DONNÉES (Use Case 1.3)
 # ============================================================
-st.header("📂 Vérification des fichiers (Data & Results)")
+st.header(" Vérification des fichiers (Data & Results)")
 
 def check_files():
     required = [
@@ -54,7 +54,7 @@ if st.button("🔍 Lancer l'audit des données"):
 # ============================================================
 # 3. HYPERPARAMÈTRES D'AFFICHAGE (Use Case 1.1)
 # ============================================================
-st.header("🎛️ Hyperparamètres Globaux")
+st.header(" Hyperparamètres Globaux")
 col_h1, col_h2 = st.columns(2)
 
 with col_h1:
