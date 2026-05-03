@@ -180,16 +180,39 @@ for key, default in {
 # ============================================================
 # AUTHENTIFICATION
 # ============================================================
+
+# Détection environnement local vs cloud
 config_path = os.path.join(os.path.dirname(__file__), "config.yaml")
 
-with open(config_path) as f:
-    config = yaml.load(f, Loader=SafeLoader)
+if os.path.exists(config_path):
+    # Local — lecture du config.yaml
+    with open(config_path) as f:
+        config = yaml.load(f, Loader=SafeLoader)
+    credentials = config["credentials"]
+    cookie_name = config["cookie"]["name"]
+    cookie_key = config["cookie"]["key"]
+    cookie_expiry = config["cookie"]["expiry_days"]
+else:
+    # Streamlit Cloud — lecture depuis st.secrets
+    credentials = {
+        "usernames": {
+            username: {
+                "email": data["email"],
+                "name": data["name"],
+                "password": data["password"]
+            }
+            for username, data in st.secrets["credentials"]["usernames"].items()
+        }
+    }
+    cookie_name = st.secrets["cookie"]["name"]
+    cookie_key = st.secrets["cookie"]["key"]
+    cookie_expiry = st.secrets["cookie"]["expiry_days"]
 
 authenticator = stauth.Authenticate(
-    config["credentials"],
-    config["cookie"]["name"],
-    config["cookie"]["key"],
-    config["cookie"]["expiry_days"],
+    credentials,
+    cookie_name,
+    cookie_key,
+    cookie_expiry,
 )
 
 # ============================================================
