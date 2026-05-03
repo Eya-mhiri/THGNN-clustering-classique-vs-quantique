@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    admin:
+      email: aya.mhiri@ensi-uma.tn
+      name: Administrateur ENSI
+      password: "$2b$12$HASH_AYA"
+    admin2:
+      email: sarra.bouraoui@ensi-uma.tn
+      name: Administrateur ENSI
+      password: "$2b$12$HASH_SARRA"
+
+cookie:
+  expiry_days: 1
+  key: "REMPLACER_PAR_UNE_CLE_SECRETE_LONGUE"
+  name: thgnn_auth_cookie
