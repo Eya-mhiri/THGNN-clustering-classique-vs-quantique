@@ -158,9 +158,19 @@ st.markdown("""
 # ============================================================
 # HELPERS
 # ============================================================
+# ============================================================
+# HELPERS
+# ============================================================
 is_admin = st.session_state.get("is_admin", False)
 BASE     = st.session_state.get("base_path", "")
-RESULTS  = os.path.join(BASE, "results") if BASE else ""
+
+# Si pas de base_path → chemin relatif pour Streamlit Cloud
+if BASE:
+    RESULTS = os.path.join(BASE, "results")
+else:
+    RESULTS = os.path.join(
+        os.path.dirname(__file__), "..", "..", "results"
+    )
 
 METHODS_2024  = ["angle", "amplitude", "variational"]
 METHODS_2025  = ["angle", "amplitude", "variational", "phase"]
