@@ -1,3 +1,21 @@
+# Sécurité — ne jamais pusher
+config.yaml
+.streamlit/secrets.toml
+
+# Données volumineuses
+data/raw/
+data/processed/
+data/embeddings/
+*.jsonl
+*.npy
+*.pt
+*.npz
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
