@@ -236,9 +236,7 @@ with st.sidebar:
     else:
         st.info("Connectez-vous en admin depuis la page d'accueil.")
 
-if not BASE:
-    st.warning("Chemin racine non configuré. Connectez-vous en administrateur et configurez le chemin.")
-    st.stop()
+
 
 # ============================================================
 # TITRE
