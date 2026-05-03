@@ -31,3 +31,6 @@ umap-learn
 
 # Utilitaires
 kaggle
+# Authentification pour Streamlit
+streamlit-authenticator>=0.3.2
+bcrypt>=4.0.0
