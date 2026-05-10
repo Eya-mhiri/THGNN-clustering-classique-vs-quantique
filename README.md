@@ -119,16 +119,16 @@ data/
 | ✅ Retenue | Variational Encoding |
 | ✅ Retenue | Amplitude Encoding |
 | ✅ Retenue | Phase Encoding |
-| 🔬 Explorée | Block Encoding |
-| 🔬 Explorée | Density/Hybrid Encoding |
-| 🔬 Explorée | Directional Encoding |
-| 🔬 Explorée | Entangler Enhanced |
-| 🔬 Explorée | Feature Map Encoding |
-| 🔬 Explorée | QSample Encoding |
-| 🔬 Explorée | Chebyshev Encoding |
-| 🔬 Explorée | Fourier Encoding |
-| 🔬 Explorée | Projected Unitary Encoding |
-| 🔬 Explorée | Scaled Encoding |
+|  Explorée | Block Encoding |
+|  Explorée | Density/Hybrid Encoding |
+|  Explorée | Directional Encoding |
+|  Explorée | Entangler Enhanced |
+| ✅ Retenue | Feature Map Encoding |
+|  Explorée | QSample Encoding |
+|  Explorée | Chebyshev Encoding |
+|  Explorée | Fourier Encoding |
+|  Explorée | Projected Unitary Encoding |
+|  Explorée | Scaled Encoding |
 
 ---
 
