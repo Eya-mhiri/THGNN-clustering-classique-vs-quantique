@@ -150,7 +150,7 @@ streamlit run app/app.py
 | Calcul quantique | PennyLane |
 | Clustering | HDBSCAN, scikit-learn |
 | Visualisation | Streamlit, Plotly, UMAP |
-| Dataset | DBLP via Kaggle |
+| Dataset | DBLP  |
 | Déploiement | Streamlit Cloud |
 
 ---
