@@ -16,6 +16,16 @@ Ce projet propose un pipeline complet d'analyse d'un réseau académique dynamiq
 
 ---
 
+## 🚀 Application déployée
+
+L'interface est disponible en ligne via **Streamlit Cloud** :
+
+👉 **[Accéder à l'application]([https://share.streamlit.io](https://thgnn-clustering-classique-vs-quantique-wrewyr6sah2qn9adoy2xv5.streamlit.app/))**
+
+> Aucune installation requise pour consulter les résultats et visualisations.
+
+---
+
 ## Structure du projet
 
     thgnn-clustering-classique-vs-quantique/
@@ -43,11 +53,11 @@ Le dataset est publié sur Kaggle et contient un graphe hétérogène temporel c
 
 ```bash
 pip install kaggle
-kaggle datasets download <ton-username>/<ton-dataset>
+kaggle datasets download ayamhiri/temporal-graph-dataset
 ```
 
 Ou télécharge manuellement depuis :
-👉 [lien Kaggle](<URL_KAGGLE>)
+👉 [https://www.kaggle.com/datasets/ayamhiri/temporal-graph-dataset/data](https://www.kaggle.com/datasets/ayamhiri/temporal-graph-dataset/data)
 
 Structure du dataset :
 
@@ -120,10 +130,9 @@ data/
 | 🔬 Explorée | Projected Unitary Encoding |
 | 🔬 Explorée | Scaled Encoding |
 
-
 ---
 
-## Lancer l'interface
+## Lancer l'interface en local
 
 ```bash
 pip install -r requirements.txt
@@ -142,6 +151,7 @@ streamlit run app/app.py
 | Clustering | HDBSCAN, scikit-learn |
 | Visualisation | Streamlit, Plotly, UMAP |
 | Dataset | DBLP via Kaggle |
+| Déploiement | Streamlit Cloud |
 
 ---
 
