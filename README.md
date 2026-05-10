@@ -20,7 +20,7 @@ Ce projet propose un pipeline complet d'analyse d'un réseau académique dynamiq
 
 L'interface est disponible en ligne via **Streamlit Cloud** :
 
-👉 **[Accéder à l'application]([https://share.streamlit.io](https://thgnn-clustering-classique-vs-quantique-wrewyr6sah2qn9adoy2xv5.streamlit.app/))**
+👉 *[Accéder à l'application](https://thgnn-clustering-classique-vs-quantique-wrewyr6sah2qn9adoy2xv5.streamlit.app/)*
 
 > Aucune installation requise pour consulter les résultats et visualisations.
 
